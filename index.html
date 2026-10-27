@@ -1,0 +1,674 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>Ginther's Swirls Ice Cream · Twistee Treat of Ocoee &amp; Lake Buena Vista | Est. 1994</title>
+  <meta name="description" content="Family-owned Orlando ice cream stands since 1994: Ginther's Swirls on International Drive, Twistee Treat of Ocoee, and Twistee Treat of Lake Buena Vista. Soft serve, hand-scooped ice cream, Dole Pineapple Whip, quarts, sundaes, Twirls &amp; drive-thru." />
+  <meta name="theme-color" content="#0B4EA2" />
+  <link rel="icon" type="image/webp" href="assets/images/logo/ginthers-logo.webp" />
+  <link rel="apple-touch-icon" href="assets/images/logo/ginthers-logo.png" />
+
+  <!-- Preload critical LCP hero image and logo -->
+  <link rel="preload" as="image" href="assets/images/hero/hero-swirl-cone.webp" fetchpriority="high" />
+  <link rel="preload" as="image" href="assets/images/logo/ginthers-logo.webp" fetchpriority="high" />
+
+  <!-- Google Fonts: Fredoka (parlor signboard display), Kaushan Script (logo-matched script accent), DM Sans (crisp menu & tabular prices) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400..800;1,9..40,400..700&family=Fredoka:wght@500;600;700&family=Kaushan+Script&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-active-store="ginthers">
+
+  <!-- =========================================================================
+       FIRST VIEWPORT: WALK-UP CANOPY HEADER + 3-SPLIT SALIVATING ICE CREAM STAGE
+       (Desktop: 3 arched macro ice cream splits | Mobile: 1 full-screen swirl photo)
+       ========================================================================= -->
+  <header class="parlor-first-view" id="top">
+    <!-- Top Parlor Awning Bar: Text & Store Switcher Above the 3-Split Ice Cream Images -->
+    <div class="awning-bar">
+      <div class="awning-inner">
+        <!-- Brand Medallion -->
+        <a href="#top" class="brand-lockup" aria-label="Ginther Ice Cream Est. 1994 Home">
+          <img
+            src="assets/images/logo/ginthers-logo.webp"
+            alt="Ginther Ice Cream Est. 1994 circular wooden badge logo"
+            class="brand-logo-img"
+            width="64"
+            height="64"
+            fetchpriority="high"
+          />
+          <div class="brand-titles">
+            <span class="brand-est-pill">Family Owned Since 1994</span>
+            <h1 class="brand-main-heading" id="heroStoreTitle">Ginther's Swirls Ice Cream</h1>
+            <p class="brand-sub-location" id="heroStoreSubtitle">11036 International Dr · Behind Wawa next to Applebee's · Drive-Thru &amp; Patio</p>
+          </div>
+        </a>
+
+        <!-- 3-Store Location Switcher (Defaults to Ginther's Swirls) -->
+        <nav class="store-switcher-pillbox" aria-label="Select Ice Cream Location">
+          <button type="button" class="store-switch-btn is-active" data-store="ginthers" aria-pressed="true">
+            <span class="store-dot"></span>
+            <span class="store-btn-copy">
+              <strong>Ginther's Swirls</strong>
+              <small>I-Drive · SeaWorld</small>
+            </span>
+          </button>
+          <button type="button" class="store-switch-btn" data-store="ocoee" aria-pressed="false">
+            <span class="store-dot"></span>
+            <span class="store-btn-copy">
+              <strong>Twistee Treat Ocoee</strong>
+              <small>1500 Maguire Rd</small>
+            </span>
+          </button>
+          <button type="button" class="store-switch-btn" data-store="lbv" aria-pressed="false">
+            <span class="store-dot"></span>
+            <span class="store-btn-copy">
+              <strong>Twistee Treat LBV</strong>
+              <small>Apopka Vineland Rd</small>
+            </span>
+          </button>
+        </nav>
+
+        <!-- Direct Contact + Store-Specific Order Online CTA -->
+        <div class="awning-actions">
+          <a href="tel:+14074771212" class="awning-phone-pill" id="headerPhoneLink" aria-label="Call store">
+            <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2.3" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+            <span id="headerPhoneText">(407) 477-1212</span>
+          </a>
+          <a
+            href="https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFiYnJrNzEwaBgAOgMI8A0%3D"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="order-cta-btn"
+            id="headerOrderBtn"
+          >
+            <span id="headerOrderBtnLabel">Order Online</span>
+          </a>
+        </div>
+      </div>
+      <!-- Scalloped Parlor Canopy Edge -->
+      <div class="awning-scallops" aria-hidden="true"></div>
+    </div>
+
+    <!-- Triple-Split Up-Close Ice Cream Showcase (1 single photo on mobile) -->
+    <div class="hero-triple-split" aria-label="Up-close signature menu treats">
+      <!-- Panel 1 (Visible on Desktop AND the single hero image on Mobile) -->
+      <article class="split-panel split-panel-primary">
+        <picture>
+          <source srcset="assets/images/hero/hero-swirl-cone.webp" type="image/webp" />
+          <img
+            src="assets/images/hero/hero-swirl-cone.png"
+            alt="Up-close Chocolate and Vanilla Swirl Waffle Cone with hot fudge drip and rainbow sprinkles"
+            class="split-hero-img"
+            width="768"
+            height="1024"
+            fetchpriority="high"
+          />
+        </picture>
+        <div class="split-caption-pill">
+          <span class="split-tag">Real Milk &amp; Cream Soft-Serve</span>
+          <strong class="split-item-name">Chocolate/Vanilla Swirl Fancy Waffle Cone</strong>
+        </div>
+      </article>
+
+      <!-- Panel 2 (Desktop Triple-Split Center) -->
+      <article class="split-panel split-panel-desktop-only">
+        <picture>
+          <source srcset="assets/images/hero/hero-dole-float.webp" type="image/webp" />
+          <img
+            src="assets/images/hero/hero-dole-float.png"
+            alt="Up-close Dole Pineapple Soft Serve Float in chilled pineapple juice"
+            class="split-hero-img"
+            width="768"
+            height="1024"
+            fetchpriority="high"
+          />
+        </picture>
+        <div class="split-caption-pill">
+          <span class="split-tag">Dairy-Free · Vegan · 210 Cal</span>
+          <strong class="split-item-name">Dole Pineapple Float &amp; Soft Serve</strong>
+        </div>
+      </article>
+
+      <!-- Panel 3 (Desktop Triple-Split Right) -->
+      <article class="split-panel split-panel-desktop-only">
+        <picture>
+          <source srcset="assets/images/hero/hero-brownie-split.webp" type="image/webp" />
+          <img
+            src="assets/images/hero/hero-brownie-split.png"
+            alt="Up-close Hot Fudge Brownie Boat and Banana Split Sundae with whipped cream, pecans, and cherries"
+            class="split-hero-img"
+            width="768"
+            height="1024"
+          />
+        </picture>
+        <div class="split-caption-pill">
+          <span class="split-tag">Whipped Cream, Nuts &amp; Cherry Included</span>
+          <strong class="split-item-name">Hot Fudge Brownie Boat &amp; Banana Split</strong>
+        </div>
+      </article>
+
+      <!-- Floating Bottom Counter Bar over the Triptych -->
+      <div class="hero-dock-strip">
+        <div class="hero-dock-meta">
+          <span class="live-status-badge" id="heroHoursBadge">Open Daily · 11:00 AM – 10:30 PM (Fri &amp; Sat till 11 PM)</span>
+          <span class="rating-pill" id="heroRatingBadge">★ 4.6 Google (1,513) · ★ 4.8 DoorDash</span>
+        </div>
+        <div class="hero-dock-jumps">
+          <a href="#freezer-quarts" class="dock-jump-pill is-highlight">DoorDash Menu &amp; Prices</a>
+          <a href="#window-menu" class="dock-jump-pill">Walk-Up Window Menu</a>
+          <a href="#sample-gallery" class="dock-jump-pill">Menu Photos</a>
+          <a href="#about-locations" class="dock-jump-pill">About &amp; 3 Stores</a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- =========================================================================
+       ASYMMETRIC PARLOR COUNTER ARCHITECTURE
+       Left Rail: Sticky Drive-Thru Store Totem (Logo, Store Switcher, Live Info, Socials)
+       Right Stage: Dipping Cabinet Quarts & Toppings + Original Sample Tray + Window Menu + Reviews
+       ========================================================================= -->
+  <div class="parlor-workspace">
+
+    <!-- LEFT STICKY DRIVE-THRU & PARLOR TOTEM -->
+    <aside class="parlor-totem" aria-label="Active Store Information and Ordering Totem">
+      <div class="totem-card">
+        <!-- Circular Wood Sign Emblem + Active Store Porthole -->
+        <div class="totem-emblem-row">
+          <img
+            src="assets/images/logo/ginthers-logo.webp"
+            alt="Ginther Ice Cream Est. 1994"
+            class="totem-logo"
+            width="84"
+            height="84"
+            loading="lazy"
+          />
+          <div class="totem-store-porthole">
+            <img
+              src="assets/images/site_originals/twisteetreat/ginthers_swirls_daytime_pic.webp"
+              alt="Ginther's Swirls storefront"
+              id="totemStorePhoto"
+              width="84"
+              height="84"
+              loading="lazy"
+            />
+          </div>
+        </div>
+
+        <!-- Store Switcher Tabs Inside Totem -->
+        <div class="totem-store-tabs" role="tablist" aria-label="Switch Store">
+          <button type="button" class="totem-tab is-active" data-store="ginthers" role="tab" aria-selected="true">Ginther's</button>
+          <button type="button" class="totem-tab" data-store="ocoee" role="tab" aria-selected="false">TT Ocoee</button>
+          <button type="button" class="totem-tab" data-store="lbv" role="tab" aria-selected="false">TT LBV</button>
+        </div>
+
+        <div class="totem-store-details">
+          <span class="totem-store-tag" id="totemStoreTag">Default Store · Opened Mid-Jan 2014</span>
+          <h2 class="totem-store-name" id="totemStoreName">Ginther's Swirls Ice Cream</h2>
+          <p class="totem-store-address" id="totemStoreAddress">11036 International Drive, Orlando, FL 32821</p>
+
+          <div class="totem-info-list">
+            <div class="totem-info-item">
+              <span class="info-label">Phone</span>
+              <a href="tel:+14074771212" class="info-value-link" id="totemStorePhone">(407) 477-1212</a>
+            </div>
+            <div class="totem-info-item">
+              <span class="info-label">Hours</span>
+              <span class="info-value" id="totemStoreHours">Sun–Thu 11am–10:30pm · Fri–Sat 11am–11pm</span>
+            </div>
+            <div class="totem-info-item">
+              <span class="info-label">Email</span>
+              <a href="mailto:alg07c@my.fsu.edu" class="info-value-link" id="totemStoreEmail">alg07c@my.fsu.edu</a>
+            </div>
+          </div>
+
+          <!-- Store Feature Chips -->
+          <div class="totem-feature-chips" id="totemFeatureChips">
+            <span class="feature-chip">Drive-Thru</span>
+            <span class="feature-chip">Night-Lit Patio</span>
+            <span class="feature-chip">Indoor Seating (till 10pm)</span>
+            <span class="feature-chip">Hand-Scooped &amp; Soft Serve</span>
+          </div>
+
+          <!-- Primary Store-Specific Order Online Button -->
+          <a
+            href="https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFiYnJrNzEwaBgAOgMI8A0%3D"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="totem-order-btn"
+            id="totemOrderBtn"
+          >
+            <span id="totemOrderBtnText">Order Online (Pick Service)</span>
+          </a>
+          <p class="totem-order-hint" id="totemOrderHint">Choose your preferred delivery or pickup service on Google</p>
+
+          <!-- Store Socials + Directions Row -->
+          <div class="totem-socials-row">
+            <a
+              href="https://www.facebook.com/GinthersSwirls/"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="totem-social-btn"
+              id="totemFbLink"
+              aria-label="Store Facebook Page"
+            >
+              <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
+              <span>Facebook</span>
+            </a>
+            <a
+              href="https://instagram.com/ginthersswirls"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="totem-social-btn"
+              id="totemIgLink"
+              aria-label="Store Instagram Page"
+            >
+              <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+              <span>Instagram</span>
+            </a>
+            <a
+              href="https://www.google.com/maps/place/Ginther's+Swirls+Ice+Cream/@28.4051444,-81.4567778,18z"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="totem-social-btn"
+              id="totemMapsLink"
+              aria-label="Google Maps Directions"
+            >
+              <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+              <span>Map</span>
+            </a>
+          </div>
+
+          <!-- Job Application Link from Linktree -->
+          <a
+            href="https://docs.google.com/forms/d/e/1FAIpQLSdhErERU75NkssUfJaZ2NQpuGzI1VYHs2BNJug-Hps2rG1mng/viewform"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="totem-apply-bar"
+          >
+            <span>Hiring at all 3 locations · <strong>Apply Now!</strong></span>
+          </a>
+        </div>
+      </div>
+    </aside>
+
+    <!-- RIGHT MAIN STAGE: THE GLASS DIPPING CABINET & WINDOW BOARDS -->
+    <main class="parlor-stage">
+
+      <!-- =====================================================================
+           ZONE 1: DOORDASH FREEZER CABINET (EXACT ITEMS, PRICES & PHOTOS PER STORE)
+           ===================================================================== -->
+      <section class="cabinet-section" id="freezer-quarts" aria-labelledby="cabinetHeading">
+        <div class="cabinet-header">
+          <div class="cabinet-title-group">
+            <span class="parlor-script-tag" id="cabinetStoreScript">Ginther's Swirls · International Drive</span>
+            <h2 class="cabinet-heading" id="cabinetHeading">Online Ordering Menu &amp; Quarts</h2>
+          </div>
+
+          <!-- Category Filter Pills (Populated from active store's exact DoorDash categories) -->
+          <div class="cabinet-filter-bar" id="doordashCategoryBar" role="tablist" aria-label="Menu Categories">
+            <!-- Rendered by app.js -->
+          </div>
+        </div>
+
+        <!-- Store-specific DoorDash status banner -->
+        <div class="cabinet-subbar">
+          <p class="cabinet-subbar-copy" id="cabinetSubbarCopy">
+            Exact menu items, prices, and photos for <strong>Ginther's Swirls</strong> (`store/208167`). Tap any item to order online.
+          </p>
+          <a
+            href="https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFiYnJrNzEwaBgAOgMI8A0%3D"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="cabinet-order-pill"
+            id="cabinetOrderLink"
+          >
+            Order Online Now
+          </a>
+        </div>
+
+        <!-- Dipping Cabinet Tub Grid (Compact circular/tub frames — never blocks viewport) -->
+        <div class="tub-cabinet-grid" id="doordashItemsGrid" aria-live="polite">
+          <!-- Rendered by app.js with exact store items, prices, descriptions, and DoorDash photos -->
+        </div>
+      </section>
+
+      <!-- =====================================================================
+           ZONE 2: "A SAMPLE OF OUR MENU ITEMS" ORIGINAL PHOTO TASTING TRAY
+           (Exact photos from ginthersswirls.com/about-us.html + twisteetreatocoeelbv.com)
+           ===================================================================== -->
+      <section class="tasting-tray-section" id="sample-gallery" aria-labelledby="sampleTrayHeading">
+        <div class="tray-header">
+          <div>
+            <span class="parlor-script-tag">Original Shop Photos</span>
+            <h2 class="cabinet-heading" id="sampleTrayHeading">A Sample of our Menu Items</h2>
+          </div>
+          <span class="tray-scroll-hint">Tap any treat to view close-up</span>
+        </div>
+
+        <!-- Horizontal Parlor Medallion Flight (Compact height so no single image ever hogs the screen) -->
+        <div class="tasting-flight-track" role="list">
+          <button type="button" class="flight-medallion" data-lightbox-src="assets/images/site_originals/ginthers/sample_1_5353663_root_beer_float_orig.webp" data-lightbox-caption="Root Beer Float — Ginther's Swirls Sample Menu Item">
+            <span class="medallion-ring">
+              <img src="assets/images/site_originals/ginthers/sample_1_5353663_root_beer_float_orig.webp" alt="Root Beer Float" width="130" height="130" />
+            </span>
+            <strong class="medallion-title">Root Beer Float</strong>
+          </button>
+
+          <button type="button" class="flight-medallion" data-lightbox-src="assets/images/site_originals/ginthers/sample_2_3384597_slushies_orig.webp" data-lightbox-caption="Slushies — Ginther's Swirls Sample Menu Item">
+            <span class="medallion-ring">
+              <img src="assets/images/site_originals/ginthers/sample_2_3384597_slushies_orig.webp" alt="Slushies" width="130" height="130" />
+            </span>
+            <strong class="medallion-title">Slushies</strong>
+          </button>
+
+          <button type="button" class="flight-medallion" data-lightbox-src="assets/images/site_originals/ginthers/sample_3_1369144_orig.webp" data-lightbox-caption="Traditional Banana Split — Ginther's Swirls Sample Menu Item">
+            <span class="medallion-ring">
+              <img src="assets/images/site_originals/ginthers/sample_3_1369144_orig.webp" alt="Traditional Banana Split" width="130" height="130" />
+            </span>
+            <strong class="medallion-title">Traditional Banana Split</strong>
+          </button>
+
+          <button type="button" class="flight-medallion" data-lightbox-src="assets/images/site_originals/ginthers/sample_4_1651725_orig.webp" data-lightbox-caption="Hot Fudge Brownie Boat — Ginther's Swirls Sample Menu Item">
+            <span class="medallion-ring">
+              <img src="assets/images/site_originals/ginthers/sample_4_1651725_orig.webp" alt="Hot Fudge Brownie Boat" width="130" height="130" />
+            </span>
+            <strong class="medallion-title">Hot Fudge Brownie Boat</strong>
+          </button>
+
+          <button type="button" class="flight-medallion" data-lightbox-src="assets/images/site_originals/ginthers/sample_5_1851170_orig.webp" data-lightbox-caption="Chocolate-Dipped Soft Serve Cone — Ginther's Swirls Sample Menu Item">
+            <span class="medallion-ring">
+              <img src="assets/images/site_originals/ginthers/sample_5_1851170_orig.webp" alt="Chocolate-Dipped Soft Serve Cone" width="130" height="130" />
+            </span>
+            <strong class="medallion-title">Chocolate-Dipped Cone</strong>
+          </button>
+
+          <button type="button" class="flight-medallion" data-lightbox-src="assets/images/site_originals/ginthers/sample_6_7011146_orig.webp" data-lightbox-caption="Chocolate/Vanilla Swirl Cone — Ginther's Swirls Sample Menu Item">
+            <span class="medallion-ring">
+              <img src="assets/images/site_originals/ginthers/sample_6_7011146_orig.webp" alt="Chocolate/Vanilla Swirl Cone" width="130" height="130" />
+            </span>
+            <strong class="medallion-title">Chocolate/Vanilla Swirl</strong>
+          </button>
+
+          <button type="button" class="flight-medallion" data-lightbox-src="assets/images/site_originals/ginthers/sample_7_6604462_orig.webp" data-lightbox-caption="Mocha / Chocolate Shake — Ginther's Swirls Sample Menu Item">
+            <span class="medallion-ring">
+              <img src="assets/images/site_originals/ginthers/sample_7_6604462_orig.webp" alt="Mocha Freezer / Chocolate Shake" width="130" height="130" />
+            </span>
+            <strong class="medallion-title">Mocha Freezer / Shake</strong>
+          </button>
+
+          <button type="button" class="flight-medallion" data-lightbox-src="assets/images/site_originals/ginthers/sample_8_1196562_orig.webp" data-lightbox-caption="Layered Parfait Sundae — Ginther's Swirls Sample Menu Item">
+            <span class="medallion-ring">
+              <img src="assets/images/site_originals/ginthers/sample_8_1196562_orig.webp" alt="Layered Parfait Sundae" width="130" height="130" />
+            </span>
+            <strong class="medallion-title">Layered Parfait</strong>
+          </button>
+
+          <button type="button" class="flight-medallion" data-lightbox-src="assets/images/site_originals/twisteetreat/home_cover_picture_ice_cream.webp" data-lightbox-caption="Flavorburst Soft-Serve Cones — Twistee Treat &amp; Ginther's Swirls">
+            <span class="medallion-ring">
+              <img src="assets/images/site_originals/twisteetreat/home_cover_picture_ice_cream.webp" alt="Seven Flavorburst Soft-Serve Cones" width="130" height="130" />
+            </span>
+            <strong class="medallion-title">Flavorburst Cones</strong>
+          </button>
+        </div>
+      </section>
+
+      <!-- =====================================================================
+           ZONE 3: OFFICIAL WALK-UP & DRIVE-THRU WINDOW MENU BOARD (PER STORE)
+           (Pulled verbatim from twisteetreatocoeelbv.com/ginthers-swirls, /ocoee-1, /lbv)
+           ===================================================================== -->
+      <section class="window-menu-section" id="window-menu" aria-labelledby="windowMenuHeading">
+        <div class="window-board-header">
+          <div>
+            <span class="parlor-script-tag" id="windowMenuStoreLabel">Ginther's Swirls Official Walk-Up &amp; Drive-Thru Board</span>
+            <h2 class="cabinet-heading" id="windowMenuHeading">Full In-Store &amp; Drive-Thru Menu</h2>
+          </div>
+          <div class="window-board-actions" id="windowBoardPhotoBtns">
+            <!-- Populated by app.js with button(s) to view the original physical window menu board photo -->
+          </div>
+        </div>
+
+        <!-- Interactive Window Board Category Tabs -->
+        <div class="window-board-tabs" id="windowBoardTabs" role="tablist" aria-label="In-Store Menu Sections">
+          <button type="button" class="wb-tab is-active" data-wb="cones" role="tab" aria-selected="true">Cones, Cups &amp; Scoops</button>
+          <button type="button" class="wb-tab" data-wb="shakes" role="tab" aria-selected="false">Shakes, Malts &amp; Twirls</button>
+          <button type="button" class="wb-tab" data-wb="sundaes" role="tab" aria-selected="false">Sundaes, Boats &amp; Splits</button>
+          <button type="button" class="wb-tab" data-wb="freezers" role="tab" aria-selected="false">Freezers, Slushes &amp; Drinks</button>
+        </div>
+
+        <!-- Dynamic Store-Specific Official Menu Content -->
+        <div class="window-board-canvas" id="windowBoardCanvas">
+          <!-- Populated by app.js from exact official menu of the selected location -->
+        </div>
+
+        <!-- Official Store Policy Strip from Menu Boards -->
+        <div class="parlor-policy-strip">
+          <span><strong>Cash Policy:</strong> We are sorry, but we cannot accept bills over $20.00.</span>
+          <span><strong>Allergy Notice:</strong> Be advised that there are peanuts and peanut products in our facility. Please advise us if you are allergic.</span>
+        </div>
+      </section>
+
+      <!-- =====================================================================
+           ZONE 4: EXACT ABOUT US STATEMENT & ALL 3 FAMILY LOCATIONS DECK
+           ===================================================================== -->
+      <section class="about-locations-section" id="about-locations" aria-labelledby="aboutUsHeading">
+        <div class="about-split-layout">
+
+          <!-- Left Column: Exact Verbatim About Us from ginthersswirls.com/about-us.html -->
+          <article class="verbatim-about-card">
+            <div class="verbatim-card-top">
+              <span class="parlor-script-tag">Since 1994 · The Ginther Family</span>
+              <h2 class="cabinet-heading" id="aboutUsHeading">About Us</h2>
+            </div>
+            <div class="verbatim-prose">
+              <p>We are a family-owned small business operating two Twistee Treat locations and our newest Ginther's Swirls. Ginther's Swirls Ice Cream opened mid-January 2014. It is a few miles down from SeaWorld at the corner of  International Drive and Central Florida Parkway. We are located behind the Wawa next to AppleBees. We have outdoor patio seating with night lighting, indoor seating, and a drive-though for your convenience.</p>
+              <p>We serve soft serve ice cream using the same great ingredients as our two Twistee Treat locations. We are also now serving hand-scooped ice cream in eight popular tasty flavors. Please see our menu for pricing.</p>
+              <p>Our products are made from real milk and cream served in waffle cones, sugar cones, and cups. We also offer fat-free, sugar-free vanilla soft-serve. We have dips, Flavorburst, sprinkles, and various toppings to add to your dessert. You can also choose milk shakes, malts, Twirls (shakes with chunks of candy or toppings), sundaes, splits, smoothies, floats, and Chillers.  We can customize your order to suit your taste. Just ask!</p>
+            </div>
+            <div class="family-licensee-note">
+              <p>Welcome to Twistee Treat of Ocoee, Twistee Treat of Lake Buena Vista, and Ginther's Swirls Website. We have been family-owned and operated since 1994. Twistee Treat of Ocoee and Twistee Treat of Lake Buena Vista are a direct licensee and have been granted the right to continue to use the name from Twistee Treat USA.</p>
+            </div>
+          </article>
+
+          <!-- Right Column: 3 Family Stores Interactive Switcher Cards with Original Storefront Photos -->
+          <div class="three-stores-stack" aria-label="Our 3 Orlando &amp; Ocoee Locations">
+            <!-- Card 1: Ginther's Swirls -->
+            <article class="store-directory-card is-selected" data-store-card="ginthers">
+              <div class="store-card-thumb-wrap">
+                <img src="assets/images/site_originals/twisteetreat/ginthers_swirls_daytime_pic.webp" alt="Ginther's Swirls Ice Cream building with patio umbrellas and soft-serve cone statues" class="store-card-thumb" width="96" height="96" loading="lazy" />
+                <img src="assets/images/site_originals/ginthers/header_1397759894.webp" alt="Ginther's Swirls neon sign at night" class="store-card-thumb-secondary" width="48" height="48" loading="lazy" />
+              </div>
+              <div class="store-card-body">
+                <div class="store-card-title-row">
+                  <h3>Ginther's Swirls Ice Cream</h3>
+                  <span class="store-active-pill">I-Drive</span>
+                </div>
+                <p class="store-card-addr">11036 International Drive, Orlando, FL 32821 · <a href="tel:+14074771212">407-477-1212</a></p>
+                <p class="store-card-hours">Sun–Thu: 11:00 am – 10:30 pm (till 11 pm Jun–Aug 13) · Fri &amp; Sat: 11:00 am – 11:00 pm · Indoor Seating till 10 pm</p>
+                <div class="store-card-links">
+                  <button type="button" class="store-view-menu-btn" data-store="ginthers">View Store Menu</button>
+                  <a href="https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFiYnJrNzEwaBgAOgMI8A0%3D" target="_blank" rel="noopener noreferrer" class="store-direct-order-link">Order Online</a>
+                  <a href="https://www.facebook.com/GinthersSwirls/" target="_blank" rel="noopener noreferrer" class="store-social-mini">FB</a>
+                  <a href="https://instagram.com/ginthersswirls" target="_blank" rel="noopener noreferrer" class="store-social-mini">IG</a>
+                </div>
+              </div>
+            </article>
+
+            <!-- Card 2: Twistee Treat of Ocoee -->
+            <article class="store-directory-card" data-store-card="ocoee">
+              <div class="store-card-thumb-wrap">
+                <img src="assets/images/site_originals/twisteetreat/ocoee_store_pic_cropped_031417.webp" alt="Twistee Treat of Ocoee giant ice-cream cone building" class="store-card-thumb" width="96" height="96" loading="lazy" />
+              </div>
+              <div class="store-card-body">
+                <div class="store-card-title-row">
+                  <h3>Twistee Treat of Ocoee</h3>
+                  <span class="store-active-pill">Giant Cone Building</span>
+                </div>
+                <p class="store-card-addr">1500 Maguire Road, Ocoee, FL 34761 · <a href="tel:+14078776888">407-877-6888</a></p>
+                <p class="store-card-verbatim">Our Ocoee store is in the shape of a giant chocolate/vanilla ice-cream cone! It has a drive-thru and an outdoor seating area.</p>
+                <p class="store-card-hours">Sun–Thu: 10:30 am – 10:30 pm (till 11 pm Jun–Aug 13) · Fri &amp; Sat: 10:30 am – 11:00 pm</p>
+                <div class="store-card-links">
+                  <button type="button" class="store-view-menu-btn" data-store="ocoee">View Store Menu</button>
+                  <a href="https://www.doordash.com/store/255046/" target="_blank" rel="noopener noreferrer" class="store-direct-order-link">Order Online</a>
+                  <a href="https://www.facebook.com/Twistee-Treat-of-Ocoee-153952792074/" target="_blank" rel="noopener noreferrer" class="store-social-mini">FB</a>
+                  <a href="https://instagram.com/twisteetreatocoee" target="_blank" rel="noopener noreferrer" class="store-social-mini">IG</a>
+                </div>
+              </div>
+            </article>
+
+            <!-- Card 3: Twistee Treat of LBV -->
+            <article class="store-directory-card" data-store-card="lbv">
+              <div class="store-card-thumb-wrap">
+                <img src="assets/images/site_originals/twisteetreat/lbv_store_pic_0001.webp" alt="Twistee Treat of Lake Buena Vista storefront" class="store-card-thumb" width="96" height="96" loading="lazy" />
+              </div>
+              <div class="store-card-body">
+                <div class="store-card-title-row">
+                  <h3>Twistee Treat of Lake Buena Vista</h3>
+                  <span class="store-active-pill">LBV Plaza</span>
+                </div>
+                <p class="store-card-addr">11947 South Apopka Vineland Road, Orlando, FL 32836 · <a href="tel:+14072391400">407-239-1400</a></p>
+                <p class="store-card-verbatim">Located in front of the Winn-Dixie shopping plaza with indoor seating, outdoor patio, convenient drive thru, and creamy hand-scooped ice cream.</p>
+                <p class="store-card-hours">Sun–Thu: 11:00 am – 10:30 pm (till 11 pm Jun–Aug 13) · Fri &amp; Sat: 11:00 am – 11:00 pm</p>
+                <div class="store-card-links">
+                  <button type="button" class="store-view-menu-btn" data-store="lbv">View Store Menu</button>
+                  <a href="https://www.doordash.com/store/474439/" target="_blank" rel="noopener noreferrer" class="store-direct-order-link">Order Online</a>
+                  <a href="https://www.facebook.com/TwisteeLBV/" target="_blank" rel="noopener noreferrer" class="store-social-mini">FB</a>
+                  <a href="https://instagram.com/twisteetreatlbv" target="_blank" rel="noopener noreferrer" class="store-social-mini">IG</a>
+                </div>
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <!-- =====================================================================
+           ZONE 5: GOOGLE MAPS VERIFIED REVIEWS & "ABOUT" HIGHLIGHTS
+           ===================================================================== -->
+      <section class="reviews-section" id="reviews" aria-labelledby="reviewsHeading">
+        <div class="reviews-header">
+          <div>
+            <span class="parlor-script-tag">4.6★ Across 1,513 Google Reviews</span>
+            <h2 class="cabinet-heading" id="reviewsHeading">What Ice Cream Lovers Say</h2>
+          </div>
+          <!-- Topic filter tags extracted directly from Google Maps -->
+          <div class="review-topic-pills" id="reviewTopicBar">
+            <button type="button" class="topic-pill is-active" data-topic="all">All (1,513)</button>
+            <button type="button" class="topic-pill" data-topic="soft serve">Soft Serve (67)</button>
+            <button type="button" class="topic-pill" data-topic="friendly staff">Friendly Staff (221)</button>
+            <button type="button" class="topic-pill" data-topic="drive thru">Drive Thru (58)</button>
+            <button type="button" class="topic-pill" data-topic="banana split">Banana Split (38)</button>
+            <button type="button" class="topic-pill" data-topic="dole whip">Dole Whip (15)</button>
+          </div>
+        </div>
+
+        <!-- Google Maps "About" Tab Attributes Bar -->
+        <div class="google-about-badges" aria-label="Google Maps Verified Highlights">
+          <span class="g-badge">✓ Drive-Through</span>
+          <span class="g-badge">✓ Walk-Up Window</span>
+          <span class="g-badge">✓ Dine-In &amp; Outdoor Seating</span>
+          <span class="g-badge">✓ No-Contact Delivery &amp; Pickup</span>
+          <span class="g-badge">✓ Wheelchair Accessible Entrance, Lot &amp; Restroom</span>
+          <span class="g-badge">✓ Free Parking Lot</span>
+          <span class="g-badge">✓ Dogs Allowed Outside (YoPup Doggie Yogurt!)</span>
+          <span class="g-badge">✓ Credit, Debit &amp; NFC Mobile Payments</span>
+        </div>
+
+        <!-- Reviews Grid (Populated by app.js from exact Google Maps reviews) -->
+        <div class="reviews-grid" id="reviewsGrid">
+          <!-- Populated by app.js -->
+        </div>
+      </section>
+
+      <!-- =====================================================================
+           FOOTER: LINKTREE SOCIAL HUB, EMAIL CONTACTS & JOB APPLICATION
+           ===================================================================== -->
+      <footer class="parlor-footer" id="contact">
+        <div class="footer-top-grid">
+          <div class="footer-brand-col">
+            <img src="assets/images/logo/ginthers-logo.webp" alt="Ginther Ice Cream Est. 1994" width="76" height="76" loading="lazy" />
+            <div>
+              <h3>The Ginther Family of Ice Cream</h3>
+              <p>Family-owned and operated since 1994 · Serving Orlando, International Drive, Ocoee &amp; Lake Buena Vista.</p>
+              <p class="footer-emails">
+                <span>Ocoee Contact: <a href="mailto:Ginther300@yahoo.com">Ginther300@yahoo.com</a></span> ·
+                <span>LBV &amp; Ginther's Contact: <a href="mailto:alg07c@my.fsu.edu">alg07c@my.fsu.edu</a> / <a href="mailto:Ginthericecream@yahoo.com">Ginthericecream@yahoo.com</a></span>
+              </p>
+            </div>
+          </div>
+
+          <!-- Complete Linktree Social & Application Directory -->
+          <div class="footer-linktree-grid" aria-label="Official Social Links and Job Application">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdhErERU75NkssUfJaZ2NQpuGzI1VYHs2BNJug-Hps2rG1mng/viewform" target="_blank" rel="noopener noreferrer" class="lt-chip is-apply">
+              Apply Now! (Job Application Form)
+            </a>
+            <a href="https://www.facebook.com/GinthersSwirls/" target="_blank" rel="noopener noreferrer" class="lt-chip">
+              Ginther’s Swirls Facebook
+            </a>
+            <a href="https://instagram.com/ginthersswirls" target="_blank" rel="noopener noreferrer" class="lt-chip">
+              Ginther’s Swirls Instagram
+            </a>
+            <a href="https://www.facebook.com/Twistee-Treat-of-Ocoee-153952792074/" target="_blank" rel="noopener noreferrer" class="lt-chip">
+              Twistee Treat of Ocoee Facebook
+            </a>
+            <a href="https://instagram.com/twisteetreatocoee" target="_blank" rel="noopener noreferrer" class="lt-chip">
+              Twistee Treat of Ocoee Instagram
+            </a>
+            <a href="https://www.facebook.com/TwisteeLBV/" target="_blank" rel="noopener noreferrer" class="lt-chip">
+              Twistee Treat LBV Facebook
+            </a>
+            <a href="https://instagram.com/twisteetreatlbv" target="_blank" rel="noopener noreferrer" class="lt-chip">
+              Twistee Treat of LBV Instagram
+            </a>
+          </div>
+        </div>
+      </footer>
+
+    </main>
+  </div>
+
+  <!-- =========================================================================
+       NATIVE MOBILE BOTTOM DOCK (Store Switcher + Call + Order Online)
+       ========================================================================= -->
+  <nav class="mobile-parlor-dock" aria-label="Mobile Store Switcher and Ordering">
+    <button type="button" class="m-dock-store is-active" data-store="ginthers">
+      <span class="m-dock-dot"></span>
+      <span>Ginther's</span>
+    </button>
+    <button type="button" class="m-dock-store" data-store="ocoee">
+      <span class="m-dock-dot"></span>
+      <span>TT Ocoee</span>
+    </button>
+    <button type="button" class="m-dock-store" data-store="lbv">
+      <span class="m-dock-dot"></span>
+      <span>TT LBV</span>
+    </button>
+    <a href="tel:+14074771212" class="m-dock-call" id="mobileDockPhone" aria-label="Call Active Store">Call</a>
+    <a
+      href="https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFiYnJrNzEwaBgAOgMI8A0%3D"
+      target="_blank"
+      rel="noopener noreferrer"
+      class="m-dock-order"
+      id="mobileDockOrder"
+    >
+      Order
+    </a>
+  </nav>
+
+  <!-- =========================================================================
+       LIGHTBOX MODAL FOR ORIGINAL SAMPLE PHOTOS & OFFICIAL WINDOW MENU BOARDS
+       ========================================================================= -->
+  <dialog class="parlor-lightbox" id="parlorLightbox" aria-label="Photo Preview">
+    <div class="lightbox-frame">
+      <button type="button" class="lightbox-close" id="lightboxCloseBtn" aria-label="Close preview">✕ Close</button>
+      <img src="" alt="" id="lightboxImg" class="lightbox-img" />
+      <p id="lightboxCaption" class="lightbox-caption"></p>
+    </div>
+  </dialog>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

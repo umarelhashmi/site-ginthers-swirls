@@ -1,0 +1,292 @@
+AXWindow | Ginther's Swirls Ice Cream - Google Maps - Google Chrome - Umar
+AXGroup | Ginther's Swirls Ice Cream - Google Maps - Google Chrome - Umar | https://www.google.com/maps/place/Ginther's+Swirls+Ice+Cream/@28.4051444,-81.4580653,18z/data=!4m8!3m7!1s0x88e77e275bcec9b5:0x273bf4d492489dbb!8m2!3d28.4051444!4d-81.4567778!9m1!1b1!16s%2Fg%2F11bbrk710h!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D
+AXButton | Back | Back
+AXButton | Forward | Forward
+AXButton | Reload | Reload
+AXPopUpButton | View site information | View site information
+AXTextField | Address and search bar | Address and search bar | google.com/maps/place/Ginther's+Swirls+Ice+Cream/@28.4051444,-81.4580653,18z/data=!4m8!3m7!1s0x88e77e275bcec9b5:0x273bf4d492489dbb!8m2!3d28.4051444!4d-81.4567778!9m1!1b1!16s%2Fg%2F11bbrk710h!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D
+AXButton | Install Google Maps | Install Google Maps
+AXButton | Bookmark this tab | Bookmark this tab
+AXPopUpButton | Extensions | Extensions
+AXButton | Umar | Umar
+AXPopUpButton | Relaunch to update | Relaunch to update
+AXWebArea | Ginther's Swirls Ice Cream - Google Maps | https://www.google.com/maps/place/Ginther's+Swirls+Ice+Cream/@28.4051444,-81.4580653,18z/data=!4m8!3m7!1s0x88e77e275bcec9b5:0x273bf4d492489dbb!8m2!3d28.4051444!4d-81.4567778!9m1!1b1!16s%2Fg%2F11bbrk710h!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D
+AXGroup | Google Maps | Google Maps
+AXGroup | Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key. | Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key.
+AXButton | Back | Back
+AXComboBox | Ginther's Swirls Ice Cream
+AXButton | Search | Search
+AXButton | Close | Close
+AXGroup | Available search options for this area | Available search options for this area
+AXButton | Nearby restaurants
+AXButton | Hotels
+AXButton | Things to do
+AXButton | Bars
+AXButton | Coffee
+AXButton | Takeout
+AXButton | Groceries
+AXGroup | Ginther's Swirls Ice Cream | Ginther's Swirls Ice Cream
+AXRadioButton | Overview of Ginther's Swirls Ice Cream | Overview of Ginther's Swirls Ice Cream
+AXRadioButton | Menu | Menu
+AXRadioButton | Reviews for Ginther's Swirls Ice Cream | Reviews for Ginther's Swirls Ice Cream
+AXRadioButton | About Ginther's Swirls Ice Cream | About Ginther's Swirls Ice Cream
+AXStaticText | Get pickup or delivery
+AXStaticText | See menus and fees
+AXLink | Order online | Order online | https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFiYnJrNzEwaBgAOgMI8A0%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=tSrhaq3hJ8eIwbkP0dyY4Qw&ei=tSrhaq3hJ8eIwbkP0dyY4Qw&fo_s=OA&opi=79508299&ebb=1&cs=0&foub=mcpp
+AXStaticText | Order online
+AXPopUpButton | Information | Information
+AXImage | 5 stars, 1,225 reviews | 5 stars, 1,225 reviews
+AXImage | 4 stars, 164 reviews | 4 stars, 164 reviews
+AXImage | 3 stars, 40 reviews | 3 stars, 40 reviews
+AXImage | 2 stars, 28 reviews | 2 stars, 28 reviews
+AXImage | 1 stars, 56 reviews | 1 stars, 56 reviews
+AXStaticText | 4.6
+AXImage | 4.6 stars | 4.6 stars
+AXStaticText | 1,513 reviews
+AXStaticText | People say this ice cream shop offers delicious, creamy soft serve and hard ice cream with a wide variety of flavors and toppings, including popular options like pineapple Dole Whip. They also highlight the generous portion sizes and very reasonable prices. Visitors appreciate the friendly, attentive staff and the convenient drive-thru and walk-up window service.
+AXStaticText | +7
+AXStaticText | Summarized with Gemini
+AXButton | Actions for this review summary | Actions for this review summary
+AXButton | Write a review | Write a review
+AXButton | Search reviews | Search reviews
+AXButton | Sort reviews | Sort reviews
+AXRadioGroup | Refine reviews | Refine reviews
+AXRadioButton | All reviews | All reviews
+AXStaticText | All
+AXRadioButton | soft serve, mentioned in 67 reviews | soft serve, mentioned in 67 reviews
+AXStaticText | soft serve
+AXStaticText | 67
+AXRadioButton | dole whip, mentioned in 15 reviews | dole whip, mentioned in 15 reviews
+AXStaticText | dole whip
+AXStaticText | 15
+AXRadioButton | drive thru, mentioned in 58 reviews | drive thru, mentioned in 58 reviews
+AXStaticText | drive thru
+AXStaticText | 58
+AXRadioButton | Banana Split, mentioned in 38 reviews | Banana Split, mentioned in 38 reviews
+AXStaticText | Banana Split
+AXStaticText | 38
+AXRadioButton | large scoops, mentioned in 18 reviews | large scoops, mentioned in 18 reviews
+AXStaticText | large scoops
+AXStaticText | 18
+AXRadioButton | outdoor seating, mentioned in 17 reviews | outdoor seating, mentioned in 17 reviews
+AXStaticText | outdoor seating
+AXStaticText | 17
+AXRadioButton | butter pecan, mentioned in 8 reviews | butter pecan, mentioned in 8 reviews
+AXStaticText | butter pecan
+AXStaticText | 8
+AXRadioButton | shakes, mentioned in 30 reviews | shakes, mentioned in 30 reviews
+AXStaticText | shakes
+AXStaticText | 30
+AXRadioButton | friendly staff, mentioned in 221 reviews | friendly staff, mentioned in 221 reviews
+AXStaticText | friendly staff
+AXStaticText | 221
+AXRadioButton | hot fudge sundae, mentioned in 5 reviews | hot fudge sundae, mentioned in 5 reviews
+AXStaticText | hot fudge sundae
+AXStaticText | 5
+AXGroup | Tanya Grace | Tanya Grace
+AXButton | Photo of Tanya Grace | Photo of Tanya Grace
+AXButton | Tanya Grace Local Guide · 255 reviews · 1,945 photos
+AXButton | Actions for Tanya Grace's review | Actions for Tanya Grace's review
+AXImage | 5 stars | 5 stars
+AXStaticText | 7 months ago
+AXStaticText | ✨First visit to Ginther’s on a Sunday evening in March after a full day at a nearby theme park. We intentionally avoided spending on overpriced theme park treats and needless to say, so glad we did. …
+AXButton | See more | See more
+AXButton | Pomegranate ice cream with chocolate sprinkles. | Pomegranate ice cream with chocolate sprinkles.
+AXButton | Video | Video
+AXCheckBox | Like | Like
+AXStaticText | Like
+AXButton | Share Tanya Grace's review. | Share Tanya Grace's review.
+AXStaticText | Response from the owner
+AXStaticText |  
+AXStaticText | 7 months ago
+AXStaticText | We appreciate the wonderful review , Tanya! We look forward to seeing you again
+AXGroup | Sam Petkunas | Sam Petkunas
+AXButton | Photo of Sam Petkunas | Photo of Sam Petkunas
+AXButton | Sam Petkunas Local Guide · 28 reviews · 19 photos
+AXButton | Actions for Sam Petkunas's review | Actions for Sam Petkunas's review
+AXImage | 5 stars | 5 stars
+AXStaticText | 7 months ago
+AXStaticText | Just wow!
+My daughter, brother-in-law and I attended Megacon Orlando today and decided to go for a sweet treat afterwards. Ginther's was located close by and had great …
+AXButton | See more | See more
+AXButton | Photo 1 on Sam Petkunas's review | Photo 1 on Sam Petkunas's review
+AXButton | Photo 2 on Sam Petkunas's review | Photo 2 on Sam Petkunas's review
+AXButton | Photo 3 on Sam Petkunas's review | Photo 3 on Sam Petkunas's review
+AXCheckBox | Like | Like
+AXStaticText | Like
+AXButton | Share Sam Petkunas's review. | Share Sam Petkunas's review.
+AXStaticText | Response from the owner
+AXStaticText |  
+AXStaticText | 7 months ago
+AXStaticText | Thank you for the wonderful review, Sam! Looking forward to your next visit!
+AXGroup | M D | M D
+AXButton | Photo of M D | Photo of M D
+AXButton | M D Local Guide · 109 reviews · 640 photos
+AXButton | Actions for M D's review | Actions for M D's review
+AXImage | 5 stars | 5 stars
+AXStaticText | 2 months ago
+AXStaticText | I rarely give 5 stars but this place was great.  Big scoops without the big price.  Service was great    We went twice during our stay in Orlando.  The first time it was really crowded and took a while.  The second time we got our ice cream in 5 minutes.
+AXButton | Caramel Truffle | Caramel Truffle
+AXButton | Black Cherry.  | Black Cherry. 
+AXCheckBox | Like | Like
+AXStaticText | Like
+AXButton | Share M D's review. | Share M D's review.
+AXGroup | Chad Carroll | Chad Carroll
+AXButton | Photo of Chad Carroll | Photo of Chad Carroll
+AXButton | Chad Carroll Local Guide · 159 reviews · 1,305 photos
+AXButton | Actions for Chad Carroll's review | Actions for Chad Carroll's review
+AXImage | 5 stars | 5 stars
+AXStaticText | 5 months ago
+AXStaticText | I went back to Ginther's Swirls Ice Cream for the pineapple float because apparently my grown adult responsibilities now include chasing frozen fruit sugar like a retired beach dad in flip-flops. And listen... that thing is dangerous. …
+AXButton | See more | See more
+AXButton | Photo 1 on Chad Carroll's review | Photo 1 on Chad Carroll's review
+AXButton | Photo 2 on Chad Carroll's review | Photo 2 on Chad Carroll's review
+AXCheckBox | 1 like | 1 like
+AXStaticText | 1
+AXButton | Share Chad Carroll's review. | Share Chad Carroll's review.
+AXStaticText | Response from the owner
+AXStaticText |  
+AXStaticText | 4 months ago
+AXStaticText | Chad! This is such an amazing review, thank you! Please email me at Ginthericecream@yahoo.com !
+AXGroup | Courtney Moscarella | Courtney Moscarella
+AXButton | Photo of Courtney Moscarella | Photo of Courtney Moscarella
+AXButton | Courtney Moscarella Local Guide · 6 reviews · 20 photos
+AXButton | Actions for Courtney Moscarella's review | Actions for Courtney Moscarella's review
+AXImage | 5 stars | 5 stars
+AXStaticText | 4 months ago
+AXStaticText | First time at Ginther's and we will definitely be back! The menu is extensive and the prices are cheap. We got the hard scoop banana split that felt like it weighed 5 pounds and it was absolutely delicious. They also let you swap out the toppings. Highly recommend!
+AXButton | Photo 1 on Courtney Moscarella's review | Photo 1 on Courtney Moscarella's review
+AXButton | Photo 2 on Courtney Moscarella's review | Photo 2 on Courtney Moscarella's review
+AXCheckBox | Like | Like
+AXStaticText | Like
+AXButton | Share Courtney Moscarella's review. | Share Courtney Moscarella's review.
+AXGroup | Jun | Jun
+AXButton | Photo of Jun | Photo of Jun
+AXButton | Jun Local Guide · 59 reviews · 103 photos
+AXButton | Actions for Jun's review | Actions for Jun's review
+AXImage | 5 stars | 5 stars
+AXStaticText | 10 months ago
+AXStaticText | We were totally craving something sweet, so I went for a classic soft serve vanilla ice cream in a waffle cone. It was so incredibly thick and creamy! Easily one of the best soft serves I've ever had. …
+AXButton | See more | See more
+AXButton | Photo 1 on Jun's review | Photo 1 on Jun's review
+AXButton | Photo 2 on Jun's review | Photo 2 on Jun's review
+AXCheckBox | Like | Like
+AXStaticText | Like
+AXButton | Share Jun's review. | Share Jun's review.
+AXStaticText | Response from the owner
+AXStaticText |  
+AXStaticText | 9 months ago
+AXStaticText | Thank you for your great review!
+AXGroup | EL_CABE | EL_CABE
+AXButton | Photo of EL_CABE | Photo of EL_CABE
+AXButton | EL_CABE Local Guide · 301 reviews · 1,795 photos
+AXButton | Actions for EL_CABE's review | Actions for EL_CABE's review
+AXImage | 4 stars | 4 stars
+AXStaticText | a year ago
+AXStaticText | Ginther’s Swirls Ice Cream is a fun little spot that’s perfect when you're craving a good ice cream. The vibe is relaxed, the service is friendly, and the ice cream? Definitely very good! They’ve got a nice variety of flavors and swirls, …
+AXButton | See more | See more
+AXButton | Photo 1 on EL_CABE's review | Photo 1 on EL_CABE's review
+AXButton | Photo 2 on EL_CABE's review | Photo 2 on EL_CABE's review
+AXButton | Photo 3 on EL_CABE's review | Photo 3 on EL_CABE's review
+AXButton | + 4 more photos on EL_CABE's review | + 4 more photos on EL_CABE's review
+AXCheckBox | Like | Like
+AXStaticText | Like
+AXButton | Share EL_CABE's review. | Share EL_CABE's review.
+AXStaticText | Response from the owner
+AXStaticText |  
+AXStaticText | 7 months ago
+AXStaticText | Thank you ! We do have a rotating soft serve and scoop flavor ! Ask for our current specialities ! 
+AXGroup | lilian gonzalez | lilian gonzalez
+AXButton | Photo of lilian gonzalez | Photo of lilian gonzalez
+AXButton | lilian gonzalez Local Guide · 234 reviews · 1,548 photos
+AXButton | Actions for lilian gonzalez's review | Actions for lilian gonzalez's review
+AXImage | 5 stars | 5 stars
+AXStaticText | 9 months ago
+AXStaticText | I loved this ice cream location! Customer service is top notch and the frozen treats are very affordable I spend less then 13 dollars and got vanilla and chocolate swirl with cherries and a vanilla soft serve and a small mango milkshake. …
+AXButton | See more | See more
+AXButton | Photo 1 on lilian gonzalez's review | Photo 1 on lilian gonzalez's review
+AXButton | Photo 2 on lilian gonzalez's review | Photo 2 on lilian gonzalez's review
+AXCheckBox | Like | Like
+AXStaticText | Like
+AXButton | Share lilian gonzalez's review. | Share lilian gonzalez's review.
+AXStaticText | Response from the owner
+AXStaticText |  
+AXStaticText | 8 months ago
+AXStaticText | Thanks so much Lilian! We will remind our staff to use extra mango flavor to increase the strength! 
+AXGroup | CBFB | CBFB
+AXButton | Photo of CBFB | Photo of CBFB
+AXButton | CBFB Local Guide · 457 reviews · 2,279 photos
+AXButton | Actions for CBFB's review | Actions for CBFB's review
+AXImage | 5 stars | 5 stars
+AXStaticText | a year ago
+AXGroup | What a great little ice cream shop! After doing some mini golf we figured some ice cream would cool us off and Ginther's did not disappoint. … See more | What a great little ice cream shop! After doing some mini golf we figured some ice cream would cool us off and Ginther's did not disappoint. … See more
+AXStaticText | What a great little ice cream shop! After doing some mini golf we figured some ice cream would cool us off and Ginther's did not disappoint. …
+AXButton | See more | See more
+AXButton | Photo 1 on CBFB's review | Photo 1 on CBFB's review
+AXButton | Photo 2 on CBFB's review | Photo 2 on CBFB's review
+AXButton | Photo 3 on CBFB's review | Photo 3 on CBFB's review
+AXButton | + 3 more photos on CBFB's review | + 3 more photos on CBFB's review
+AXCheckBox | Like | Like
+AXStaticText | Like
+AXButton | Share CBFB's review. | Share CBFB's review.
+AXGroup | Bobbi Bourgeois | Bobbi Bourgeois
+AXButton | Photo of Bobbi Bourgeois | Photo of Bobbi Bourgeois
+AXButton | Bobbi Bourgeois Local Guide · 19 reviews · 5 photos
+AXButton | Actions for Bobbi Bourgeois's review | Actions for Bobbi Bourgeois's review
+AXImage | 5 stars | 5 stars
+AXStaticText | 3 months ago
+AXStaticText | Delicious and quick! Cute little spot right outside of SeaWorld! Us and the kids enjoyed this treat in this crazy hot weather. We ordered 2 shakes and kids soft serve.
+AXCheckBox | Like | Like
+AXStaticText | Like
+AXButton | Share Bobbi Bourgeois's review. | Share Bobbi Bourgeois's review.
+AXButton | Collapse side panel | Collapse side panel
+AXButton | Google apps | Google apps
+AXButton | Google Account: Umar Shah (umarashah7861@gmail.com), Google membership | Google Account: Umar Shah (umarashah7861@gmail.com), Google membership
+AXGroup | Terrain | Terrain
+AXHeading | Terrain
+AXStaticText | Terrain
+AXStaticText | View topography and elevation
+AXCheckBox | Show terrain | Show terrain
+AXCheckBox | Show Your Location | Show Your Location
+AXButton | Zoom in | Zoom in
+AXButton | Zoom out | Zoom out
+AXButton | Browse Street View images | Browse Street View images
+AXButton | Street View | Street View
+AXGroup | Interactive map | Interactive map
+AXStaticText | Layers
+AXButton | Layers
+AXStaticText | Map data ©2026 
+AXButton | United States
+AXButton | Terms
+AXButton | Privacy
+AXButton | Send Product Feedback
+AXButton | 100 ft
+AXPopUpButton | Tab search | Tab search
+AXRadioButton | [QUALIFICATION] Evaluating Responses from AI Assistants v21 | [QUALIFICATION] Evaluating Responses from AI Assistants v21
+AXRadioButton | app.dataannotation.tech/publish/g/Y2YbKXRWMicPXQAjLAZ-Lww1QxAKWyhQLRwTXQgIAmI0V2ZhPjcScjw0DRc= | app.dataannotation.tech/publish/g/Y2YbKXRWMicPXQAjLAZ-Lww1QxAKWyhQLRwTXQgIAmI0V2ZhPjcScjw0DRc=
+AXRadioButton | Settings | Settings
+AXRadioButton | Play, at Ibn Hashim | Play, at Ibn Hashim
+AXRadioButton | Ibn Hashim Exams | Ibn Hashim Exams
+AXRadioButton | how to update video on app store - Google Search | how to update video on app store - Google Search
+AXRadioButton | App Store Connect | App Store Connect
+AXRadioButton | ‎AVIA Studio Mobile: AI Editor App - App Store | ‎AVIA Studio Mobile: AI Editor App - App Store
+AXRadioButton | Product catalog – AVIA Studios – Stripe - High memory usage - 1.0 GB | Product catalog – AVIA Studios – Stripe - High memory usage - 1.0 GB
+AXRadioButton | using the word "haywaan naatiq" to describe the master | Sunniport | using the word "haywaan naatiq" to describe the master | Sunniport
+AXRadioButton | what is an actionable insight - Google Search | what is an actionable insight - Google Search
+AXRadioButton | what is a live coding interview test - Google Search | what is a live coding interview test - Google Search
+AXRadioButton | How to solve a Google coding interview question - YouTube | How to solve a Google coding interview question - YouTube
+AXRadioButton | Umar Shah | LinkedIn - High memory usage - 1.4 GB | Umar Shah | LinkedIn - High memory usage - 1.4 GB
+AXRadioButton | Mushaf Ibn Hashim | Ibn Hashim Institute | Mushaf Ibn Hashim | Ibn Hashim Institute
+AXRadioButton | tajweed quran 15 pdf - Google Search | tajweed quran 15 pdf - Google Search
+AXRadioButton | madani quran tajweed - Google Search | madani quran tajweed - Google Search
+AXRadioButton | Tajweed Moshaf | Tajweed Moshaf
+AXRadioButton | 040Quran15tajweedi.pdf - High memory usage - 2.2 GB | 040Quran15tajweedi.pdf - High memory usage - 2.2 GB
+AXRadioButton | Download the 16-Line Color-Coded Tajweed Quran PDF (Para 1 to 30) - Irfan ul Quran | Download the 16-Line Color-Coded Tajweed Quran PDF (Para 1 to 30) - Irfan ul Quran
+AXRadioButton | Download Mushaf | Download Mushaf
+AXRadioButton | Ginther's Swirls Ice Cream - Google Maps | Ginther's Swirls Ice Cream - Google Maps
+AXButton | Close | Close
+AXRadioButton | Inbox (556) - umarashah7861@gmail.com - Gmail | Inbox (556) - umarashah7861@gmail.com - Gmail
+AXRadioButton | Nona’s Urban Pizza | Orlando, FL | Nona’s Urban Pizza | Orlando, FL
+AXRadioButton | Generative AI Dashboard | Run Image, Video, 3D and Audio Models | fal | Generative AI Dashboard | Run Image, Video, 3D and Audio Models | fal
+AXButton | New Tab | New Tab
+AXButton | Ask Gemini | Ask Gemini

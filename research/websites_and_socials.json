@@ -1,0 +1,1118 @@
+{
+  "business_overview": {
+    "family_name": "The Ginther Family",
+    "established": 1994,
+    "ginthers_swirls_opened": "Mid-January 2014",
+    "ownership_statement": "Family-owned and operated small business since 1994 operating two Twistee Treat locations (Twistee Treat of Ocoee and Twistee Treat of Lake Buena Vista, direct licensees of Twistee Treat USA) and Ginther's Swirls Ice Cream.",
+    "contacts": {
+      "ocoee_email": "Ginther300@yahoo.com",
+      "lbv_and_ginthers_swirls_email": "alg07c@my.fsu.edu"
+    },
+    "policies": {
+      "cash_policy": "We are sorry, but we cannot accept bills over $20.00.",
+      "allergy_notice": "Be advised that there are peanuts and peanut products in our facility. Please advise us if you are allergic. We will take every available precaution to protect you, but there is an inherent risk."
+    }
+  },
+  "ginthersswirls_com": {
+    "base_url": "https://ginthersswirls.com",
+    "platform": "Weebly (hosted by iPage)",
+    "site_title": "Ginther's Swirls Ice Cream",
+    "header_cta_text": "Like us on Facebook!",
+    "header_facebook_link": "https://www.facebook.com/GinthersSwirls",
+    "header_banner_image": {
+      "url": "https://ginthersswirls.com/uploads/3/4/7/5/34751539/header_images/1397759894.jpg",
+      "local_path": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/ginthers/header_1397759894.jpg",
+      "description": "Night/dusk exterior photo of Ginther's Swirls building with illuminated 'Swirls' neon sign, red patio umbrellas, black metal patio fencing, and drive-thru lane on the left."
+    },
+    "pages": {
+      "home": {
+        "url": "https://ginthersswirls.com/",
+        "title": "Ginther's Swirls Ice Cream - Home",
+        "headline": "Welcome to Ginther's Swirls Ice Cream Shop",
+        "address_raw": "11036 International Drive\nOrlando, FL 32831",
+        "address_note": "Note: ginthersswirls.com lists zip code 32831 (a typo); twisteetreatocoeelbv.com/ginthers-swirls lists the correct USPS zip code 32821.",
+        "phone": "407-477-1212",
+        "hours_of_operation_exact": "Normal Hours of Operation:\nWe are open from 11:00 am to 10:30 pm Sun-Thurs (open until 11:00 pm June-August 13).\nFridays and Saturdays, we are open until 11:00 pm.\nOur indoor seating closes at 10 pm every day.",
+        "buttons": [
+          {
+            "text": "Our Other Locations",
+            "url": "http://www.twisteetreatocoeelbv.com"
+          },
+          {
+            "text": "Click here to complete an application",
+            "url": "https://goo.gl/forms/pkBDpj2aeD95rQG33",
+            "redirects_to": "https://docs.google.com/forms/d/e/1FAIpQLSdhErERU75NkssUfJaZ2NQpuGzI1VYHs2BNJug-Hps2rG1mng/viewform?usp=send_form"
+          }
+        ],
+        "map_coordinates": {
+          "latitude": 28.4052243,
+          "longitude": -81.4562494,
+          "zoom": 15
+        }
+      },
+      "about_us": {
+        "url": "https://ginthersswirls.com/about-us.html",
+        "title": "About Us - Ginther's Swirls Ice Cream",
+        "heading": "About Us",
+        "exact_about_us_statement_word_for_word": "We are a family-owned small business operating two Twistee Treat locations and our newest Ginther's Swirls. Ginther's Swirls Ice Cream opened mid-January 2014. It is a few miles down from SeaWorld at the corner of  International Drive and Central Florida Parkway. We are located behind the Wawa next to AppleBees. We have outdoor patio seating with night lighting, indoor seating, and a drive-though for your convenience.\n\nWe serve soft serve ice cream using the same great ingredients as our two Twistee Treat locations. We are also now serving hand-scooped ice cream in eight popular tasty flavors. Please see our menu for pricing.\n\nOur products are made from real milk and cream served in waffle cones, sugar cones, and cups. We also offer fat-free, sugar-free vanilla soft-serve. We have dips, Flavorburst, sprinkles, and various toppings to add to your dessert. You can also choose milk shakes, malts, Twirls (shakes with chunks of candy or toppings), sundaes, splits, smoothies, floats, and Chillers.  We can customize your order to suit your taste. Just ask!",
+        "exact_about_us_html": "<div class=\"paragraph\" style=\"text-align:left;\">We are a family-owned small business operating two Twistee Treat locations and our newest Ginther's Swirls. Ginther's Swirls Ice Cream&nbsp;opened&nbsp;mid-January 2014. It is a few miles down&nbsp;from SeaWorld at the corner of &nbsp;International Drive and Central Florida Parkway. We are located behind the Wawa next to AppleBees. We have outdoor patio seating with night lighting, indoor seating, and a drive-though for your convenience.<br /><br />We serve soft serve ice cream using the&nbsp;same great ingredients as our&nbsp;two Twistee Treat locations. We are also now serving hand-scooped ice cream in eight popular tasty flavors. Please see our menu for pricing.<br /><br />Our products are made&nbsp;from real milk and cream served in waffle cones, sugar cones, and cups. We also offer fat-free, sugar-free vanilla soft-serve. We have dips, Flavorburst, sprinkles, and various toppings to add to your dessert. You can also choose milk shakes, malts, Twirls (shakes with chunks of candy or toppings), sundaes, splits, smoothies, floats, and Chillers.&nbsp;&nbsp;We can customize your order to suit your taste. Just ask!<br /></div>",
+        "sample_menu_items_heading": "A Sample of our Menu Items",
+        "sample_menu_items_photos": [
+          {
+            "index": 1,
+            "id": "5353663",
+            "caption": "Root Beer Float",
+            "alt": null,
+            "title": null,
+            "width": 166,
+            "height": 250,
+            "slideshow_url": "https://ginthersswirls.com/uploads/3/4/7/5/34751539/5353663.jpg",
+            "original_high_res_url": "https://ginthersswirls.com/uploads/3/4/7/5/34751539/5353663_orig.jpg",
+            "local_path_slideshow": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/ginthers/sample_1_5353663_root_beer_float.jpg",
+            "local_path_orig": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/ginthers/sample_1_5353663_root_beer_float_orig.jpg",
+            "visual_description": "Root Beer Float in a tall patterned paper cup with vanilla soft-serve swirl and red straw next to an A&W Root Beer can on a teal mat against a blue backdrop."
+          },
+          {
+            "index": 2,
+            "id": "3384597",
+            "caption": "Slushies",
+            "alt": null,
+            "title": null,
+            "width": 333,
+            "height": 222,
+            "slideshow_url": "https://ginthersswirls.com/uploads/3/4/7/5/34751539/3384597.jpg",
+            "original_high_res_url": "https://ginthersswirls.com/uploads/3/4/7/5/34751539/3384597_orig.jpg",
+            "local_path_slideshow": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/ginthers/sample_2_3384597_slushies.jpg",
+            "local_path_orig": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/ginthers/sample_2_3384597_slushies_orig.jpg",
+            "visual_description": "Three clear plastic cups filled with bright blue, yellow, and red slushies with red straws on a pink circular mat."
+          },
+          {
+            "index": 3,
+            "id": "1369144",
+            "caption": null,
+            "alt": null,
+            "title": null,
+            "width": 333,
+            "height": 222,
+            "slideshow_url": "https://ginthersswirls.com/uploads/3/4/7/5/34751539/1369144.jpg",
+            "original_high_res_url": "https://ginthersswirls.com/uploads/3/4/7/5/34751539/1369144_orig.jpg",
+            "local_path_slideshow": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/ginthers/sample_3_1369144.jpg",
+            "local_path_orig": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/ginthers/sample_3_1369144_orig.jpg",
+            "visual_description": "Traditional Banana Split in a white foam boat dish with sliced banana, three mounds of whipped cream topped with maraschino cherries, and chopped nuts."
+          },
+          {
+            "index": 4,
+            "id": "1651725",
+            "caption": null,
+            "alt": null,
+            "title": null,
+            "width": 333,
+            "height": 222,
+            "slideshow_url": "https://ginthersswirls.com/uploads/3/4/7/5/34751539/1651725.jpg",
+            "original_high_res_url": "https://ginthersswirls.com/uploads/3/4/7/5/34751539/1651725_orig.jpg",
+            "local_path_slideshow": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/ginthers/sample_4_1651725.jpg",
+            "local_path_orig": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/ginthers/sample_4_1651725_orig.jpg",
+            "visual_description": "Hot Fudge Brownie Boat in a white foam boat dish with brownie squares, hot fudge, chopped nuts, three mounds of whipped cream, and three maraschino cherries."
+          },
+          {
+            "index": 5,
+            "id": "1851170",
+            "caption": null,
+            "alt": null,
+            "title": null,
+            "width": 166,
+            "height": 250,
+            "slideshow_url": "https://ginthersswirls.com/uploads/3/4/7/5/34751539/1851170.jpg",
+            "original_high_res_url": "https://ginthersswirls.com/uploads/3/4/7/5/34751539/1851170_orig.jpg",
+            "local_path_slideshow": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/ginthers/sample_5_1851170.jpg",
+            "local_path_orig": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/ginthers/sample_5_1851170_orig.jpg",
+            "visual_description": "Chocolate-dipped vanilla soft-serve ice cream cone in a wafer/cake cone."
+          },
+          {
+            "index": 6,
+            "id": "7011146",
+            "caption": null,
+            "alt": null,
+            "title": null,
+            "width": 168,
+            "height": 250,
+            "slideshow_url": "https://ginthersswirls.com/uploads/3/4/7/5/34751539/7011146.jpg",
+            "original_high_res_url": "https://ginthersswirls.com/uploads/3/4/7/5/34751539/7011146_orig.jpg",
+            "local_path_slideshow": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/ginthers/sample_6_7011146.jpg",
+            "local_path_orig": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/ginthers/sample_6_7011146_orig.jpg",
+            "visual_description": "Chocolate/Vanilla Swirl soft-serve ice cream cone in a wafer/cake cone."
+          },
+          {
+            "index": 7,
+            "id": "6604462",
+            "caption": null,
+            "alt": null,
+            "title": null,
+            "width": 166,
+            "height": 250,
+            "slideshow_url": "https://ginthersswirls.com/uploads/3/4/7/5/34751539/6604462.jpg",
+            "original_high_res_url": "https://ginthersswirls.com/uploads/3/4/7/5/34751539/6604462_orig.jpg",
+            "local_path_slideshow": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/ginthers/sample_7_6604462.jpg",
+            "local_path_orig": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/ginthers/sample_7_6604462_orig.jpg",
+            "visual_description": "Mocha/Chocolate Freezer or Milkshake in a clear cup topped with whipped cream, chocolate syrup drizzle, and a red straw."
+          },
+          {
+            "index": 8,
+            "id": "1196562",
+            "caption": null,
+            "alt": null,
+            "title": null,
+            "width": 166,
+            "height": 250,
+            "slideshow_url": "https://ginthersswirls.com/uploads/3/4/7/5/34751539/1196562.jpg",
+            "original_high_res_url": "https://ginthersswirls.com/uploads/3/4/7/5/34751539/1196562_orig.jpg",
+            "local_path_slideshow": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/ginthers/sample_8_1196562.jpg",
+            "local_path_orig": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/ginthers/sample_8_1196562_orig.jpg",
+            "visual_description": "Layered Parfait / Sundae in a clear plastic cup with chocolate fudge, berry/strawberry sauce, soft serve, pineapple/peach topping, chopped nuts/granola, whipped cream, cherry, and white spoon."
+          },
+          {
+            "index": 9,
+            "id": "5010654",
+            "caption": null,
+            "alt": null,
+            "title": null,
+            "width": 333,
+            "height": 222,
+            "slideshow_url": "https://ginthersswirls.com/uploads/3/4/7/5/34751539/5010654.jpg",
+            "original_high_res_url": "https://ginthersswirls.com/uploads/3/4/7/5/34751539/5010654_orig.jpg",
+            "local_path_slideshow": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/ginthers/sample_9_5010654.jpg",
+            "local_path_orig": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/ginthers/sample_9_5010654_orig.jpg",
+            "visual_description": "Duplicate of photo #3 (Traditional Banana Split in a white foam boat dish)."
+          }
+        ]
+      },
+      "our_menu": {
+        "url": "https://ginthersswirls.com/our-menu.html",
+        "title": "Our Menu - Ginther's Swirls Ice Cream",
+        "heading": "Our Menu",
+        "menu_images": {
+          "published_url": "https://ginthersswirls.com/uploads/3/4/7/5/34751539/published/no-whip-1-menu-2021-swirls-front-windows-no-prices.jpg?1791402182",
+          "edited_url": "https://ginthersswirls.com/uploads/3/4/7/5/34751539/edited/no-whip-1-menu-2021-swirls-front-windows-no-prices.jpg",
+          "uncorrupted_orig_url": "https://ginthersswirls.com/uploads/3/4/7/5/34751539/no-whip-1-menu-2021-swirls-front-windows-no-prices_orig.jpg",
+          "local_path_published": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/ginthers/menu_published_no_prices.jpg",
+          "local_path_edited": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/ginthers/menu_edited_no_prices.jpg",
+          "local_path_orig": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/ginthers/menu_orig_no_prices.jpg",
+          "note": "On ginthersswirls.com/our-menu.html, the displayed/edited image has an accidental Weebly editor 'Double-click to edit' red watermark and cropped right side, whereas the _orig.jpg on Weebly and the full-resolution image on twisteetreatocoeelbv.com/ginthers-swirls are clean and uncropped."
+        }
+      }
+    }
+  },
+  "twisteetreatocoeelbv_com": {
+    "base_url": "https://twisteetreatocoeelbv.com",
+    "platform": "GoDaddy Website Builder",
+    "copyright": "Copyright © 2023 TwisteeTreatOcoeeLBV.com - All Rights Reserved.",
+    "navigation_links": [
+      {
+        "title": "Home Page",
+        "url": "https://twisteetreatocoeelbv.com/home-page"
+      },
+      {
+        "title": "Ocoee",
+        "url": "https://twisteetreatocoeelbv.com/ocoee-1"
+      },
+      {
+        "title": "LBV",
+        "url": "https://twisteetreatocoeelbv.com/lbv"
+      },
+      {
+        "title": "Ginther's Swirls",
+        "url": "https://twisteetreatocoeelbv.com/ginthers-swirls"
+      },
+      {
+        "title": "Order Online",
+        "url": "https://twisteetreatocoeelbv.com/order-online"
+      }
+    ],
+    "pages": {
+      "home_page": {
+        "url": "https://twisteetreatocoeelbv.com/home-page",
+        "banner_titles": [
+          "Twistee Treat of Ocoee",
+          "Twistee Treat of Lake Buena Vista",
+          "Ginther's Swirls"
+        ],
+        "heading": "Welcome",
+        "exact_text": "Welcome to Twistee Treat of Ocoee, Twistee Treat of Lake Buena Vista, and Ginther's Swirls Website. We have been family-owned and operated since 1994.\n\nTwistee Treat of Ocoee and Twistee Treat of Lake Buena Vista are a direct licensee and have been granted the right to continue to use the name from Twistee Treat USA. If you need information regarding new or other Twistee Treat locations, please contact Twistee Treat USA directly at TwisteeTreat.com.\n\nIf you have any problems or questions regarding our Twistee Treat of Ocoee location, please contact us directly at Ginther300@yahoo.com . If you have any problems or questions regarding Twistee Treat of Lake Buena Vista or Ginther's Swirls, please contact us directly alg07c@my.fsu.edu .\n\nThank you for your continued support of our family businesses and the entire Twistee Treat and Ginther family of businesses.",
+        "images": [
+          {
+            "url": "https://img1.wsimg.com/isteam/ip/4061f81f-4e21-47da-a9df-15ccbcba098d/Cover%20Picture%20Ice%20Cream.jpg",
+            "local_path": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/twisteetreat/home_cover_picture_ice_cream.jpg",
+            "alt": "Home ",
+            "description": "Group of 7 Flavorburst striped soft-serve ice cream cones."
+          }
+        ]
+      },
+      "ocoee": {
+        "url": "https://twisteetreatocoeelbv.com/ocoee-1",
+        "name": "Twistee Treat of Ocoee",
+        "location": "1500 Maguire Road Ocoee, Florida 34761",
+        "phone": "407-877-6888",
+        "hours_of_operation": "Sunday-Thursday: 10:30 am-10:30 pm (open until 11:00 pm June-August 13) Friday & Saturday: 10:30 am- 11:00 pm",
+        "about_exact": "Our Ocoee store is in the shape of a giant chocolate/vanilla ice-cream cone! It has a drive-thru and an outdoor seating area.",
+        "store_photo": {
+          "url": "https://img1.wsimg.com/isteam/ip/4061f81f-4e21-47da-a9df-15ccbcba098d/Ocoee%20pic%20cropped%20031417.jpg",
+          "local_path": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/twisteetreat/ocoee_store_pic_cropped_031417.jpg",
+          "description": "Iconic giant chocolate-and-vanilla swirl cone-shaped Twistee Treat building in Ocoee with purple umbrellas and outdoor patio seating."
+        },
+        "menu_heading": "Twistee Treat of Ocoee Menu",
+        "menu_images": [
+          {
+            "url": "https://img1.wsimg.com/isteam/ip/4061f81f-4e21-47da-a9df-15ccbcba098d/No%20whip%20Menu%202021%20Ocoee%20Front%20Window%201-515998b.jpg",
+            "local_path": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/twisteetreat/ocoee_menu_2021_front_window_1.jpg"
+          }
+        ],
+        "official_menu": {
+          "cones_and_cups": {
+            "sizes_and_types": [
+              "Child Cone or Cup",
+              "Small Cone or Cup",
+              "Medium Cone or Cup",
+              "Large Cone or Cup",
+              "Small Waffle Cone",
+              "Large Waffle Cone",
+              "Small Fancy Waffle",
+              "Large Fancy Waffle",
+              "YoPup Doggie Yogurt"
+            ],
+            "soft_serve_flavors": [
+              "Vanilla",
+              "Chocolate",
+              "Strawberry",
+              "Mint",
+              "Chocolate/Vanilla Swirl",
+              "Strawberry/Vanilla Swirl",
+              "Mint/Vanilla Swirl"
+            ],
+            "non_dairy_vegan_fat_free": [
+              "Dole Pineapple",
+              "Froconut (made with coconut base)",
+              "Pineapple/Froconut Swirl"
+            ]
+          },
+          "flavorburst_additional_cost": [
+            "Black Cherry",
+            "Blue Goo",
+            "Bubblegum",
+            "Butter Pecan",
+            "Mocha Cappuccino",
+            "Peach Twist",
+            "Pina Colada",
+            "Tropical Orange"
+          ],
+          "dips_sprinkles_toppings": [
+            "Rainbow/Chocolate/Holiday Sprinkles/Peanuts",
+            "Chocolate/Cherry/Butterscotch Dips",
+            "Nuts (Almonds/Pecans/Walnuts/Pralines)",
+            "Sundae/Candy Toppings"
+          ],
+          "milkshakes_malts_and_twirls": {
+            "sizes": [
+              "Child (12 oz)",
+              "Small (16 oz)",
+              "Medium (20 oz)",
+              "Large (32 oz)"
+            ],
+            "flavors": [
+              "Banana",
+              "Birthday Cake",
+              "Blueberry",
+              "Blue Raspberry",
+              "Brownie",
+              "Brownie Fudge",
+              "Butterfinger",
+              "Butter Pecan",
+              "Caramel",
+              "Cherry",
+              "Chocolate",
+              "Chocolate Chip",
+              "Coffee",
+              "Cookie Dough",
+              "Cookies & Cream",
+              "Gummy Bears",
+              "Hazelnut",
+              "Heath",
+              "Hot Fudge",
+              "M & M",
+              "Mango",
+              "Marshmallow",
+              "Mint",
+              "Mint Chocolate Chip",
+              "Mint Cookies & Cream",
+              "Nutella",
+              "Orange Cream",
+              "Peach",
+              "Peanut Butter",
+              "Pecan Pralines",
+              "Pina Colada",
+              "Pineapple",
+              "Pistachio Nut",
+              "Raspberry",
+              "Reese's Peanut Butter Cups",
+              "Reese's Pieces",
+              "Rum Raisin",
+              "Snickers",
+              "Strawberry",
+              "Vanilla"
+            ],
+            "note": "Double ingredients or more than two flavors are charged an additional topping charge."
+          },
+          "sundaes": {
+            "sizes": [
+              "Small",
+              "Medium",
+              "Large"
+            ],
+            "toppings_choose_one": [
+              "Blueberry",
+              "Butterscotch",
+              "Caramel",
+              "Cherry",
+              "Chocolate Syrup",
+              "Cookies & Cream",
+              "Hot Fudge",
+              "Marshmallow",
+              "Nutella",
+              "Peach",
+              "Peanut Butter",
+              "Pineapple",
+              "Raspberry",
+              "Strawberry"
+            ]
+          },
+          "specialty_sundaes": {
+            "sizes": [
+              "Small",
+              "Medium",
+              "Large"
+            ],
+            "items": [
+              "Almond Joy Hot Fudge",
+              "Brownie Hot Fudge",
+              "Pecan Pralines",
+              "Turtle"
+            ]
+          },
+          "specialties": {
+            "items": [
+              "Traditional Banana Split",
+              "Hot Fudge Banana Boat",
+              "Hot Fudge Brownie Boat",
+              "Ice Cream Float",
+              "Parfait",
+              "Pint",
+              "Quart"
+            ],
+            "note": "Whipped cream, nuts and cherry included with sundaes, splits, boats and parfaits."
+          },
+          "dole_pineapple_float": {
+            "size": "One Size (12 oz)",
+            "dietary": "Dairy Free/Fat Free, Gluten Free/Vegan, 210 Calories"
+          },
+          "hard_ice_cream_frozen_quarts": [
+            "Brownie Fudge",
+            "Chocolate",
+            "Chocolate Chip Mint",
+            "Cookie Dough",
+            "Cookies and Cream",
+            "Dole Pineapple",
+            "Neapolitan",
+            "Reeses Peanut Butter Cup",
+            "Strawberry",
+            "Vanilla"
+          ],
+          "freezers": {
+            "sizes": [
+              "Child (12 oz)",
+              "Small (16 oz)",
+              "Medium (20 oz)",
+              "Large (32 oz)"
+            ],
+            "flavors": [
+              "Coffee",
+              "Hazelnut",
+              "Kahlua",
+              "Mango",
+              "Mocha",
+              "Orange Cream",
+              "Peaches & Cream",
+              "Pina Colada",
+              "Strawberry Cream"
+            ]
+          },
+          "slush_float_and_slush": {
+            "sizes": [
+              "Child",
+              "Small",
+              "Medium",
+              "Large"
+            ],
+            "flavors": [
+              "Blue Raspberry",
+              "Cherry",
+              "Mango",
+              "Orange",
+              "Pina Colada",
+              "Strawberry",
+              "Watermelon"
+            ]
+          },
+          "drinks": {
+            "sizes": [
+              "Small",
+              "Large",
+              "Water"
+            ],
+            "flavors": [
+              "Coke",
+              "Diet Coke",
+              "Pepsi",
+              "Sunkist",
+              "Root Beer",
+              "Sprite",
+              "Dr. Pepper"
+            ]
+          },
+          "footer_notes": [
+            "We are sorry, but we cannot accept bills over $20.00.",
+            "Be advised that there are peanuts and peanut products in our facility. Please advise us if you are allergic. We will take every available precaution to protect you, but there is an inherent risk.",
+            "We appreciate your business and are so glad to be a part of this community. The Ginther Family"
+          ]
+        }
+      },
+      "lbv": {
+        "url": "https://twisteetreatocoeelbv.com/lbv",
+        "name": "Twistee Treat of Lake Buena Vista (LBV)",
+        "location": "11947 South Apopka Vineland Road Orlando, Florida 32836",
+        "phone": "407-239-1400",
+        "hours_of_operation": "Sunday-Thursday: 11:00 am-10:30 pm (open until 11:00 pm June-August 13) Friday & Saturday: 11:00 am- 11:00 pm",
+        "about_exact": "Twistee Treat of Lake Buena Vista is located in front of the Winn-Dixie shopping plaza. Unlike Ocoee, it is located in a \"regular\" building (to match the surrounding buildings). It has a wonderful indoor seating area, outdoor patio, and convenient drive thru. We are now serving creamy hand-scooped ice cream in popular flavors. Please see our menu for flavors and pricing.",
+        "store_photo": {
+          "url": "https://img1.wsimg.com/isteam/ip/4061f81f-4e21-47da-a9df-15ccbcba098d/Twistee%20LBV%20store%20pic-0001.jpg",
+          "cropped_url": "https://img1.wsimg.com/isteam/ip/4061f81f-4e21-47da-a9df-15ccbcba098d/Twistee%20LBV%20store%20pic-0001.jpg/:/cr=t:23.68%25,l:23.68%25,w:52.63%25,h:52.63%25",
+          "local_path": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/twisteetreat/lbv_store_pic_0001.jpg",
+          "local_path_cropped": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/twisteetreat/lbv_store_pic_0001_cropped.jpg",
+          "description": "Exterior photo of Twistee Treat Cafe Lake Buena Vista building with terracotta tile roof, arched windows, and palm tree."
+        },
+        "menu_heading": "Twistee Treat of LBV Menu",
+        "menu_images": [
+          {
+            "page": 1,
+            "url": "https://img1.wsimg.com/isteam/ip/4061f81f-4e21-47da-a9df-15ccbcba098d/No%20whip%20menu%202021%20LBV%201%20of%202%20menu%20board%2023%20x%203.jpg",
+            "local_path": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/twisteetreat/lbv_menu_2021_1_of_2_menu_board.jpg"
+          },
+          {
+            "page": 2,
+            "url": "https://img1.wsimg.com/isteam/ip/4061f81f-4e21-47da-a9df-15ccbcba098d/No%20whip%20menu%202021%20LBV%202%20of%202%20Drive%20Thr-9487430.jpg",
+            "local_path": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/twisteetreat/lbv_menu_2021_2_of_2_drive_thru.jpg"
+          }
+        ],
+        "official_menu": {
+          "soft_serve_cones_and_cups": {
+            "sizes_and_types": [
+              "Child Cone or Cup",
+              "Small Cone or Cup",
+              "Medium Cone or Cup",
+              "Large Cone or Cup",
+              "Small Waffle Cone",
+              "Large Waffle Cone",
+              "Small Fancy Waffle",
+              "Large Fancy Waffle",
+              "YoPup Doggie Yogurt"
+            ],
+            "soft_serve_flavors": [
+              "Vanilla",
+              "Chocolate",
+              "Strawberry",
+              "Chocolate/Vanilla Swirl",
+              "Strawberry/Vanilla Swirl",
+              "Mint"
+            ],
+            "dairy_free": [
+              "Dole Pineapple"
+            ]
+          },
+          "flavorburst_additional_cost": [
+            "Black Cherry",
+            "Blue Goo",
+            "Bubblegum",
+            "Butter Pecan",
+            "Mocha Cappuccino",
+            "Peach Twist",
+            "Pina Colada"
+          ],
+          "dips_sprinkles_toppings": [
+            "Sprinkles/Peanuts",
+            "Dips",
+            "Sundae/Candy Toppings",
+            "Nuts/Pralines"
+          ],
+          "scoop_ice_cream_cones_and_cups": {
+            "sizes_and_types": [
+              "Small Cone or Cup (One Scoop)",
+              "Large Cone or Cup (Two Scoop)",
+              "Extra Scoop",
+              "Small Waffle Cone (One Scoop)",
+              "Large Waffle Cone (Two Scoop)",
+              "Small Fancy Waffle (One Scoop)",
+              "Large Fancy Waffle (Two Scoop)",
+              "Pint",
+              "Quart",
+              "Scoop Banana Split"
+            ],
+            "scoop_flavors": [
+              "Birthday Cake",
+              "Butter Pecan",
+              "Coffee Chip",
+              "Cookie Dough",
+              "Cookies N Cream",
+              "Mint Chocolate Chip",
+              "Moose Tracks",
+              "Salty Caramel Peanut",
+              "Vanilla (No Sugar Added)"
+            ]
+          },
+          "sundaes_all_made_with_soft_serve": {
+            "sizes": [
+              "Small",
+              "Medium",
+              "Large"
+            ],
+            "toppings": [
+              "Blueberry",
+              "Butterscotch",
+              "Caramel",
+              "Cherry",
+              "Chocolate Syrup",
+              "Cookies & Cream",
+              "Hot Fudge",
+              "Marshmallow",
+              "Peach",
+              "Peanut Butter",
+              "Pineapple",
+              "Raspberry",
+              "Strawberry"
+            ]
+          },
+          "specialty_sundaes": {
+            "sizes": [
+              "Small",
+              "Medium",
+              "Large"
+            ],
+            "items": [
+              "Almond Joy Hot Fudge",
+              "Brownie Hot Fudge",
+              "Pecan Pralines",
+              "Turtle"
+            ]
+          },
+          "milkshakes_and_malts_and_twirls_all_made_with_soft_serve": {
+            "sizes": [
+              "Child (12 oz)",
+              "Small (16 oz)",
+              "Medium (20 oz)",
+              "Large (32 oz)"
+            ],
+            "flavors": [
+              "Banana",
+              "Birthday Cake",
+              "Blueberry",
+              "Blue Raspberry",
+              "Brownie",
+              "Brownie Fudge",
+              "Butterfinger",
+              "Butter Pecan",
+              "Caramel",
+              "Cherry",
+              "Chocolate",
+              "Chocolate Chip",
+              "Coffee",
+              "Cookie Dough",
+              "Cookies & Cream",
+              "Gummy Bears",
+              "Hazelnut",
+              "Heath",
+              "Hot Fudge",
+              "M & M",
+              "Mango",
+              "Marshmallow",
+              "Mint",
+              "Mint Chocolate Chip",
+              "Mint Cookies & Cream",
+              "Nutella",
+              "Orange Cream",
+              "Peach",
+              "Peanut Butter",
+              "Pecan Pralines",
+              "Pina Colada",
+              "Pineapple",
+              "Pistachio Nut",
+              "Raspberry",
+              "Reese's Peanut Butter Cups",
+              "Reese's Pieces",
+              "Snickers",
+              "Strawberry",
+              "Vanilla"
+            ],
+            "note": "Double ingredients or more than two flavors are charged an additional topping charge."
+          },
+          "specialties": {
+            "items": [
+              "Banana Split",
+              "Hot Fudge Banana Boat",
+              "Hot Fudge Brownie Boat",
+              "Ice Cream Float",
+              "Parfait",
+              "Pint",
+              "Quart",
+              "Scoop Banana Split"
+            ],
+            "note": "All sundaes, splits, boats and parfaits come with whipped cream nuts and cherry included. All shakes/malts, twirls, sundaes, freezers, slush floats and specialties are made with soft serve."
+          },
+          "hard_ice_cream_frozen_quarts": [
+            "Brownie Fudge",
+            "Chocolate",
+            "Chocolate Chip Mint",
+            "Cookie Dough",
+            "Cookies and Cream",
+            "Dole Pineapple",
+            "Reeses Peanut Butter Cup",
+            "Strawberry",
+            "Vanilla"
+          ],
+          "freezers": {
+            "sizes": [
+              "Child",
+              "Small",
+              "Med",
+              "Large"
+            ],
+            "flavors": [
+              "Coffee",
+              "Hazelnut",
+              "Kahlua",
+              "Mango",
+              "Mocha",
+              "Orange Cream",
+              "Peaches & Cream",
+              "Pina Colada",
+              "Strawberry Cream"
+            ]
+          },
+          "slush_float_and_slush": {
+            "sizes": [
+              "Child",
+              "Small",
+              "Med",
+              "Large"
+            ],
+            "flavors": [
+              "Blue Raspberry",
+              "Cherry",
+              "Mango",
+              "Orange",
+              "Pina Colada",
+              "Strawberry",
+              "Watermelon"
+            ]
+          },
+          "dole_pineapple_float": {
+            "size": "One Size (12 oz)",
+            "dietary": "Dairy Free/Fat Free, Gluten Free & Vegan, 210 Calories"
+          },
+          "drinks": {
+            "sizes": [
+              "Small",
+              "Large",
+              "Water"
+            ],
+            "flavors": [
+              "Coke",
+              "Diet Coke",
+              "Pepsi",
+              "Sunkist",
+              "Root Beer",
+              "Sprite",
+              "Dr. Pepper"
+            ]
+          }
+        }
+      },
+      "ginthers_swirls": {
+        "url": "https://twisteetreatocoeelbv.com/ginthers-swirls",
+        "name": "Ginther's Swirls",
+        "location": "11036 International Drive, Orlando, Florida 32821.",
+        "phone": "407-477-1212.",
+        "hours_of_operation": "Sunday-Thursday: 11:00 am - 10:30 pm (open until 11:00 pm June - August 13). Friday & Saturday: 11:00 am - 11:00 pm. Indoor Seating Hours: 11:00 am to 10:00 pm daily.",
+        "about_exact": "Our newest store opened mid-January 2014. It is a few miles down from SeaWorld at the corner of International Drive and Central Florida Parkway. We are located behind the Wawa next to AppleBeesl. We have outdoor patio seating with night lighting, indoor seating, and a drive-though for your convenience. We serve soft-serve ice cream using the same great ingredients as our two Twistee Treat locations. We are also now serving creamy hand-scooped ice cream in eight popular flavors. Please see our menu for flavors and pricing",
+        "store_photo": {
+          "url": "https://img1.wsimg.com/isteam/ip/4061f81f-4e21-47da-a9df-15ccbcba098d/Swirls%20daytime%20pic.jpg",
+          "cropped_url": "https://img1.wsimg.com/isteam/ip/4061f81f-4e21-47da-a9df-15ccbcba098d/Swirls%20daytime%20pic.jpg/:/cr=t:24.49%25,l:24.49%25,w:51.02%25,h:51.02%25",
+          "local_path": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/twisteetreat/ginthers_swirls_daytime_pic.jpg",
+          "local_path_cropped": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/twisteetreat/ginthers_swirls_daytime_pic_cropped.jpg",
+          "description": "Daytime exterior photo of Ginther's Swirls Ice Cream building with string lights, red umbrellas, blue picnic tables, and two large decorative soft-serve cone statues along the patio fence."
+        },
+        "menu_heading": "Ginther's Swirls Menu",
+        "menu_images": [
+          {
+            "url": "https://img1.wsimg.com/isteam/ip/4061f81f-4e21-47da-a9df-15ccbcba098d/No%20whip%20Menu%202021%20Swirls%20Front%20Windows-589d317.jpg",
+            "local_path": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/twisteetreat/ginthers_swirls_menu_2021_front_windows.jpg"
+          }
+        ],
+        "official_menu": {
+          "soft_serve_cones_and_cups": {
+            "sizes_and_types": [
+              "Child Cone/Cup",
+              "Small Cone/Cup",
+              "Medium Cone/Cup",
+              "Large Cone/Cup",
+              "Small Waffle Cone",
+              "Large Waffle Cone",
+              "Small Fancy Waffle",
+              "Large Fancy Waffle",
+              "YoPup Doggie Yogurt"
+            ],
+            "ice_cream_flavors": [
+              "Vanilla",
+              "Chocolate",
+              "Strawberry",
+              "Chocolate/Vanilla Swirl",
+              "Strawberry/Vanilla Swirl",
+              "Mint"
+            ],
+            "non_dairy_vegan_fat_free": [
+              "Dole Pineapple"
+            ]
+          },
+          "flavorburst_additional_cost": [
+            "Black Cherry",
+            "Blue Goo",
+            "Bubblegum",
+            "Butter Pecan",
+            "Peach Twist",
+            "Pina Colada",
+            "Mocha Cappuccino",
+            "Tropical Orange"
+          ],
+          "scoop_ice_cream": {
+            "sizes_and_types": [
+              "Small Cone/Cup (One Scoop)",
+              "Large Cone/Cup (Two Scoops)",
+              "Extra Scoop",
+              "Small Waffle Cone (One Scoop)",
+              "Large Waffle Cone (Two Scoop)",
+              "Small Fancy Waffle (One Scoop)",
+              "Large Fancy Waffle (Two Scoop)",
+              "Pint",
+              "Quart",
+              "Scoop Banana Split"
+            ],
+            "scoop_flavors": [
+              "Birthday Cake",
+              "Butter Pecan",
+              "Coffee Chip",
+              "Cookie Dough",
+              "Cookies N Cream",
+              "Mint Chocolate Chip",
+              "Salty Caramel Peanut",
+              "Vanilla Sugar Free"
+            ]
+          },
+          "dips_sprinkles_toppings": [
+            "Rainbow/Chocolate/Holiday Sprinkles/Peanuts",
+            "Chocolate/Cherry/Butterscotch/Peanut Butter Dips",
+            "Sundae/Candy Toppings",
+            "Nuts (Almonds/Walnuts/Pistachios/Pecans/Pralines)"
+          ],
+          "sundaes_made_with_soft_serve": {
+            "sizes": [
+              "Small",
+              "Medium",
+              "Large"
+            ],
+            "toppings": [
+              "Blueberry",
+              "Butterscotch",
+              "Caramel",
+              "Cherry",
+              "Chocolate Syrup",
+              "Cookies & Cream",
+              "Hot Fudge",
+              "Marshmallow",
+              "Peach",
+              "Peanut Butter",
+              "Pineapple",
+              "Raspberry",
+              "Strawberry"
+            ]
+          },
+          "specialty_sundaes": {
+            "sizes": [
+              "Small",
+              "Medium",
+              "Large"
+            ],
+            "items": [
+              "Almond Joy Hot Fudge",
+              "Brownie Hot Fudge",
+              "Pecan Pralines",
+              "Turtle"
+            ],
+            "note": "Whipped cream, nuts and cherry included in sundaes/"
+          },
+          "hard_ice_cream_frozen_quarts": [
+            "Brownie Fudge",
+            "Chocolate",
+            "Chocolate Chip Mint",
+            "Cookie Dough",
+            "Cookies and Cream",
+            "Dole Pineapple",
+            "Neapolitan",
+            "Reeses Peanut Butter Cup",
+            "Strawberry",
+            "Vanilla"
+          ],
+          "milkshakes_and_malts_made_with_soft_serve": {
+            "sizes": [
+              "Child (12 oz)",
+              "Small (16 oz)",
+              "Medium (20 oz)",
+              "Large (32 oz)"
+            ],
+            "flavors": [
+              "Banana",
+              "Birthday Cake",
+              "Blueberry",
+              "Blue Raspberry",
+              "Butterfinger",
+              "Butter Pecan",
+              "Caramel",
+              "Cherry",
+              "Chocolate",
+              "Chocolate Chip",
+              "Chocolate Chip Mint",
+              "Coffee",
+              "Cookies & Cream",
+              "Cookies/Cream Mint",
+              "Dreamsicle",
+              "Hazelnut",
+              "Hot Fudge",
+              "Mango",
+              "Marshmallow",
+              "Mint",
+              "Nutella",
+              "Peach",
+              "Peanut Butter",
+              "Pina Colada",
+              "Pineapple",
+              "Pistachio",
+              "Raspberry",
+              "Reeses Cup",
+              "Strawberry",
+              "Vanilla"
+            ]
+          },
+          "twirls_made_with_soft_serve": {
+            "sizes": [
+              "Child (12 oz)",
+              "Small (16 oz)",
+              "Medium (20 oz)",
+              "Large (32 oz)"
+            ],
+            "flavors": [
+              "Banana",
+              "Birthday Cake",
+              "Blueberry",
+              "Brownie",
+              "Brownie Fudge",
+              "Butterfinger",
+              "Butter Pecan",
+              "Cherry",
+              "Chocolate Chip",
+              "Chocolate Chip Mint",
+              "Cookie Dough",
+              "Cookies & Cream",
+              "Cookies & Cream Mint",
+              "Gummy Bear",
+              "Heath",
+              "Mango",
+              "M & M",
+              "Nutella",
+              "Peach",
+              "Peanut Butter",
+              "Pecan Pralines",
+              "Pina Colada",
+              "Pineapple",
+              "Pistachio Nut",
+              "Raspberry",
+              "Reeses Pieces",
+              "Reeses PB Cup",
+              "Snickers",
+              "Strawberry"
+            ],
+            "note": "Double ingredients or more than two flavors are charged an additional topping charge."
+          },
+          "specialties_made_with_soft_serve": {
+            "items": [
+              "Banana Split",
+              "Banana Boat",
+              "Hot Fudge Brownie Boat",
+              "Float (Root Beer/Coke/Orange)",
+              "Parfait",
+              "Pint",
+              "Quart",
+              "Scoop Banana Split"
+            ],
+            "note": "Whipped cream, nuts and cherry included in sundaes/specialties."
+          },
+          "dole_pineapple_float": {
+            "size": "One Size 12 ounce",
+            "dietary": "Dairy Free/Fat Free, Gluten Free/Vegan, 210 Calories"
+          },
+          "drinks": {
+            "sizes": [
+              "Small",
+              "Large",
+              "Water"
+            ],
+            "flavors": [
+              "Coke",
+              "Diet Coke",
+              "Pepsi",
+              "Sunkist",
+              "Root Beer",
+              "Sprite",
+              "Dr. Pepper"
+            ]
+          },
+          "freezers_made_with_soft_serve": {
+            "sizes": [
+              "Child",
+              "Small",
+              "Med",
+              "Large"
+            ],
+            "flavors": [
+              "Coffee",
+              "Hazelnut",
+              "Kahlua",
+              "Mango",
+              "Mocha",
+              "Orange Cream",
+              "Peaches & Cream",
+              "Pina Colada",
+              "Strawberry Cream"
+            ]
+          },
+          "slush_float_and_slush": {
+            "sizes": [
+              "Child",
+              "Small",
+              "Med",
+              "Large"
+            ],
+            "flavors": [
+              "Blue Raspberry",
+              "Cherry",
+              "Mango",
+              "Orange",
+              "Pina Colada",
+              "Strawberry",
+              "Watermelon"
+            ]
+          }
+        }
+      },
+      "order_online": {
+        "url": "https://twisteetreatocoeelbv.com/order-online",
+        "heading": "Click link below to order from Twistee Treat of Ocoee",
+        "doordash_url": "https://www.doordash.com/store/255046/?utm_source=partner-link&utm_medium=website&utm_campaign=255046&utm_content=red-large",
+        "doordash_store_id": "255046",
+        "button_text": "Order Food Delivery with DoorDash"
+      }
+    }
+  },
+  "linktree": {
+    "url": "https://linktr.ee/Ginthericecream",
+    "username": "@Ginthericecream",
+    "description": "Family Owned & Operated. Our 3 Locations: TT Ocoee, TT LBV & Ginther’s Swirls",
+    "profile_picture_url": "https://ugc.production.linktr.ee/qqKU0tRS0OGdpX1CpMYf_1Uh140Ua6mMLa4bo",
+    "profile_picture_local_path": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/twisteetreat/linktree_profile_pic.jpg",
+    "og_image_url": "https://linktr.ee/og/image/Ginthericecream.jpg",
+    "og_image_local_path": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/site_originals/twisteetreat/linktree_og_image.jpg",
+    "links": [
+      {
+        "position": 0,
+        "title": "Apply Now !",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdhErERU75NkssUfJaZ2NQpuGzI1VYHs2BNJug-Hps2rG1mng/viewform",
+        "category": "job_application"
+      },
+      {
+        "position": 1,
+        "title": "Website ",
+        "url": "https://twisteetreatocoeelbv.com/",
+        "category": "website"
+      },
+      {
+        "position": 2,
+        "title": "Twistee Treat of Ocoee Facebook",
+        "url": "https://www.facebook.com/Twistee-Treat-of-Ocoee-153952792074/",
+        "category": "facebook"
+      },
+      {
+        "position": 3,
+        "title": "Twistee Treat LBV Facebook",
+        "url": "https://www.facebook.com/TwisteeLBV/",
+        "category": "facebook"
+      },
+      {
+        "position": 4,
+        "title": "Ginther’s Swirls Facebook",
+        "url": "https://www.facebook.com/GinthersSwirls/",
+        "category": "facebook"
+      },
+      {
+        "position": 5,
+        "title": "Twistee Treat of Ocoee Instagram",
+        "url": "http://Instagram.com/twisteetreatocoee",
+        "category": "instagram"
+      },
+      {
+        "position": 6,
+        "title": "Twistee Treat of LBV Instagram",
+        "url": "http://Instagram.com/twisteetreatlbv",
+        "category": "instagram"
+      },
+      {
+        "position": 7,
+        "title": "Ginther’s Swirls Instagram",
+        "url": "http://Instagram.com/ginthersswirls",
+        "category": "instagram"
+      }
+    ],
+    "job_application_form_details": {
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdhErERU75NkssUfJaZ2NQpuGzI1VYHs2BNJug-Hps2rG1mng/viewform",
+      "short_url_on_ginthers_site": "https://goo.gl/forms/pkBDpj2aeD95rQG33",
+      "title": "Job Application Form",
+      "subtitle": "Twistee Treat of Ocoee, Twistee Treat of Lake Buena Vista, Ginther's Swirls",
+      "fields": [
+        "Name",
+        "Birth Date",
+        "Email",
+        "Phone Number",
+        "Address",
+        "Which location are you applying for?",
+        "Are you currently employed?",
+        "Employment History (Dates, employer name, salary, reason for leaving)",
+        "Do you have a reliable method of transportation?",
+        "Do you have experience working with ice cream? If yes, please explain.",
+        "Which days of the week and what hours can you work?"
+      ]
+    }
+  }
+}

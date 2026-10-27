@@ -1,0 +1,454 @@
+=== ABOUT TAB ===
+AXWindow | Ginther's Swirls Ice Cream - Google Maps - Google Chrome - Umar |  | 
+AXGroup | Ginther's Swirls Ice Cream - Google Maps - Google Chrome - Umar |  | 
+AXButton | Back | Back | 
+AXButton | Forward | Forward | 
+AXButton | Reload | Reload | 
+AXPopUpButton | View site information | View site information | 
+AXTextField | Address and search bar | Address and search bar | google.com/maps/place/Ginther's+Swirls+Ice+Cream/@28.4051444,-81.4580653,18z/data=!4m7!3m6!1s0x88e77e275bcec9b5:0x273bf4d492489dbb!8m2!3d28.4051444!4d-81.4567778!10e1!16s%2Fg%2F11bbrk710h!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D
+AXButton | Install Google Maps | Install Google Maps | 
+AXButton | Bookmark this tab | Bookmark this tab | 
+AXPopUpButton | Extensions | Extensions | 
+AXButton | Umar | Umar | 
+AXPopUpButton | Relaunch to update | Relaunch to update | 
+AXWebArea | Ginther's Swirls Ice Cream - Google Maps |  | 
+AXGroup | Google Maps | Google Maps | 
+AXGroup | Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key. | Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key. | 
+AXButton | Back | Back | 
+AXComboBox |  |  | Ginther's Swirls Ice Cream
+AXButton | Search | Search | 
+AXButton | Close | Close | 
+AXGroup | Available search options for this area | Available search options for this area | 
+AXButton | Nearby restaurants |  | 
+AXButton | Hotels |  | 
+AXButton | Things to do |  | 
+AXButton | Bars |  | 
+AXButton | Coffee |  | 
+AXButton | Takeout |  | 
+AXButton | Groceries |  | 
+AXGroup | Ginther's Swirls Ice Cream | Ginther's Swirls Ice Cream | 
+AXRadioButton | Overview of Ginther's Swirls Ice Cream | Overview of Ginther's Swirls Ice Cream | 
+AXRadioButton | Menu | Menu | 
+AXRadioButton | Reviews for Ginther's Swirls Ice Cream | Reviews for Ginther's Swirls Ice Cream | 
+AXRadioButton | About Ginther's Swirls Ice Cream | About Ginther's Swirls Ice Cream | 
+AXStaticText |  |  | Get pickup or delivery
+AXStaticText |  |  | See menus and fees
+AXLink | Order online | Order online | 
+AXStaticText |  |  | Order online
+AXGroup | About Ginther's Swirls Ice Cream | About Ginther's Swirls Ice Cream | 
+AXStaticText |  |  | Casual, family-owned counter-serve providing soft-serve ice cream & milkshakes, plus a drive-thru.
+AXHeading | Accessibility |  | 
+AXStaticText |  |  | Accessibility
+AXGroup | Has wheelchair accessible entrance | Has wheelchair accessible entrance | 
+AXStaticText |  |  | Wheelchair accessible entrance
+AXGroup | Has wheelchair accessible parking lot | Has wheelchair accessible parking lot | 
+AXStaticText |  |  | Wheelchair accessible parking lot
+AXGroup | Has wheelchair accessible restroom | Has wheelchair accessible restroom | 
+AXStaticText |  |  | Wheelchair accessible restroom
+AXHeading | Service options |  | 
+AXStaticText |  |  | Service options
+AXGroup | Has no-contact delivery | Has no-contact delivery | 
+AXStaticText |  |  | No-contact delivery
+AXGroup | Offers delivery | Offers delivery | 
+AXStaticText |  |  | Delivery
+AXGroup | Has drive-through | Has drive-through | 
+AXStaticText |  |  | Drive-through
+AXGroup | In-store pickup for online orders | In-store pickup for online orders | 
+AXStaticText |  |  | In-store pickup
+AXGroup | Onsite services available | Onsite services available | 
+AXStaticText |  |  | Onsite services
+AXGroup | Offers takeout | Offers takeout | 
+AXStaticText |  |  | Takeout
+AXGroup | Serves dine-in | Serves dine-in | 
+AXStaticText |  |  | Dine-in
+AXHeading | Popular for |  | 
+AXStaticText |  |  | Popular for
+AXGroup | Good for solo dining | Good for solo dining | 
+AXStaticText |  |  | Solo dining
+AXHeading | Dining options |  | 
+AXStaticText |  |  | Dining options
+AXGroup | Has seating | Has seating | 
+AXStaticText |  |  | Seating
+AXGroup | No table service | No table service | 
+AXStaticText |  |  | Table service
+AXHeading | Amenities |  | 
+AXStaticText |  |  | Amenities
+AXGroup | Has restroom | Has restroom | 
+AXStaticText |  |  | Restroom
+AXHeading | Atmosphere |  | 
+AXStaticText |  |  | Atmosphere
+AXGroup | Casual | Casual | 
+AXStaticText |  |  | Casual
+AXGroup | Cozy | Cozy | 
+AXStaticText |  |  | Cozy
+AXGroup | Trendy | Trendy | 
+AXStaticText |  |  | Trendy
+AXHeading | Crowd |  | 
+AXStaticText |  |  | Crowd
+AXGroup | Good for groups | Good for groups | 
+AXStaticText |  |  | Groups
+AXHeading | Planning |  | 
+AXStaticText |  |  | Planning
+AXGroup | Good for quick visit | Good for quick visit | 
+AXStaticText |  |  | Quick visit
+AXHeading | Payments |  | 
+AXStaticText |  |  | Payments
+AXGroup | Accepts credit cards | Accepts credit cards | 
+AXStaticText |  |  | Credit cards
+AXGroup | Accepts debit cards | Accepts debit cards | 
+AXStaticText |  |  | Debit cards
+AXGroup | Accepts NFC mobile payments | Accepts NFC mobile payments | 
+AXStaticText |  |  | NFC mobile payments
+AXGroup | Credit cards | Credit cards | 
+AXStaticText |  |  | Credit cards
+AXHeading | Children |  | 
+AXStaticText |  |  | Children
+AXGroup | Good for kids | Good for kids | 
+AXStaticText |  |  | Good for kids
+AXHeading | Parking |  | 
+AXStaticText |  |  | Parking
+AXGroup | Free parking lot | Free parking lot | 
+AXStaticText |  |  | Free parking lot
+AXHeading | Pets |  | 
+AXStaticText |  |  | Pets
+AXGroup | Dogs allowed outside | Dogs allowed outside | 
+AXStaticText |  |  | Dogs allowed outside
+AXButton | Collapse side panel | Collapse side panel | 
+AXButton | Google apps | Google apps | 
+AXButton | Google Account: Umar Shah (umarashah7861@gmail.com), Google membership | Google Account: Umar Shah (umarashah7861@gmail.com), Google membership | 
+AXGroup | Terrain | Terrain | 
+AXHeading | Terrain |  | 
+AXStaticText |  |  | Terrain
+AXStaticText |  |  | View topography and elevation
+AXCheckBox | Show terrain | Show terrain | 
+AXCheckBox | Show Your Location | Show Your Location | 
+AXButton | Zoom in | Zoom in | 
+AXButton | Zoom out | Zoom out | 
+AXButton | Browse Street View images | Browse Street View images | 
+AXButton | Street View | Street View | 
+AXGroup | Interactive map | Interactive map | 
+AXStaticText |  |  | Layers
+AXButton | Layers |  | 
+AXStaticText |  |  | Map data ©2026 
+AXButton | United States |  | 
+AXButton | Terms |  | 
+AXButton | Privacy |  | 
+AXButton | Send Product Feedback |  | 
+AXButton | 100 ft |  | 
+AXPopUpButton | Tab search | Tab search | 
+AXRadioButton | [QUALIFICATION] Evaluating Responses from AI Assistants v21 | [QUALIFICATION] Evaluating Responses from AI Assistants v21 | 
+AXRadioButton | app.dataannotation.tech/publish/g/Y2YbKXRWMicPXQAjLAZ-Lww1QxAKWyhQLRwTXQgIAmI0V2ZhPjcScjw0DRc= | app.dataannotation.tech/publish/g/Y2YbKXRWMicPXQAjLAZ-Lww1QxAKWyhQLRwTXQgIAmI0V2ZhPjcScjw0DRc= | 
+AXRadioButton | Settings | Settings | 
+AXRadioButton | Play, at Ibn Hashim | Play, at Ibn Hashim | 
+AXRadioButton | Ibn Hashim Exams | Ibn Hashim Exams | 
+AXRadioButton | how to update video on app store - Google Search | how to update video on app store - Google Search | 
+AXRadioButton | App Store Connect | App Store Connect | 
+AXRadioButton | ‎AVIA Studio Mobile: AI Editor App - App Store | ‎AVIA Studio Mobile: AI Editor App - App Store | 
+AXRadioButton | Product catalog – AVIA Studios – Stripe - High memory usage - 1.0 GB | Product catalog – AVIA Studios – Stripe - High memory usage - 1.0 GB | 
+AXRadioButton | using the word "haywaan naatiq" to describe the master | Sunniport | using the word "haywaan naatiq" to describe the master | Sunniport | 
+AXRadioButton | what is an actionable insight - Google Search | what is an actionable insight - Google Search | 
+AXRadioButton | what is a live coding interview test - Google Search | what is a live coding interview test - Google Search | 
+AXRadioButton | How to solve a Google coding interview question - YouTube | How to solve a Google coding interview question - YouTube | 
+AXRadioButton | Umar Shah | LinkedIn - High memory usage - 1.4 GB | Umar Shah | LinkedIn - High memory usage - 1.4 GB | 
+AXRadioButton | Mushaf Ibn Hashim | Ibn Hashim Institute | Mushaf Ibn Hashim | Ibn Hashim Institute | 
+AXRadioButton | tajweed quran 15 pdf - Google Search | tajweed quran 15 pdf - Google Search | 
+AXRadioButton | madani quran tajweed - Google Search | madani quran tajweed - Google Search | 
+AXRadioButton | Tajweed Moshaf | Tajweed Moshaf | 
+AXRadioButton | 040Quran15tajweedi.pdf - High memory usage - 2.2 GB | 040Quran15tajweedi.pdf - High memory usage - 2.2 GB | 
+AXRadioButton | Download the 16-Line Color-Coded Tajweed Quran PDF (Para 1 to 30) - Irfan ul Quran | Download the 16-Line Color-Coded Tajweed Quran PDF (Para 1 to 30) - Irfan ul Quran | 
+AXRadioButton | Download Mushaf | Download Mushaf | 
+AXRadioButton | Ginther's Swirls Ice Cream - Google Maps | Ginther's Swirls Ice Cream - Google Maps | 
+AXButton | Close | Close | 
+AXRadioButton | Inbox (556) - umarashah7861@gmail.com - Gmail | Inbox (556) - umarashah7861@gmail.com - Gmail | 
+AXRadioButton | Nona’s Urban Pizza | Orlando, FL | Nona’s Urban Pizza | Orlando, FL | 
+AXRadioButton | Generative AI Dashboard | Run Image, Video, 3D and Audio Models | fal | Generative AI Dashboard | Run Image, Video, 3D and Audio Models | fal | 
+AXButton | New Tab | New Tab | 
+AXButton | Ask Gemini | Ask Gemini | 
+=== OVERVIEW TAB ===
+AXWindow | Ginther's Swirls Ice Cream - Google Maps - Google Chrome - Umar |  | 
+AXGroup | Ginther's Swirls Ice Cream - Google Maps - Google Chrome - Umar |  | 
+AXButton | Back | Back | 
+AXButton | Forward | Forward | 
+AXButton | Reload | Reload | 
+AXPopUpButton | View site information | View site information | 
+AXTextField | Address and search bar | Address and search bar | google.com/maps/place/Ginther's+Swirls+Ice+Cream/@28.4051444,-81.4580653,18z/data=!4m6!3m5!1s0x88e77e275bcec9b5:0x273bf4d492489dbb!8m2!3d28.4051444!4d-81.4567778!16s%2Fg%2F11bbrk710h!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D
+AXButton | Install Google Maps | Install Google Maps | 
+AXButton | Bookmark this tab | Bookmark this tab | 
+AXPopUpButton | Extensions | Extensions | 
+AXButton | Umar | Umar | 
+AXPopUpButton | Relaunch to update | Relaunch to update | 
+AXWebArea | Ginther's Swirls Ice Cream - Google Maps |  | 
+AXGroup | Google Maps | Google Maps | 
+AXGroup | Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key. | Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key. | 
+AXButton | Menu | Menu | 
+AXComboBox |  |  | Ginther's Swirls Ice Cream
+AXButton | Search | Search | 
+AXButton | Close | Close | 
+AXGroup | Available search options for this area | Available search options for this area | 
+AXButton | Nearby restaurants |  | 
+AXButton | Hotels |  | 
+AXButton | Things to do |  | 
+AXButton | Bars |  | 
+AXButton | Coffee |  | 
+AXButton | Takeout |  | 
+AXButton | Groceries |  | 
+AXGroup | Ginther's Swirls Ice Cream | Ginther's Swirls Ice Cream | 
+AXButton | Photo of Ginther's Swirls Ice Cream | Photo of Ginther's Swirls Ice Cream | 
+AXButton | See photos |  | 
+AXHeading | Ginther's Swirls Ice Cream |  | 
+AXStaticText |  |  | Ginther's Swirls Ice Cream
+AXImage | 4.6 stars  | 4.6 stars  | 
+AXImage | 1,513 reviews | 1,513 reviews | 
+AXButton | Ice cream shop |  | 
+AXImage | Wheelchair accessible entrance | Wheelchair accessible entrance | 
+AXRadioButton | Overview of Ginther's Swirls Ice Cream | Overview of Ginther's Swirls Ice Cream | 
+AXRadioButton | Menu | Menu | 
+AXRadioButton | Reviews for Ginther's Swirls Ice Cream | Reviews for Ginther's Swirls Ice Cream | 
+AXRadioButton | About Ginther's Swirls Ice Cream | About Ginther's Swirls Ice Cream | 
+AXGroup | Actions for Ginther's Swirls Ice Cream | Actions for Ginther's Swirls Ice Cream | 
+AXButton | Directions | Directions | 
+AXButton | Save | Save | 
+AXButton | Nearby | Nearby | 
+AXButton | Send to phone | Send to phone | 
+AXButton | Share | Share | 
+AXLink | Order online | Order online | 
+AXStaticText |  |  | Order online
+AXGroup | About Ginther's Swirls Ice Cream | About Ginther's Swirls Ice Cream | 
+AXButton | Casual, family-owned counter-serve providing soft-serve ice cream & milkshakes, plus a drive-thru. Serves dine-in Has drive-through Has no-contact delivery |  | 
+AXGroup | Information for Ginther's Swirls Ice Cream | Information for Ginther's Swirls Ice Cream | 
+AXButton | Address: 11036 International Dr, Orlando, FL 32821  | Address: 11036 International Dr, Orlando, FL 32821  | 
+AXButton | Copy address | Copy address | 
+AXButton | Hours Open · Closes 10:30 PM Show open hours for the week |  | 
+AXLink | Website: ginthersswirls.com  | Website: ginthersswirls.com  | 
+AXStaticText |  |  | ginthersswirls.com
+AXLink | Open website | Open website | 
+AXButton | Copy website | Copy website | 
+AXButton | Phone: (407) 477-1212  | Phone: (407) 477-1212  | 
+AXButton | Copy phone number | Copy phone number | 
+AXLink | Call phone number | Call phone number | 
+AXButton | Plus code: CG4V+37 Orlando, Florida | Plus code: CG4V+37 Orlando, Florida | 
+AXButton | Copy plus code | Copy plus code | 
+AXButton | Learn more about plus codes | Learn more about plus codes | 
+AXButton | Your Maps history | Your Maps history | 
+AXButton | Add a label |  | 
+AXButton | Suggest an edit | Suggest an edit | 
+AXHeading | Updates by visitors |  | 
+AXStaticText |  |  | Updates by visitors
+AXButton | Brianna hooked us up. 6/26/25 🍦 a year ago |  | 
+AXGroup | Popular times at Ginther's Swirls Ice Cream | Popular times at Ginther's Swirls Ice Cream | 
+AXHeading | Popular times |  | 
+AXStaticText |  |  | Popular times
+AXPopUpButton | Tuesdays |  | 
+AXStaticText |  |  | Tuesdays
+AXButton | Information about Popular Times | Information about Popular Times | 
+AXButton | Go to the previous day | Go to the previous day | 
+AXStaticText |  |  | LIVE
+AXStaticText |  |  | Busier than usual
+AXImage | 0% busy at 6 AM. | 0% busy at 6 AM. | 
+AXImage | 0% busy at 7 AM. | 0% busy at 7 AM. | 
+AXImage | 0% busy at 8 AM. | 0% busy at 8 AM. | 
+AXImage | 0% busy at 9 AM. | 0% busy at 9 AM. | 
+AXImage | 0% busy at 10 AM. | 0% busy at 10 AM. | 
+AXImage | 15% busy at 11 AM. | 15% busy at 11 AM. | 
+AXImage | 13% busy at 12 PM. | 13% busy at 12 PM. | 
+AXImage | 20% busy at 1 PM. | 20% busy at 1 PM. | 
+AXImage | 31% busy at 2 PM. | 31% busy at 2 PM. | 
+AXImage | 40% busy at 3 PM. | 40% busy at 3 PM. | 
+AXImage | 38% busy at 4 PM. | 38% busy at 4 PM. | 
+AXImage | 40% busy at 5 PM. | 40% busy at 5 PM. | 
+AXImage | Currently 100% busy, usually 45% busy. | Currently 100% busy, usually 45% busy. | 
+AXImage | 50% busy at 7 PM. | 50% busy at 7 PM. | 
+AXImage | 45% busy at 8 PM. | 45% busy at 8 PM. | 
+AXImage | 45% busy at 9 PM. | 45% busy at 9 PM. | 
+AXImage | 36% busy at 10 PM. | 36% busy at 10 PM. | 
+AXImage | 0% busy at 11 PM. | 0% busy at 11 PM. | 
+AXButton | Go to the next day | Go to the next day | 
+AXHeading | Menu |  | 
+AXStaticText |  |  | Menu
+AXButton | Menu · Photo 1 of 1 | Menu · Photo 1 of 1 | 
+AXStaticText |  |  | Menu
+AXButton | See more | See more | 
+AXHeading | Photos & videos |  | 
+AXStaticText |  |  | Photos & videos
+AXGroup | Photos of Ginther's Swirls Ice Cream | Photos of Ginther's Swirls Ice Cream | 
+AXButton | All | All | 
+AXStaticText |  |  | All
+AXButton | Menu | Menu | 
+AXStaticText |  |  | Menu
+AXButton | Videos | Videos | 
+AXStaticText |  |  | Videos
+AXButton | Food & drink | Food & drink | 
+AXStaticText |  |  | Food & drink
+AXButton | Vibe | Vibe | 
+AXStaticText |  |  | Vibe
+AXButton | Banana split | Banana split | 
+AXStaticText |  |  | Banana split
+AXButton | Ice cream | Ice cream | 
+AXStaticText |  |  | Ice cream
+AXButton | By owner | By owner | 
+AXStaticText |  |  | By owner
+AXButton | Street View & 360° | Street View & 360° | 
+AXStaticText |  |  | Street View & 360°
+AXButton | Add photos & videos | Add photos & videos | 
+AXHeading | Review summary |  | 
+AXStaticText |  |  | Review summary
+AXPopUpButton | More information about the review summary | More information about the review summary | 
+AXImage | 5 stars, 1,225 reviews | 5 stars, 1,225 reviews | 
+AXImage | 4 stars, 164 reviews | 4 stars, 164 reviews | 
+AXImage | 3 stars, 40 reviews | 3 stars, 40 reviews | 
+AXImage | 2 stars, 28 reviews | 2 stars, 28 reviews | 
+AXImage | 1 stars, 56 reviews | 1 stars, 56 reviews | 
+AXStaticText |  |  | 4.6
+AXImage | 4.6 stars | 4.6 stars | 
+AXButton | 1,513 reviews |  | 
+AXButton | People say this ice cream shop offers delicious, creamy soft serve and hard ice cream with a wide variety of flavors and toppings, including popular options like pineapple Dole Whip. They also highlight the generous portion sizes and very reasonable prices. Visitors appreciate the friendly, attentive staff and the convenient drive-thru and walk-up window service. |  | 
+AXStaticText |  |  | +7
+AXStaticText |  |  | Summarized with Gemini
+AXButton | Actions for this review summary | Actions for this review summary | 
+AXButton | Write a review | Write a review | 
+AXHeading | Reviews |  | 
+AXStaticText |  |  | Reviews
+AXButton | Search reviews | Search reviews | 
+AXButton | Sort reviews | Sort reviews | 
+AXRadioGroup | Refine reviews | Refine reviews | 
+AXRadioButton | All reviews | All reviews | 
+AXStaticText |  |  | All
+AXRadioButton | soft serve, mentioned in 67 reviews | soft serve, mentioned in 67 reviews | 
+AXStaticText |  |  | soft serve
+AXStaticText |  |  | 67
+AXRadioButton | dole whip, mentioned in 15 reviews | dole whip, mentioned in 15 reviews | 
+AXStaticText |  |  | dole whip
+AXStaticText |  |  | 15
+AXRadioButton | drive thru, mentioned in 58 reviews | drive thru, mentioned in 58 reviews | 
+AXStaticText |  |  | drive thru
+AXStaticText |  |  | 58
+AXRadioButton | Banana Split, mentioned in 38 reviews | Banana Split, mentioned in 38 reviews | 
+AXStaticText |  |  | Banana Split
+AXStaticText |  |  | 38
+AXButton | View 6 more Topics | View 6 more Topics | 
+AXGroup | Tanya Grace | Tanya Grace | 
+AXButton | Photo of Tanya Grace | Photo of Tanya Grace | 
+AXButton | Tanya Grace Local Guide · 255 reviews · 1,945 photos |  | 
+AXButton | Actions for Tanya Grace's review | Actions for Tanya Grace's review | 
+AXImage | 5 stars | 5 stars | 
+AXStaticText |  |  | 7 months ago
+AXStaticText |  |  | ✨First visit to Ginther’s on a Sunday evening in March after a full day at a nearby theme park. We intentionally avoided spending on overpriced theme park treats and needless to say, so glad we did. …
+AXButton | See more | See more | 
+AXButton | Pomegranate ice cream with chocolate sprinkles. | Pomegranate ice cream with chocolate sprinkles. | 
+AXButton | Video | Video | 
+AXCheckBox | Like | Like | 
+AXStaticText |  |  | Like
+AXButton | Share Tanya Grace's review. | Share Tanya Grace's review. | 
+AXStaticText |  |  | Response from the owner
+AXStaticText |  |  |  
+AXStaticText |  |  | 7 months ago
+AXStaticText |  |  | We appreciate the wonderful review , Tanya! We look forward to seeing you again
+AXGroup | Sam Petkunas | Sam Petkunas | 
+AXButton | Photo of Sam Petkunas | Photo of Sam Petkunas | 
+AXButton | Sam Petkunas Local Guide · 28 reviews · 19 photos |  | 
+AXButton | Actions for Sam Petkunas's review | Actions for Sam Petkunas's review | 
+AXImage | 5 stars | 5 stars | 
+AXStaticText |  |  | 7 months ago
+AXStaticText |  |  | Just wow!
+My daughter, brother-in-law and I attended Megacon Orlando today and decided to go for a sweet treat afterwards. Ginther's was located close by and had great …
+AXButton | See more | See more | 
+AXButton | Photo 1 on Sam Petkunas's review | Photo 1 on Sam Petkunas's review | 
+AXButton | Photo 2 on Sam Petkunas's review | Photo 2 on Sam Petkunas's review | 
+AXButton | Photo 3 on Sam Petkunas's review | Photo 3 on Sam Petkunas's review | 
+AXCheckBox | Like | Like | 
+AXStaticText |  |  | Like
+AXButton | Share Sam Petkunas's review. | Share Sam Petkunas's review. | 
+AXStaticText |  |  | Response from the owner
+AXStaticText |  |  |  
+AXStaticText |  |  | 7 months ago
+AXStaticText |  |  | Thank you for the wonderful review, Sam! Looking forward to your next visit!
+AXGroup | M D | M D | 
+AXButton | Photo of M D | Photo of M D | 
+AXButton | M D Local Guide · 109 reviews · 640 photos |  | 
+AXButton | Actions for M D's review | Actions for M D's review | 
+AXImage | 5 stars | 5 stars | 
+AXStaticText |  |  | 2 months ago
+AXStaticText |  |  | I rarely give 5 stars but this place was great.  Big scoops without the big price.  Service was great    We went twice during our stay in Orlando.  The first time it was really crowded and took a while.  The second time we got our ice cream in 5 minutes.
+AXButton | Caramel Truffle | Caramel Truffle | 
+AXButton | Black Cherry.  | Black Cherry.  | 
+AXCheckBox | Like | Like | 
+AXStaticText |  |  | Like
+AXButton | Share M D's review. | Share M D's review. | 
+AXButton | More reviews (1,510) | More reviews (1,510) | 
+AXHeading | People also search for |  | 
+AXStaticText |  |  | People also search for
+AXLink | Twistee Treat of I-Drive · 4.3 stars · 914 reviews · Ice Cream | Twistee Treat of I-Drive · 4.3 stars · 914 reviews · Ice Cream | 
+AXStaticText |  |  | Twistee Treat of I-Drive
+AXImage | 4.3 stars 914 Reviews | 4.3 stars 914 Reviews | 
+AXStaticText |  |  | Ice Cream
+AXLink | Candy Cream Cafe · 4.8 stars · 1,258 reviews · Ice Cream | Candy Cream Cafe · 4.8 stars · 1,258 reviews · Ice Cream | 
+AXStaticText |  |  | Candy Cream Cafe
+AXImage | 4.8 stars 1,258 Reviews | 4.8 stars 1,258 Reviews | 
+AXStaticText |  |  | Ice Cream
+AXLink | Twistee Treat Of Lake Buena Vista · 4.7 stars · 1,609 reviews · Ice Cream | Twistee Treat Of Lake Buena Vista · 4.7 stars · 1,609 reviews · Ice Cream | 
+AXStaticText |  |  | Twistee Treat Of Lake Buena Vista
+AXImage | 4.7 stars 1,609 Reviews | 4.7 stars 1,609 Reviews | 
+AXStaticText |  |  | Ice Cream
+AXLink | Bruster's Real Ice Cream · 4.6 stars · 355 reviews · Ice Cream | Bruster's Real Ice Cream · 4.6 stars · 355 reviews · Ice Cream | 
+AXStaticText |  |  | Bruster's Real Ice Cream
+AXImage | 4.6 stars 355 Reviews | 4.6 stars 355 Reviews | 
+AXStaticText |  |  | Ice Cream
+AXLink | SWEET & SALTY ORLANDO · 4.2 stars · 22 reviews · Ice Cream | SWEET & SALTY ORLANDO · 4.2 stars · 22 reviews · Ice Cream | 
+AXStaticText |  |  | SWEET & SALTY ORLANDO
+AXImage | 4.2 stars 22 Reviews | 4.2 stars 22 Reviews | 
+AXStaticText |  |  | Ice Cream
+AXHeading | Web results |  | 
+AXStaticText |  |  | Web results
+AXLink | About this data | About this data | 
+AXStaticText |  |  | About this data
+AXButton | Collapse side panel | Collapse side panel | 
+AXButton | Google apps | Google apps | 
+AXButton | Google Account: Umar Shah (umarashah7861@gmail.com), Google membership | Google Account: Umar Shah (umarashah7861@gmail.com), Google membership | 
+AXGroup | Terrain | Terrain | 
+AXHeading | Terrain |  | 
+AXStaticText |  |  | Terrain
+AXStaticText |  |  | View topography and elevation
+AXCheckBox | Show terrain | Show terrain | 
+AXCheckBox | Show Your Location | Show Your Location | 
+AXButton | Zoom in | Zoom in | 
+AXButton | Zoom out | Zoom out | 
+AXButton | Browse Street View images | Browse Street View images | 
+AXButton | Street View | Street View | 
+AXGroup | Interactive map | Interactive map | 
+AXStaticText |  |  | Layers
+AXButton | Layers |  | 
+AXStaticText |  |  | Map data ©2026 
+AXButton | United States |  | 
+AXButton | Terms |  | 
+AXButton | Privacy |  | 
+AXButton | Send Product Feedback |  | 
+AXButton | 100 ft |  | 
+AXPopUpButton | Tab search | Tab search | 
+AXRadioButton | [QUALIFICATION] Evaluating Responses from AI Assistants v21 | [QUALIFICATION] Evaluating Responses from AI Assistants v21 | 
+AXRadioButton | app.dataannotation.tech/publish/g/Y2YbKXRWMicPXQAjLAZ-Lww1QxAKWyhQLRwTXQgIAmI0V2ZhPjcScjw0DRc= | app.dataannotation.tech/publish/g/Y2YbKXRWMicPXQAjLAZ-Lww1QxAKWyhQLRwTXQgIAmI0V2ZhPjcScjw0DRc= | 
+AXRadioButton | Settings | Settings | 
+AXRadioButton | Play, at Ibn Hashim | Play, at Ibn Hashim | 
+AXRadioButton | Ibn Hashim Exams | Ibn Hashim Exams | 
+AXRadioButton | how to update video on app store - Google Search | how to update video on app store - Google Search | 
+AXRadioButton | App Store Connect | App Store Connect | 
+AXRadioButton | ‎AVIA Studio Mobile: AI Editor App - App Store | ‎AVIA Studio Mobile: AI Editor App - App Store | 
+AXRadioButton | Product catalog – AVIA Studios – Stripe - High memory usage - 1.0 GB | Product catalog – AVIA Studios – Stripe - High memory usage - 1.0 GB | 
+AXRadioButton | using the word "haywaan naatiq" to describe the master | Sunniport | using the word "haywaan naatiq" to describe the master | Sunniport | 
+AXRadioButton | what is an actionable insight - Google Search | what is an actionable insight - Google Search | 
+AXRadioButton | what is a live coding interview test - Google Search | what is a live coding interview test - Google Search | 
+AXRadioButton | How to solve a Google coding interview question - YouTube | How to solve a Google coding interview question - YouTube | 
+AXRadioButton | Umar Shah | LinkedIn - High memory usage - 1.4 GB | Umar Shah | LinkedIn - High memory usage - 1.4 GB | 
+AXRadioButton | Mushaf Ibn Hashim | Ibn Hashim Institute | Mushaf Ibn Hashim | Ibn Hashim Institute | 
+AXRadioButton | tajweed quran 15 pdf - Google Search | tajweed quran 15 pdf - Google Search | 
+AXRadioButton | madani quran tajweed - Google Search | madani quran tajweed - Google Search | 
+AXRadioButton | Tajweed Moshaf | Tajweed Moshaf | 
+AXRadioButton | 040Quran15tajweedi.pdf - High memory usage - 2.2 GB | 040Quran15tajweedi.pdf - High memory usage - 2.2 GB | 
+AXRadioButton | Download the 16-Line Color-Coded Tajweed Quran PDF (Para 1 to 30) - Irfan ul Quran | Download the 16-Line Color-Coded Tajweed Quran PDF (Para 1 to 30) - Irfan ul Quran | 
+AXRadioButton | Download Mushaf | Download Mushaf | 
+AXRadioButton | Ginther's Swirls Ice Cream - Google Maps | Ginther's Swirls Ice Cream - Google Maps | 
+AXButton | Close | Close | 
+AXRadioButton | Inbox (556) - umarashah7861@gmail.com - Gmail | Inbox (556) - umarashah7861@gmail.com - Gmail | 
+AXRadioButton | Nona’s Urban Pizza | Orlando, FL | Nona’s Urban Pizza | Orlando, FL | 
+AXRadioButton | Generative AI Dashboard | Run Image, Video, 3D and Audio Models | fal | Generative AI Dashboard | Run Image, Video, 3D and Audio Models | fal | 
+AXButton | New Tab | New Tab | 
+AXButton | Ask Gemini | Ask Gemini | 

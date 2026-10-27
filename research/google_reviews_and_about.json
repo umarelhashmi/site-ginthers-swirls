@@ -1,0 +1,470 @@
+{
+  "scrapedAt": "2026-10-27T23:38:30Z",
+  "ginthersSwirls": {
+    "name": "Ginther's Swirls Ice Cream",
+    "category": "Ice cream shop",
+    "placeId": "0x88e77e275bcec9b5:0x273bf4d492489dbb",
+    "knowledgeGraphId": "/g/11bbrk710h",
+    "plusCode": "CG4V+37 Orlando, Florida",
+    "coordinates": {
+      "lat": 28.4051444,
+      "lng": -81.4567778
+    },
+    "address": "11036 International Dr, Orlando, FL 32821",
+    "locationNotes": "Corner of International Drive and Central Florida Parkway, just a few miles from SeaWorld, behind the Wawa and next to Applebee's.",
+    "phone": "(407) 477-1212",
+    "phoneE164": "+14074771212",
+    "ownerEmailsFromResponses": [
+      "Ginthericecream@yahoo.com",
+      "andreabyrd03@yahoo.com"
+    ],
+    "website": "http://ginthersswirls.com/",
+    "sisterWebsite": "http://www.twisteetreatocoeelbv.com/",
+    "googleMapsUrl": "https://www.google.com/maps/place/Ginther's+Swirls+Ice+Cream/@28.4049874,-81.4565337,18z/data=!4m8!3m7!1s0x88e77e275bcec9b5:0x273bf4d492489dbb!8m2!3d28.4051444!4d-81.4567778!9m1!1b1!16s%2Fg%2F11bbrk710h!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.6,
+    "totalReviews": 1513,
+    "photoCount": 507,
+    "ratingDistribution": {
+      "5_stars": 1225,
+      "4_stars": 164,
+      "3_stars": 40,
+      "2_stars": 28,
+      "1_star": 56
+    },
+    "hours": {
+      "monday": "11:00 AM – 10:30 PM",
+      "tuesday": "11:00 AM – 10:30 PM",
+      "wednesday": "11:00 AM – 10:30 PM",
+      "thursday": "11:00 AM – 10:30 PM",
+      "friday": "11:00 AM – 11:00 PM",
+      "saturday": "11:00 AM – 11:00 PM",
+      "sunday": "11:00 AM – 10:30 PM",
+      "seasonalNotes": "Open Sunday–Thursday until 11:00 PM during peak summer months (June through August 13). Indoor seating closes at 10:00 PM daily."
+    },
+    "popularTimes": {
+      "typicalVisitDuration": "10 min to 4 hr",
+      "tuesdayHourlyBusynessPercent": {
+        "6AM": 0,
+        "7AM": 0,
+        "8AM": 0,
+        "9AM": 0,
+        "10AM": 0,
+        "11AM": 15,
+        "12PM": 13,
+        "1PM": 20,
+        "2PM": 31,
+        "3PM": 40,
+        "4PM": 38,
+        "5PM": 40,
+        "6PM": 45,
+        "7PM": 50,
+        "8PM": 45,
+        "9PM": 45,
+        "10PM": 36,
+        "11PM": 0
+      }
+    },
+    "aboutTab": {
+      "editorialSummary": "Casual, family-owned counter-serve providing soft-serve ice cream & milkshakes, plus a drive-thru.",
+      "shortTagline": "Standby with a drive-thru for soft serve",
+      "sections": {
+        "Accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ],
+        "Service options": [
+          "No-contact delivery",
+          "Delivery",
+          "Drive-through",
+          "In-store pickup",
+          "Onsite services",
+          "Takeout",
+          "Dine-in"
+        ],
+        "Popular for": [
+          "Solo dining"
+        ],
+        "Dining options": [
+          "Seating",
+          "No table service"
+        ],
+        "Amenities": [
+          "Restroom"
+        ],
+        "Atmosphere": [
+          "Casual",
+          "Cozy",
+          "Trendy"
+        ],
+        "Crowd": [
+          "Groups"
+        ],
+        "Planning": [
+          "Quick visit"
+        ],
+        "Payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ],
+        "Children": [
+          "Good for kids"
+        ],
+        "Parking": [
+          "Free parking lot"
+        ],
+        "Pets": [
+          "Dogs allowed outside"
+        ]
+      }
+    },
+    "reviewSummary": {
+      "geminiSummary": "People say this ice cream shop offers delicious, creamy soft serve and hard ice cream with a wide variety of flavors and toppings, including popular options like pineapple Dole Whip. They also highlight the generous portion sizes and very reasonable prices. Visitors appreciate the friendly, attentive staff and the convenient drive-thru and walk-up window service.",
+      "featuredQuotes": [
+        "Seated quickly, polite staff, good food, reasonable prices",
+        "Our kids love this place, great service, fun atmosphere.",
+        "Generous with toppings and portions, great flavor, super friendly staff."
+      ],
+      "visitorUpdates": [
+        {
+          "text": "Brianna hooked us up. 6/26/25 🍦",
+          "timeAgo": "a year ago"
+        }
+      ],
+      "topics": [
+        { "topic": "friendly staff", "mentions": 221 },
+        { "topic": "soft serve", "mentions": 67 },
+        { "topic": "drive thru", "mentions": 58 },
+        { "topic": "Banana Split", "mentions": 38 },
+        { "topic": "shakes", "mentions": 30 },
+        { "topic": "large scoops", "mentions": 18 },
+        { "topic": "outdoor seating", "mentions": 17 },
+        { "topic": "dole whip", "mentions": 15 },
+        { "topic": "butter pecan", "mentions": 8 },
+        { "topic": "hot fudge sundae", "mentions": 5 }
+      ]
+    },
+    "orderOnline": {
+      "userProvidedUrl": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFiYnJrNzEwaBgAOgMI8A0%3D",
+      "googleMapsCanonicalOrderUrl": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFiYnJrNzEwaBgAOgMI8A0%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&fo_s=OA&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "legacyFoodGoogleUrl": "https://food.google.com/chooseprovider?restaurantId=/g/11bbrk710h",
+      "legacyFoodGoogleStatus": "HTTP 404 Not Found (Google migrated Food Ordering provider selection to https://www.google.com/searchviewer/42?cvd=...)",
+      "viewerStatus": "HTTP 200 OK - Renders Google's official 'Food Provider Selection Viewer' with Pickup and Delivery tabs for Ginther's Swirls Ice Cream (/g/11bbrk710h).",
+      "providers": {
+        "pickup": [
+          {
+            "provider": "Online Ordering by DoorDash",
+            "details": "No fee · Ready in 1 min",
+            "url": "https://order.online/store/-208167/?pickup=true&hideModal=true&utm_source=gfo"
+          },
+          {
+            "provider": "Uber Eats",
+            "details": "No fee · Ready in 10–11 min",
+            "url": "https://www.ubereats.com/store/ginthers-swirls-ice-cream-11036-international-dr/eisTq9euWVGonLc7sp3NtQ?diningMode=PICKUP"
+          },
+          {
+            "provider": "DoorDash",
+            "details": "No fee · Ready in 1 min",
+            "url": "https://www.doordash.com/store/ginther%27s-swirls-ice-cream-orlando-208167/?pickup=true"
+          },
+          {
+            "provider": "Caviar",
+            "details": "No fee · Ready in 1 min",
+            "url": "https://www.trycaviar.com/store/ginther%27s-swirls-ice-cream-orlando-208167/?pickup=true"
+          },
+          {
+            "provider": "Postmates",
+            "details": "Pickup",
+            "url": "https://www.postmates.com/store/ginthers-swirls-ice-cream-11036-international-dr/eisTq9euWVGonLc7sp3NtQ?diningMode=PICKUP"
+          }
+        ],
+        "delivery": [
+          {
+            "provider": "Online Ordering by DoorDash",
+            "details": "Service fee 10% · Delivery fee $3.99 · Delivers in 25 min",
+            "url": "https://order.online/store/-208167/?delivery=true&hideModal=true&utm_source=gfo"
+          },
+          {
+            "provider": "Uber Eats",
+            "details": "Service fee 5%–15% · Delivery fees start at $0.50 · Delivers in 14–17 min",
+            "url": "https://www.ubereats.com/store/ginthers-swirls-ice-cream-11036-international-dr/eisTq9euWVGonLc7sp3NtQ"
+          },
+          {
+            "provider": "DoorDash",
+            "details": "Delivery fees start at $0.50 · Service fee may apply · Delivers in 38 min",
+            "url": "https://www.doordash.com/store/ginther%27s-swirls-ice-cream-orlando-208167/"
+          },
+          {
+            "provider": "Caviar",
+            "details": "Delivery fees start at $0.50 · Service fee may apply · Delivers in 38 min",
+            "url": "https://www.trycaviar.com/store/ginther%27s-swirls-ice-cream-orlando-208167/"
+          },
+          {
+            "provider": "Postmates",
+            "details": "Service fee 5%–15% · Delivery fees start at $0.50 · Delivers in 10–25 min",
+            "url": "https://www.postmates.com/store/ginthers-swirls-ice-cream-11036-international-dr/eisTq9euWVGonLc7sp3NtQ"
+          }
+        ]
+      }
+    },
+    "reviews": [
+      {
+        "location": "Ginther's Swirls Ice Cream",
+        "reviewerName": "Tanya Grace",
+        "reviewerBadge": "Local Guide · 255 reviews · 1,945 photos",
+        "rating": 5,
+        "timeAgo": "7 months ago",
+        "text": "✨First visit to Ginther’s on a Sunday evening in March after a full day at a nearby theme park. We intentionally avoided spending on overpriced theme park treats and needless to say, so glad we did.\n\nTo our wonderful surprise, we came across this hidden gem. So many options on the menu, including vegan, non-dairy, fat-free selections.\n\nMy teenage daughter ordered a banana boat (similar to the banana split, but vanilla ice cream exclusively) with all the toppings- hot fudge, whipped cream and they generously provided (her favorite) extra cherries at no additional charge.\nI tried one of the seasonal, specialty flavor - pomegranate. It was very yummy … just the right combination of sweet with a hint of sour.\n\nThe customer service is five star 🌟🌟🌟🌟🌟 OUTSTANDING. It was spring break, so they were open an hour later. We arrived close to closing time and the staff were so upbeat, friendly and engaging. My teenagers portion was so huge I helped her finish it. This was the perfect ending to a very eventful day! Thank you 🙏🏽. We look forward to returning again to try some of the other flavors!! Keep up the great work 😊!",
+        "mediaCaptions": ["Pomegranate ice cream with chocolate sprinkles.", "Video"],
+        "ownerResponse": {
+          "timeAgo": "7 months ago",
+          "text": "We appreciate the wonderful review , Tanya! We look forward to seeing you again"
+        }
+      },
+      {
+        "location": "Ginther's Swirls Ice Cream",
+        "reviewerName": "Sam Petkunas",
+        "reviewerBadge": "Local Guide · 28 reviews · 19 photos",
+        "rating": 5,
+        "timeAgo": "7 months ago",
+        "text": "Just wow!\nMy daughter, brother-in-law and I attended Megacon Orlando today and decided to go for a sweet treat afterwards. Ginther's was located close by and had great reviews so we decided to give it a try -\nI gotta say, Ginther's has quickly risen to the absolute top of my list for ice cream places in central Florida. The service we received was just excellent! The girl at the window was very kind, did not rush us, and answered all of our questions. The three dishes we bought (orange slush, waffle bowl cone, and a brownie boat) were all fantastic! The slush tasted exactly as you'd hope - like a melted down creamsicle but still thick. The waffle bowl cone was crisp and fresh with generous servings of cookie dough pieces, as was th  brownie boat with their brownie pieces. The ice cream was nice and cold, thick and the definition of what soft serve should strive for.\nWe are all leaving here very full and incredibly impressed.\nWe will absolutely be back when we are next in the area!",
+        "mediaCaptions": ["3 photos"],
+        "ownerResponse": {
+          "timeAgo": "7 months ago",
+          "text": "Thank you for the wonderful review, Sam! Looking forward to your next visit!"
+        }
+      },
+      {
+        "location": "Ginther's Swirls Ice Cream",
+        "reviewerName": "M D",
+        "reviewerBadge": "Local Guide · 109 reviews · 640 photos",
+        "rating": 5,
+        "timeAgo": "2 months ago",
+        "text": "I rarely give 5 stars but this place was great.  Big scoops without the big price.  Service was great    We went twice during our stay in Orlando.  The first time it was really crowded and took a while.  The second time we got our ice cream in 5 minutes.",
+        "mediaCaptions": ["Caramel Truffle", "Black Cherry."],
+        "ownerResponse": null
+      },
+      {
+        "location": "Ginther's Swirls Ice Cream",
+        "reviewerName": "Chad Carroll",
+        "reviewerBadge": "Local Guide · 159 reviews · 1,305 photos",
+        "rating": 5,
+        "timeAgo": "5 months ago",
+        "text": "I went back to Ginther's Swirls Ice Cream for the pineapple float because apparently my grown adult responsibilities now include chasing frozen fruit sugar like a retired beach dad in flip-flops. And listen... that thing is dangerous. Sweet, cold, creamy, tropical. Tastes like somebody blended vacation, bad decisions, and childhood happiness into one cup.\nThe first sip had me standing there reevaluating every gas station slushie I ever respected. Pineapple float hit my soul like Florida humidity hits a windshield. Immediate fog. Brain gone. Survival instincts weakened.\nThe place itself got that old-school ice cream stand energy too. No unnecessary nonsense. Just people lining up quietly like worshippers at the Church of Dairy. Humanity at its peak honestly. Nobody arguing politics. Nobody pretending to be an entrepreneur on Instagram. Just citizens united under soft serve and regret.\n10/10. I came for “just a little treat” and left emotionally attached to a pineapple float. Humans are fragile creatures.",
+        "mediaCaptions": ["2 photos"],
+        "ownerResponse": {
+          "timeAgo": "4 months ago",
+          "text": "Chad! This is such an amazing review, thank you! Please email me at Ginthericecream@yahoo.com !"
+        }
+      },
+      {
+        "location": "Ginther's Swirls Ice Cream",
+        "reviewerName": "Courtney Moscarella",
+        "reviewerBadge": "Local Guide · 6 reviews · 20 photos",
+        "rating": 5,
+        "timeAgo": "4 months ago",
+        "text": "First time at Ginther's and we will definitely be back! The menu is extensive and the prices are cheap. We got the hard scoop banana split that felt like it weighed 5 pounds and it was absolutely delicious. They also let you swap out the toppings. Highly recommend!",
+        "mediaCaptions": ["2 photos"],
+        "ownerResponse": null
+      },
+      {
+        "location": "Ginther's Swirls Ice Cream",
+        "reviewerName": "Jun",
+        "reviewerBadge": "Local Guide · 59 reviews · 103 photos",
+        "rating": 5,
+        "timeAgo": "10 months ago",
+        "text": "We were totally craving something sweet, so I went for a classic soft serve vanilla ice cream in a waffle cone. It was so incredibly thick and creamy! Easily one of the best soft serves I've ever had.\n\nMy fiancée ordered the banana split, and she absolutely loved it, too. The portion was so big, she couldn't even finish it, which just goes to show how much you get for the price!\n\nI'd definitely come back here in a heartbeat and highly recommend this spot to anyone looking for an amazing sweet treat!",
+        "mediaCaptions": ["2 photos"],
+        "ownerResponse": {
+          "timeAgo": "9 months ago",
+          "text": "Thank you for your great review!"
+        }
+      },
+      {
+        "location": "Ginther's Swirls Ice Cream",
+        "reviewerName": "EL_CABE",
+        "reviewerBadge": "Local Guide · 301 reviews · 1,795 photos",
+        "rating": 4,
+        "timeAgo": "a year ago",
+        "text": "Ginther’s Swirls Ice Cream is a fun little spot that’s perfect when you're craving a good ice cream. The vibe is relaxed, the service is friendly, and the ice cream? Definitely very good! They’ve got a nice variety of flavors and swirls, and everything tastes fresh.\n\nIt's the kind of place that makes you feel like a kid again, whether you’re going solo or with family. It’s not fancy, but that’s part of the charm....just a cool place to chill and enjoy a delicious treat.\n\nWould’ve given it 5 stars if there were a few more creative or seasonal options, but overall, it’s a solid go-to for ice cream lovers. I’ll definitely be back!",
+        "mediaCaptions": ["7 photos"],
+        "ownerResponse": {
+          "timeAgo": "7 months ago",
+          "text": "Thank you ! We do have a rotating soft serve and scoop flavor ! Ask for our current specialities !"
+        }
+      },
+      {
+        "location": "Ginther's Swirls Ice Cream",
+        "reviewerName": "lilian gonzalez",
+        "reviewerBadge": "Local Guide · 234 reviews · 1,548 photos",
+        "rating": 5,
+        "timeAgo": "9 months ago",
+        "text": "I loved this ice cream location! Customer service is top notch and the frozen treats are very affordable I spend less then 13 dollars and got vanilla and chocolate swirl with cherries and a vanilla soft serve and a small mango milkshake. The ice creams were both amazing and creamy and the mango smoothie was okay still very good but it barely did taste like mango but other then that awesome spot to get a frozen treat.",
+        "mediaCaptions": ["2 photos"],
+        "ownerResponse": {
+          "timeAgo": "8 months ago",
+          "text": "Thanks so much Lilian! We will remind our staff to use extra mango flavor to increase the strength!"
+        }
+      },
+      {
+        "location": "Ginther's Swirls Ice Cream",
+        "reviewerName": "CBFB",
+        "reviewerBadge": "Local Guide · 457 reviews · 2,279 photos",
+        "rating": 5,
+        "timeAgo": "a year ago",
+        "text": "What a great little ice cream shop! After doing some mini golf we figured some ice cream would cool us off and Ginther's did not disappoint.\n\nIf you don't want to be out in the heat they have a small inside area with a kiosk for ordering. The soft serve was delicious and the shakes for the kiddos were great. Well be back for sure.",
+        "mediaCaptions": ["6 photos"],
+        "ownerResponse": null
+      },
+      {
+        "location": "Ginther's Swirls Ice Cream",
+        "reviewerName": "Bobbi Bourgeois",
+        "reviewerBadge": "Local Guide · 19 reviews · 5 photos",
+        "rating": 5,
+        "timeAgo": "3 months ago",
+        "text": "Delicious and quick! Cute little spot right outside of SeaWorld! Us and the kids enjoyed this treat in this crazy hot weather. We ordered 2 shakes and kids soft serve.",
+        "mediaCaptions": [],
+        "ownerResponse": null
+      }
+    ]
+  },
+  "sisterLocations": {
+    "twisteeTreatOcoee": {
+      "name": "Twistee Treat of Ocoee",
+      "googleMapsTitle": "Twistee Treat",
+      "category": "Ice cream shop",
+      "placeId": "0x88e7823f1f4c6ea5:0x2905b6a5d0cd599c",
+      "knowledgeGraphId": "/g/1tfmjn4p",
+      "plusCode": "HF25+79 Ocoee, Florida",
+      "coordinates": {
+        "lat": 28.5506325,
+        "lng": -81.5416159
+      },
+      "address": "1500 Maguire Rd, Ocoee, FL 34761",
+      "locationNotes": "Iconic 28-foot fiberglass chocolate & vanilla soft-serve cone building with drive-thru and outdoor patio seating. Family-operated since 1994.",
+      "phone": "(407) 877-6888",
+      "phoneE164": "+14078776888",
+      "website": "http://www.twisteetreatocoeelbv.com/",
+      "googleMapsUrl": "https://www.google.com/maps/place/Twistee+Treat/@28.5506325,-81.5416159,17z/data=!3m1!4b1!4m6!3m5!1s0x88e7823f1f4c6ea5:0x2905b6a5d0cd599c!8m2!3d28.5506325!4d-81.5416159!16s%2Fg%2F1tfmjn4p",
+      "orderOnlineUrl": "https://www.google.com/searchviewer/42?cvd=CLw_EiUKI-ICIDIeEhciFdLX29IPDwoLL2cvMXRmbWpuNHAYADoDCPAN",
+      "rating": 4.7,
+      "totalReviews": 2540,
+      "photoCount": 405,
+      "editorialSummary": "Ice cream spot with outdoor seating offering sundaes, soft-serve cones & shakes.",
+      "hours": {
+        "monday": "10:30 AM – 10:30 PM",
+        "tuesday": "10:30 AM – 10:30 PM",
+        "wednesday": "10:30 AM – 10:30 PM",
+        "thursday": "10:30 AM – 10:30 PM",
+        "friday": "10:30 AM – 11:00 PM",
+        "saturday": "10:30 AM – 11:00 PM",
+        "sunday": "10:30 AM – 10:30 PM",
+        "seasonalNotes": "Open Sunday–Thursday until 11:00 PM during summer months (June through August 13)."
+      },
+      "featuredQuotes": [
+        "Huge selection of ice cream, shakes, sundaes with tons of flavors and toppings.",
+        "The customer service is as sweet as the Chocolate chips milkshake I ordered .",
+        "Highly recommend a choc/vanilla twirl with cookie dough and brownie bites!"
+      ],
+      "reviews": [
+        {
+          "location": "Twistee Treat of Ocoee",
+          "reviewerName": "J Ramos",
+          "reviewerBadge": "Local Guide · 247 reviews · 918 photos",
+          "rating": 5,
+          "timeAgo": "4 months ago",
+          "text": "I recently moved to Florida two months ago and have been searching for a good soft serve ice cream spot. I’ve tried several places, but this one has been my favorite so far.\n\nThe soft-serve ice cream was amazing and very reasonably priced. My wife ordered the brownie sundae and felt the brownie was a little too hard. She would have preferred it warmed up before serving.\n\nDespite that, I’m still giving this place 5 stars because the soft serve was excellent. The gentleman working at the front counter was also very helpful, polite, and professional. It was quite busy when we visited, but he handled the crowd quickly and efficiently while providing great customer service.",
+          "ownerResponse": null
+        },
+        {
+          "location": "Twistee Treat of Ocoee",
+          "reviewerName": "Leigh Murray",
+          "reviewerBadge": "Local Guide · 330 reviews · 109 photos",
+          "rating": 5,
+          "timeAgo": "2 months ago",
+          "text": "Excellent soft ice-cream, great value for money.  Staff are super friendly.   Worth a try.",
+          "ownerResponse": null
+        }
+      ]
+    },
+    "twisteeTreatLBV": {
+      "name": "Twistee Treat of Lake Buena Vista",
+      "googleMapsTitle": "Twistee Treat Of Lake Buena Vista",
+      "category": "Ice cream shop",
+      "placeId": "0x88dd801a65477e1b:0xf5dbe5290035b543",
+      "knowledgeGraphId": "/g/1vn_zs5g",
+      "plusCode": "9FVV+3Q Orlando, Florida",
+      "coordinates": {
+        "lat": 28.3927461,
+        "lng": -81.5055653
+      },
+      "address": "11947 S Apopka Vineland Rd, Orlando, FL 32836",
+      "locationNotes": "Located right in front of the Winn-Dixie shopping plaza near Disney Springs / Lake Buena Vista. Features indoor seating, outdoor patio, and drive-thru. Direct licensee since 1994.",
+      "phone": "(407) 239-1400",
+      "phoneE164": "+14072391400",
+      "website": "http://www.twisteetreatocoeelbv.com/",
+      "googleMapsUrl": "https://www.google.com/maps/place/Twistee+Treat+Of+Lake+Buena+Vista/@28.3927461,-81.5055653,17z/data=!3m1!4b1!4m6!3m5!1s0x88dd801a65477e1b:0xf5dbe5290035b543!8m2!3d28.3927461!4d-81.5055653!16s%2Fg%2F1vn_zs5g",
+      "orderOnlineUrl": "https://www.google.com/searchviewer/42?cvd=CLw_EiUKI-ICIDIeEhciFdLX29IPDwoLL2cvMXZuX3pzNWcYADoDCPAN",
+      "rating": 4.7,
+      "totalReviews": 1609,
+      "photoCount": 547,
+      "editorialSummary": "Ice cream spot with outdoor seating offering sundaes, soft-serve cones & shakes.",
+      "hours": {
+        "monday": "11:00 AM – 10:30 PM",
+        "tuesday": "11:00 AM – 10:30 PM",
+        "wednesday": "11:00 AM – 10:30 PM",
+        "thursday": "11:00 AM – 10:30 PM",
+        "friday": "11:00 AM – 11:00 PM",
+        "saturday": "11:00 AM – 11:00 PM",
+        "sunday": "11:00 AM – 10:30 PM",
+        "seasonalNotes": "Open Sunday–Thursday until 11:00 PM during summer months (June through August 13)."
+      },
+      "featuredQuotes": [
+        "Great service, clean place, reasonable price, yummy ice cream ...",
+        "Friendly staff, fast service, fun atmosphere, and excellent options.",
+        "Smooth, creamy soft serve ice cream at a great price served with care."
+      ],
+      "reviews": [
+        {
+          "location": "Twistee Treat of Lake Buena Vista",
+          "reviewerName": "Cissy Macias",
+          "reviewerBadge": "Local Guide · 294 reviews · 887 photos",
+          "rating": 5,
+          "timeAgo": "2 months ago",
+          "text": "What a gem!!\nWe absolutely loved our visit.\nThe young staff were pleasant and helpful.\nThe facility is small, but amazing.\nThe options are endless.\nThe have non-dairy options.\nThe service was excellent.\nWe had a banana split (except they forgot the banana.   NO BIGGIE!!) and it was awesome and nicely made.   They used REAL whipped cream (NOT THE whipped \"topping\" - is 100% a difference!!!)  We appreciate the finer quality of toppings and they did not skimp!!!\nWe had a single scoop w/Jimmie's (sprinkles) in a waffle bowl.  GENEROUS!!!\nAND  a Dole Whip Float that was outstanding!!!\nI would highly recommend.\nThe inside seating space is small.\nThere is outside seating and also a drive-thru.\nThe prices are so flipping amazing!!!\nDefinitely a \"go to\" the next time we're in Orlando.",
+          "ownerResponse": {
+            "timeAgo": "2 months ago",
+            "text": "Thank you so  Cissy! Please let us know if we forget anything and we will gladly fix for you !"
+          }
+        },
+        {
+          "location": "Twistee Treat of Lake Buena Vista",
+          "reviewerName": "Frank Mercatante",
+          "reviewerBadge": "Local Guide · 29 reviews · 31 photos",
+          "rating": 5,
+          "timeAgo": "5 months ago",
+          "text": "You remember how Dairy Queen or McDonalds ice cream used to taste when you were younger and how it hasn't tasted as good for a long time... You're not crazy, but luckily this place does. 10 stars! (It's that good)",
+          "ownerResponse": {
+            "timeAgo": "5 months ago",
+            "text": "Frank ! This is such a great review! Please email us at : andreabyrd03@yahoo.com"
+          }
+        },
+        {
+          "location": "Twistee Treat of Lake Buena Vista",
+          "reviewerName": "cameron summers",
+          "reviewerBadge": "3 reviews · 1 photo",
+          "rating": 5,
+          "timeAgo": "Edited a week ago",
+          "text": "Very nice place, ice-cream is delicious and the place is decorated very cute for halloween. The staff are also very kind and respectful!",
+          "ownerResponse": null
+        }
+      ]
+    }
+  },
+  "combinedStatsAcrossAll3Locations": {
+    "totalGoogleReviews": 5662,
+    "weightedAverageRating": 4.67,
+    "breakdown": "Ginther's Swirls (4.6 ★, 1,513 reviews) + Twistee Treat of Ocoee (4.7 ★, 2,540 reviews) + Twistee Treat of Lake Buena Vista (4.7 ★, 1,609 reviews)"
+  }
+}

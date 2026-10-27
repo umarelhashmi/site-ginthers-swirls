@@ -1,0 +1,165 @@
+AXWindow | Ginther's Swirls Ice Cream - Google Maps - Google Chrome - Umar
+AXGroup | Ginther's Swirls Ice Cream - Google Maps - Google Chrome - Umar
+AXButton | Back | Back
+AXButton | Forward | Forward
+AXButton | Reload | Reload
+AXPopUpButton | View site information | View site information
+AXTextField | Address and search bar | Address and search bar | google.com/maps/place/Ginther's+Swirls+Ice+Cream/@28.4051444,-81.4580653,18z/data=!4m8!3m7!1s0x88e77e275bcec9b5:0x273bf4d492489dbb!8m2!3d28.4051444!4d-81.4567778!9m1!1b1!16s%2Fg%2F11bbrk710h!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D
+AXButton | Install Google Maps | Install Google Maps
+AXButton | Bookmark this tab | Bookmark this tab
+AXPopUpButton | Extensions | Extensions
+AXButton | Umar | Umar
+AXPopUpButton | Relaunch to update | Relaunch to update
+AXWebArea | Ginther's Swirls Ice Cream - Google Maps
+AXGroup | Google Maps | Google Maps
+AXGroup | Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key. | Map · Use arrow keys to pan the map. · Get details about a place by pressing its corresponding number key.
+AXButton | Back | Back
+AXComboBox | Ginther's Swirls Ice Cream
+AXButton | Search | Search
+AXButton | Close | Close
+AXGroup | Available search options for this area | Available search options for this area
+AXButton | Nearby restaurants
+AXButton | Hotels
+AXButton | Things to do
+AXButton | Bars
+AXButton | Coffee
+AXButton | Takeout
+AXButton | Groceries
+AXGroup | Ginther's Swirls Ice Cream | Ginther's Swirls Ice Cream
+AXRadioButton | Overview of Ginther's Swirls Ice Cream | Overview of Ginther's Swirls Ice Cream
+AXRadioButton | Menu | Menu
+AXRadioButton | Reviews for Ginther's Swirls Ice Cream | Reviews for Ginther's Swirls Ice Cream
+AXRadioButton | About Ginther's Swirls Ice Cream | About Ginther's Swirls Ice Cream
+AXStaticText | Get pickup or delivery
+AXStaticText | See menus and fees
+AXLink | Order online | Order online
+AXStaticText | Order online
+AXPopUpButton | Information | Information
+AXImage | 5 stars, 1,225 reviews | 5 stars, 1,225 reviews
+AXImage | 4 stars, 164 reviews | 4 stars, 164 reviews
+AXImage | 3 stars, 40 reviews | 3 stars, 40 reviews
+AXImage | 2 stars, 28 reviews | 2 stars, 28 reviews
+AXImage | 1 stars, 56 reviews | 1 stars, 56 reviews
+AXStaticText | 4.6
+AXImage | 4.6 stars | 4.6 stars
+AXStaticText | 1,513 reviews
+AXStaticText | People say this ice cream shop offers delicious, creamy soft serve and hard ice cream with a wide variety of flavors and toppings, including popular options like pineapple Dole Whip. They also highlight the generous portion sizes and very reasonable prices. Visitors appreciate the friendly, attentive staff and the convenient drive-thru and walk-up window service.
+AXStaticText | +7
+AXStaticText | Summarized with Gemini
+AXButton | Actions for this review summary | Actions for this review summary
+AXButton | Write a review | Write a review
+AXButton | Sort reviews | Sort reviews
+AXRadioGroup | Refine reviews | Refine reviews
+AXRadioButton | All reviews | All reviews
+AXRadioButton | soft serve, mentioned in 67 reviews | soft serve, mentioned in 67 reviews
+AXRadioButton | dole whip, mentioned in 15 reviews | dole whip, mentioned in 15 reviews
+AXRadioButton | drive thru, mentioned in 58 reviews | drive thru, mentioned in 58 reviews
+AXRadioButton | Banana Split, mentioned in 38 reviews | Banana Split, mentioned in 38 reviews
+AXRadioButton | large scoops, mentioned in 18 reviews | large scoops, mentioned in 18 reviews
+AXRadioButton | outdoor seating, mentioned in 17 reviews | outdoor seating, mentioned in 17 reviews
+AXRadioButton | butter pecan, mentioned in 8 reviews | butter pecan, mentioned in 8 reviews
+AXRadioButton | shakes, mentioned in 30 reviews | shakes, mentioned in 30 reviews
+AXRadioButton | friendly staff, mentioned in 221 reviews | friendly staff, mentioned in 221 reviews
+AXRadioButton | hot fudge sundae, mentioned in 5 reviews | hot fudge sundae, mentioned in 5 reviews
+AXGroup | Tanya Grace | Tanya Grace
+AXImage | 5 stars | 5 stars
+AXStaticText | 7 months ago
+AXCheckBox | Like | Like
+AXButton | Share Tanya Grace's review. | Share Tanya Grace's review.
+AXGroup | Sam Petkunas | Sam Petkunas
+AXImage | 5 stars | 5 stars
+AXStaticText | 7 months ago
+AXCheckBox | Like | Like
+AXButton | Share Sam Petkunas's review. | Share Sam Petkunas's review.
+AXGroup | M D | M D
+AXImage | 5 stars | 5 stars
+AXStaticText | 2 months ago
+AXCheckBox | Like | Like
+AXButton | Share M D's review. | Share M D's review.
+AXGroup | Chad Carroll | Chad Carroll
+AXImage | 5 stars | 5 stars
+AXStaticText | 5 months ago
+AXCheckBox | 1 like | 1 like
+AXButton | Share Chad Carroll's review. | Share Chad Carroll's review.
+AXGroup | Courtney Moscarella | Courtney Moscarella
+AXImage | 5 stars | 5 stars
+AXStaticText | 4 months ago
+AXCheckBox | Like | Like
+AXButton | Share Courtney Moscarella's review. | Share Courtney Moscarella's review.
+AXGroup | Jun | Jun
+AXImage | 5 stars | 5 stars
+AXStaticText | 10 months ago
+AXCheckBox | Like | Like
+AXButton | Share Jun's review. | Share Jun's review.
+AXGroup | EL_CABE | EL_CABE
+AXImage | 4 stars | 4 stars
+AXStaticText | a year ago
+AXCheckBox | Like | Like
+AXButton | Share EL_CABE's review. | Share EL_CABE's review.
+AXGroup | lilian gonzalez | lilian gonzalez
+AXImage | 5 stars | 5 stars
+AXStaticText | 9 months ago
+AXCheckBox | Like | Like
+AXButton | Share lilian gonzalez's review. | Share lilian gonzalez's review.
+AXGroup | CBFB | CBFB
+AXImage | 5 stars | 5 stars
+AXStaticText | a year ago
+AXGroup | What a great little ice cream shop! After doing some mini golf we figured some ice cream would cool us off and Ginther's did not disappoint. … See more | What a great little ice cream shop! After doing some mini golf we figured some ice cream would cool us off and Ginther's did not disappoint. … See more
+AXCheckBox | Like | Like
+AXButton | Share CBFB's review. | Share CBFB's review.
+AXGroup | Bobbi Bourgeois | Bobbi Bourgeois
+AXImage | 5 stars | 5 stars
+AXStaticText | 3 months ago
+AXCheckBox | Like | Like
+AXButton | Share Bobbi Bourgeois's review. | Share Bobbi Bourgeois's review.
+AXButton | Collapse side panel | Collapse side panel
+AXButton | Google apps | Google apps
+AXButton | Google Account: Umar Shah (umarashah7861@gmail.com), Google membership | Google Account: Umar Shah (umarashah7861@gmail.com), Google membership
+AXGroup | Terrain | Terrain
+AXHeading | Terrain
+AXStaticText | Terrain
+AXStaticText | View topography and elevation
+AXCheckBox | Show terrain | Show terrain
+AXCheckBox | Show Your Location | Show Your Location
+AXButton | Zoom in | Zoom in
+AXButton | Zoom out | Zoom out
+AXButton | Browse Street View images | Browse Street View images
+AXButton | Street View | Street View
+AXGroup | Interactive map | Interactive map
+AXStaticText | Layers
+AXButton | Layers
+AXStaticText | Map data ©2026 
+AXButton | United States
+AXButton | Terms
+AXButton | Privacy
+AXButton | Send Product Feedback
+AXButton | 100 ft
+AXPopUpButton | Tab search | Tab search
+AXRadioButton | [QUALIFICATION] Evaluating Responses from AI Assistants v21 | [QUALIFICATION] Evaluating Responses from AI Assistants v21
+AXRadioButton | app.dataannotation.tech/publish/g/Y2YbKXRWMicPXQAjLAZ-Lww1QxAKWyhQLRwTXQgIAmI0V2ZhPjcScjw0DRc= | app.dataannotation.tech/publish/g/Y2YbKXRWMicPXQAjLAZ-Lww1QxAKWyhQLRwTXQgIAmI0V2ZhPjcScjw0DRc=
+AXRadioButton | Settings | Settings
+AXRadioButton | Play, at Ibn Hashim | Play, at Ibn Hashim
+AXRadioButton | Ibn Hashim Exams | Ibn Hashim Exams
+AXRadioButton | how to update video on app store - Google Search | how to update video on app store - Google Search
+AXRadioButton | App Store Connect | App Store Connect
+AXRadioButton | ‎AVIA Studio Mobile: AI Editor App - App Store | ‎AVIA Studio Mobile: AI Editor App - App Store
+AXRadioButton | Product catalog – AVIA Studios – Stripe - High memory usage - 1.0 GB | Product catalog – AVIA Studios – Stripe - High memory usage - 1.0 GB
+AXRadioButton | using the word "haywaan naatiq" to describe the master | Sunniport | using the word "haywaan naatiq" to describe the master | Sunniport
+AXRadioButton | what is an actionable insight - Google Search | what is an actionable insight - Google Search
+AXRadioButton | what is a live coding interview test - Google Search | what is a live coding interview test - Google Search
+AXRadioButton | How to solve a Google coding interview question - YouTube | How to solve a Google coding interview question - YouTube
+AXRadioButton | Umar Shah | LinkedIn - High memory usage - 1.4 GB | Umar Shah | LinkedIn - High memory usage - 1.4 GB
+AXRadioButton | Mushaf Ibn Hashim | Ibn Hashim Institute | Mushaf Ibn Hashim | Ibn Hashim Institute
+AXRadioButton | tajweed quran 15 pdf - Google Search | tajweed quran 15 pdf - Google Search
+AXRadioButton | madani quran tajweed - Google Search | madani quran tajweed - Google Search
+AXRadioButton | Tajweed Moshaf | Tajweed Moshaf
+AXRadioButton | 040Quran15tajweedi.pdf - High memory usage - 2.2 GB | 040Quran15tajweedi.pdf - High memory usage - 2.2 GB
+AXRadioButton | Download the 16-Line Color-Coded Tajweed Quran PDF (Para 1 to 30) - Irfan ul Quran | Download the 16-Line Color-Coded Tajweed Quran PDF (Para 1 to 30) - Irfan ul Quran
+AXRadioButton | Download Mushaf | Download Mushaf
+AXRadioButton | Ginther's Swirls Ice Cream - Google Maps | Ginther's Swirls Ice Cream - Google Maps
+AXButton | Close | Close
+AXRadioButton | Inbox (556) - umarashah7861@gmail.com - Gmail | Inbox (556) - umarashah7861@gmail.com - Gmail
+AXRadioButton | Nona’s Urban Pizza | Orlando, FL | Nona’s Urban Pizza | Orlando, FL
+AXRadioButton | Generative AI Dashboard | Run Image, Video, 3D and Audio Models | fal | Generative AI Dashboard | Run Image, Video, 3D and Audio Models | fal
+AXButton | New Tab | New Tab
+AXButton | Ask Gemini | Ask Gemini

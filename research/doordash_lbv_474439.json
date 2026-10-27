@@ -1,0 +1,1380 @@
+{
+  "extractedAt": "2026-10-27T23:33:36.761Z",
+  "sourceUrl": "https://www.doordash.com/store/474439/",
+  "resolvedUrl": "https://www.doordash.com/store/twistee-treat-of-lake-buena-vista-orlando-474439/1774005/",
+  "storeMetadata": {
+    "storeId": "474439",
+    "name": "Twistee Treat of Lake Buena Vista",
+    "businessId": "768657",
+    "businessName": "Twistee Treat of Lake Buena Vista",
+    "categoryDescription": "Ice Cream & Gelato",
+    "storeBio": "Welcome to  Twistee Treat of Ocoee, Twistee Treat of Lake Buena Vista, and Ginther's Swirls Website. We have been family-owned and operated since 1994.",
+    "priceRange": "$$",
+    "phone": "+14072391400",
+    "website": "https://twisteetreatocoeelbv.com/",
+    "address": {
+      "street": "11947 South Apopka Vineland Road",
+      "city": "Orlando",
+      "state": "FL",
+      "postalCode": "32836",
+      "country": "US",
+      "displayAddress": "Twistee Treat Of Lake Buena Vista, 11947 S Apopka Vineland Rd, Orlando, FL 32836, USA",
+      "latitude": 28.392761,
+      "longitude": -81.50557
+    },
+    "ratings": {
+      "averageRating": 4.7,
+      "numRatings": 227,
+      "numRatingsDisplayString": "(200+)",
+      "numPublicReviews": 5,
+      "numPublicReviewsDisplayString": "5 public reviews",
+      "starsBreakdown": [
+        {
+          "__typename": "StarsRatingCount",
+          "starsRating": "ONE_STARS_RATING",
+          "ratingCount": 5
+        },
+        {
+          "__typename": "StarsRatingCount",
+          "starsRating": "TWO_STARS_RATING",
+          "ratingCount": 5
+        },
+        {
+          "__typename": "StarsRatingCount",
+          "starsRating": "THREE_STARS_RATING",
+          "ratingCount": 4
+        },
+        {
+          "__typename": "StarsRatingCount",
+          "starsRating": "FOUR_STARS_RATING",
+          "ratingCount": 19
+        },
+        {
+          "__typename": "StarsRatingCount",
+          "starsRating": "FIVE_STARS_RATING",
+          "ratingCount": 187
+        }
+      ]
+    },
+    "fulfillment": {
+      "offersDelivery": true,
+      "offersPickup": true,
+      "offersGroupOrder": true,
+      "isDashpassPartner": true,
+      "pickupTimeEstimate": "10 min"
+    },
+    "hours": {
+      "timezone": "US/Eastern",
+      "menuOpenHoursDisplay": "11:00 AM - 10:15 PM",
+      "operationStatus": {
+        "__typename": "OperationStatusInfo",
+        "description": "Accepting DoorDash orders until 10:15 PM",
+        "operationStatus": "OPEN"
+      },
+      "storeOperationHours": [
+        {
+          "dayOfWeek": "MONDAY",
+          "hours": [
+            "11 AM - 10:30 PM"
+          ]
+        },
+        {
+          "dayOfWeek": "TUESDAY",
+          "hours": [
+            "11 AM - 10:30 PM"
+          ]
+        },
+        {
+          "dayOfWeek": "WEDNESDAY",
+          "hours": [
+            "11 AM - 10:30 PM"
+          ]
+        },
+        {
+          "dayOfWeek": "THURSDAY",
+          "hours": [
+            "11 AM - 10:30 PM"
+          ]
+        },
+        {
+          "dayOfWeek": "FRIDAY",
+          "hours": [
+            "11 AM - 11 PM"
+          ]
+        },
+        {
+          "dayOfWeek": "SATURDAY",
+          "hours": [
+            "11 AM - 11 PM"
+          ]
+        },
+        {
+          "dayOfWeek": "SUNDAY",
+          "hours": [
+            "11 AM - 10:30 PM"
+          ]
+        }
+      ],
+      "doordashOperationHours": [
+        {
+          "dayOfWeek": "MONDAY",
+          "hours": [
+            "11 AM - 10:15 PM"
+          ]
+        },
+        {
+          "dayOfWeek": "TUESDAY",
+          "hours": [
+            "11 AM - 10:15 PM"
+          ]
+        },
+        {
+          "dayOfWeek": "WEDNESDAY",
+          "hours": [
+            "11 AM - 10:15 PM"
+          ]
+        },
+        {
+          "dayOfWeek": "THURSDAY",
+          "hours": [
+            "11 AM - 10:15 PM"
+          ]
+        },
+        {
+          "dayOfWeek": "FRIDAY",
+          "hours": [
+            "11 AM - 10:45 PM"
+          ]
+        },
+        {
+          "dayOfWeek": "SATURDAY",
+          "hours": [
+            "11 AM - 10:45 PM"
+          ]
+        },
+        {
+          "dayOfWeek": "SUNDAY",
+          "hours": [
+            "11 AM - 10:15 PM"
+          ]
+        }
+      ]
+    },
+    "businessTags": [
+      "Ice Cream",
+      "Dessert"
+    ],
+    "storeImages": {
+      "coverImage": {
+        "cdnUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/85f78d83-68bc-479c-a0e8-aa25145cfd0e.png",
+        "originalUrl": "https://doordash-static.s3.amazonaws.com/media/restaurant/cover/85f78d83-68bc-479c-a0e8-aa25145cfd0e.png",
+        "filename": "store-coverimage.png",
+        "localPath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/store-coverimage.png",
+        "bytes": 255851
+      },
+      "coverSquareImage": {
+        "cdnUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/1702a7f6-4166-42ac-ab42-0b301840e8cb.jpeg",
+        "originalUrl": "https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/1702a7f6-4166-42ac-ab42-0b301840e8cb.jpeg",
+        "filename": "store-coversquareimage.jpg",
+        "localPath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/store-coversquareimage.jpg",
+        "bytes": 13542
+      },
+      "businessHeaderImage": {
+        "cdnUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/9d99fa6a-6932-4c59-bfd2-2ddd13d34ea6.JPG",
+        "originalUrl": "https://doordash-static.s3.amazonaws.com/media/store/header/9d99fa6a-6932-4c59-bfd2-2ddd13d34ea6.JPG",
+        "filename": "store-businessheaderimage.jpg",
+        "localPath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/store-businessheaderimage.jpg",
+        "bytes": 148595
+      },
+      "additionalHeaderImages": []
+    }
+  },
+  "menuBook": {
+    "menuId": "1774005",
+    "menuName": "Full Menu",
+    "displayOpenHours": "11:00 AM - 10:15 PM",
+    "menus": [
+      {
+        "__typename": "MenuBookMenu",
+        "id": "1774005",
+        "name": "All Day",
+        "displayOpenHours": "11:00 AM - 10:15 PM"
+      }
+    ],
+    "categorySummary": [
+      {
+        "id": "popular-items",
+        "name": "Most Ordered",
+        "numItems": 11
+      },
+      {
+        "id": "21177279",
+        "name": "Quarts",
+        "numItems": 10
+      },
+      {
+        "id": "21740122",
+        "name": "Toppings",
+        "numItems": 5
+      },
+      {
+        "id": "21740121",
+        "name": "Pineapple Juice",
+        "numItems": 1
+      }
+    ]
+  },
+  "carousels": [
+    {
+      "id": "recommended_items_for_you",
+      "name": "Featured Items",
+      "description": "",
+      "items": [
+        {
+          "id": "210641253",
+          "name": "Reese's Peanut Butter Cup Quart",
+          "description": "Our tasty Vanilla ice cream with Reese's Peanut Butter pieces mixed in!",
+          "price": "$6.99",
+          "ratingDisplayString": "92% (13)",
+          "calloutDisplayString": null,
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/2accb15c-cdcb-4f06-9a4e-c647ac20acd4-retina-large-jpeg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photos/2accb15c-cdcb-4f06-9a4e-c647ac20acd4-retina-large-jpeg",
+          "localImageFilename": "reese-s-peanut-butter-cup-quart-210641253.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/reese-s-peanut-butter-cup-quart-210641253.jpg"
+        },
+        {
+          "id": "210641251",
+          "name": "Cookies and Cream Quart",
+          "description": "Our tasty Vanilla ice cream with Oreo cookies mixed in!",
+          "price": "$6.99",
+          "ratingDisplayString": "100% (11)",
+          "calloutDisplayString": null,
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photosV2/79e4ca55-34a3-48b8-ab37-365ef1c7d9c5-retina-large.jpeg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photosV2/79e4ca55-34a3-48b8-ab37-365ef1c7d9c5-retina-large.jpeg",
+          "localImageFilename": "cookies-and-cream-quart-210641251.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/cookies-and-cream-quart-210641251.jpg"
+        },
+        {
+          "id": "251391559",
+          "name": "Neopolitan Quart",
+          "description": "",
+          "price": "$6.99",
+          "ratingDisplayString": null,
+          "calloutDisplayString": null,
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/907e72c8-30a2-4e46-8583-32f3fdd82533-retina-large-jpeg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photos/907e72c8-30a2-4e46-8583-32f3fdd82533-retina-large-jpeg",
+          "localImageFilename": "neopolitan-quart-251391559.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/neopolitan-quart-251391559.jpg"
+        },
+        {
+          "id": "210641250",
+          "name": "Cookie Dough Quart",
+          "description": "Our tasty Vanilla ice cream with cookie dough mixed in!",
+          "price": "$6.99",
+          "ratingDisplayString": "100% (11)",
+          "calloutDisplayString": null,
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/d409b04d-0449-44a7-b243-036fc865c2a5-retina-large.jpg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photos/d409b04d-0449-44a7-b243-036fc865c2a5-retina-large.jpg",
+          "localImageFilename": "cookie-dough-quart-210641250.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/cookie-dough-quart-210641250.jpg"
+        },
+        {
+          "id": "210641249",
+          "name": "Chocolate Quart",
+          "description": "Twistee Treat's delicious Chocolate ice cream!",
+          "price": "$6.25",
+          "ratingDisplayString": "88% (9)",
+          "calloutDisplayString": null,
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/6b9cecd5-ccd6-4414-bdb6-7eb43b47303a-retina-large-jpeg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photos/6b9cecd5-ccd6-4414-bdb6-7eb43b47303a-retina-large-jpeg",
+          "localImageFilename": "chocolate-quart-210641249.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/chocolate-quart-210641249.jpg"
+        },
+        {
+          "id": "210641248",
+          "name": "Chocolate Chip Mint Quart",
+          "description": "",
+          "price": "$6.99",
+          "ratingDisplayString": null,
+          "calloutDisplayString": null,
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photosV2/84ed3c7c-459c-481b-b1aa-079a09e3a6ed-retina-large.JPG",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photosV2/84ed3c7c-459c-481b-b1aa-079a09e3a6ed-retina-large.JPG",
+          "localImageFilename": "chocolate-chip-mint-quart-210641248.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/chocolate-chip-mint-quart-210641248.jpg"
+        },
+        {
+          "id": "210641247",
+          "name": "Brownie Fudge Quart",
+          "description": "Our tasty Vanilla ice cream with brownies mixed in!",
+          "price": "$6.99",
+          "ratingDisplayString": "90% (11)",
+          "calloutDisplayString": null,
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photosV2/aea18689-39a1-4207-a056-ea3f34ba762f-retina-large.jpeg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photosV2/aea18689-39a1-4207-a056-ea3f34ba762f-retina-large.jpeg",
+          "localImageFilename": "brownie-fudge-quart-210641247.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/brownie-fudge-quart-210641247.jpg"
+        },
+        {
+          "id": "210641254",
+          "name": "Vanilla Quart",
+          "description": "Twistee Treat's delicious Vanilla ice cream!",
+          "price": "$6.25",
+          "ratingDisplayString": "100% (11)",
+          "calloutDisplayString": null,
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photosV2/2380fce0-6e4d-4407-88e2-036012aadc39-retina-large.JPG",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photosV2/2380fce0-6e4d-4407-88e2-036012aadc39-retina-large.JPG",
+          "localImageFilename": "vanilla-quart-210641254.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/vanilla-quart-210641254.jpg"
+        },
+        {
+          "id": "251391846",
+          "name": "Dole Pineapple Soft Serve (Nondairy + Vegan)",
+          "description": "",
+          "price": "$6.99",
+          "ratingDisplayString": "100% (7)",
+          "calloutDisplayString": null,
+          "imageUrl": "https://img.cdn4dd.com/p/fit=contain,width=1200,height=672,format=auto/media/yelp/118bafc7-375e-4a73-8848-5865896b5190.jpg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/yelp/118bafc7-375e-4a73-8848-5865896b5190.jpg",
+          "localImageFilename": "dole-pineapple-soft-serve-nondairy-vegan-251391846.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/dole-pineapple-soft-serve-nondairy-vegan-251391846.jpg"
+        },
+        {
+          "id": "210641252",
+          "name": "Strawberry Quart",
+          "description": "",
+          "price": "$6.25",
+          "ratingDisplayString": "100% (6)",
+          "calloutDisplayString": null,
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photosV2/1a8d141f-cdef-4ef2-b8cd-9d7f975ebea5-retina-large.jpeg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photosV2/1a8d141f-cdef-4ef2-b8cd-9d7f975ebea5-retina-large.jpeg",
+          "localImageFilename": "strawberry-quart-210641252.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/strawberry-quart-210641252.jpg"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "popular-items",
+      "name": "Most Ordered",
+      "description": "The most commonly ordered items and dishes from this store",
+      "itemCount": 11,
+      "items": [
+        {
+          "id": "210641253",
+          "name": "Reese's Peanut Butter Cup Quart",
+          "description": "Our tasty Vanilla ice cream with Reese's Peanut Butter pieces mixed in!",
+          "price": "$6.99",
+          "unitAmountCents": 699,
+          "currency": "USD",
+          "ratingDisplayString": "92% (13)",
+          "calloutDisplayString": "#2 Best seller",
+          "dietaryTags": [],
+          "badges": [],
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/2accb15c-cdcb-4f06-9a4e-c647ac20acd4-retina-large-jpeg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photos/2accb15c-cdcb-4f06-9a4e-c647ac20acd4-retina-large-jpeg",
+          "localImageFilename": "reese-s-peanut-butter-cup-quart-210641253.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/reese-s-peanut-butter-cup-quart-210641253.jpg",
+          "imageBytes": 8314
+        },
+        {
+          "id": "210641250",
+          "name": "Cookie Dough Quart",
+          "description": "Our tasty Vanilla ice cream with cookie dough mixed in!",
+          "price": "$6.99",
+          "unitAmountCents": 699,
+          "currency": "USD",
+          "ratingDisplayString": "100% (11)",
+          "calloutDisplayString": null,
+          "dietaryTags": [],
+          "badges": [],
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/d409b04d-0449-44a7-b243-036fc865c2a5-retina-large.jpg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photos/d409b04d-0449-44a7-b243-036fc865c2a5-retina-large.jpg",
+          "localImageFilename": "cookie-dough-quart-210641250.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/cookie-dough-quart-210641250.jpg",
+          "imageBytes": 298835
+        },
+        {
+          "id": "210641251",
+          "name": "Cookies and Cream Quart",
+          "description": "Our tasty Vanilla ice cream with Oreo cookies mixed in!",
+          "price": "$6.99",
+          "unitAmountCents": 699,
+          "currency": "USD",
+          "ratingDisplayString": "100% (11)",
+          "calloutDisplayString": "#1 Best seller",
+          "dietaryTags": [],
+          "badges": [],
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photosV2/79e4ca55-34a3-48b8-ab37-365ef1c7d9c5-retina-large.jpeg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photosV2/79e4ca55-34a3-48b8-ab37-365ef1c7d9c5-retina-large.jpeg",
+          "localImageFilename": "cookies-and-cream-quart-210641251.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/cookies-and-cream-quart-210641251.jpg",
+          "imageBytes": 94426
+        },
+        {
+          "id": "210641249",
+          "name": "Chocolate Quart",
+          "description": "Twistee Treat's delicious Chocolate ice cream!",
+          "price": "$6.25",
+          "unitAmountCents": 625,
+          "currency": "USD",
+          "ratingDisplayString": "88% (9)",
+          "calloutDisplayString": "#3 Best seller",
+          "dietaryTags": [],
+          "badges": [],
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/6b9cecd5-ccd6-4414-bdb6-7eb43b47303a-retina-large-jpeg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photos/6b9cecd5-ccd6-4414-bdb6-7eb43b47303a-retina-large-jpeg",
+          "localImageFilename": "chocolate-quart-210641249.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/chocolate-quart-210641249.jpg",
+          "imageBytes": 8351
+        },
+        {
+          "id": "210641254",
+          "name": "Vanilla Quart",
+          "description": "Twistee Treat's delicious Vanilla ice cream!",
+          "price": "$6.25",
+          "unitAmountCents": 625,
+          "currency": "USD",
+          "ratingDisplayString": "100% (11)",
+          "calloutDisplayString": null,
+          "dietaryTags": [],
+          "badges": [],
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photosV2/2380fce0-6e4d-4407-88e2-036012aadc39-retina-large.JPG",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photosV2/2380fce0-6e4d-4407-88e2-036012aadc39-retina-large.JPG",
+          "localImageFilename": "vanilla-quart-210641254.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/vanilla-quart-210641254.jpg",
+          "imageBytes": 181253
+        },
+        {
+          "id": "210641247",
+          "name": "Brownie Fudge Quart",
+          "description": "Our tasty Vanilla ice cream with brownies mixed in!",
+          "price": "$6.99",
+          "unitAmountCents": 699,
+          "currency": "USD",
+          "ratingDisplayString": "90% (11)",
+          "calloutDisplayString": null,
+          "dietaryTags": [],
+          "badges": [],
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photosV2/aea18689-39a1-4207-a056-ea3f34ba762f-retina-large.jpeg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photosV2/aea18689-39a1-4207-a056-ea3f34ba762f-retina-large.jpeg",
+          "localImageFilename": "brownie-fudge-quart-210641247.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/brownie-fudge-quart-210641247.jpg",
+          "imageBytes": 103698
+        },
+        {
+          "id": "251391846",
+          "name": "Dole Pineapple Soft Serve (Nondairy + Vegan)",
+          "description": "",
+          "price": "$6.99",
+          "unitAmountCents": 699,
+          "currency": "USD",
+          "ratingDisplayString": "100% (7)",
+          "calloutDisplayString": null,
+          "dietaryTags": [],
+          "badges": [],
+          "imageUrl": "https://img.cdn4dd.com/p/fit=contain,width=1200,height=672,format=auto/media/yelp/118bafc7-375e-4a73-8848-5865896b5190.jpg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/yelp/118bafc7-375e-4a73-8848-5865896b5190.jpg",
+          "localImageFilename": "dole-pineapple-soft-serve-nondairy-vegan-251391846.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/dole-pineapple-soft-serve-nondairy-vegan-251391846.jpg",
+          "imageBytes": 105307
+        },
+        {
+          "id": "210641252",
+          "name": "Strawberry Quart",
+          "description": "",
+          "price": "$6.25",
+          "unitAmountCents": 625,
+          "currency": "USD",
+          "ratingDisplayString": "100% (6)",
+          "calloutDisplayString": null,
+          "dietaryTags": [],
+          "badges": [],
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photosV2/1a8d141f-cdef-4ef2-b8cd-9d7f975ebea5-retina-large.jpeg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photosV2/1a8d141f-cdef-4ef2-b8cd-9d7f975ebea5-retina-large.jpeg",
+          "localImageFilename": "strawberry-quart-210641252.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/strawberry-quart-210641252.jpg",
+          "imageBytes": 47949
+        },
+        {
+          "id": "251391559",
+          "name": "Neopolitan Quart",
+          "description": "",
+          "price": "$6.99",
+          "unitAmountCents": 699,
+          "currency": "USD",
+          "ratingDisplayString": null,
+          "calloutDisplayString": null,
+          "dietaryTags": [],
+          "badges": [],
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/907e72c8-30a2-4e46-8583-32f3fdd82533-retina-large-jpeg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photos/907e72c8-30a2-4e46-8583-32f3fdd82533-retina-large-jpeg",
+          "localImageFilename": "neopolitan-quart-251391559.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/neopolitan-quart-251391559.jpg",
+          "imageBytes": 25565
+        },
+        {
+          "id": "210641248",
+          "name": "Chocolate Chip Mint Quart",
+          "description": "",
+          "price": "$6.99",
+          "unitAmountCents": 699,
+          "currency": "USD",
+          "ratingDisplayString": null,
+          "calloutDisplayString": null,
+          "dietaryTags": [],
+          "badges": [],
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photosV2/84ed3c7c-459c-481b-b1aa-079a09e3a6ed-retina-large.JPG",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photosV2/84ed3c7c-459c-481b-b1aa-079a09e3a6ed-retina-large.JPG",
+          "localImageFilename": "chocolate-chip-mint-quart-210641248.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/chocolate-chip-mint-quart-210641248.jpg",
+          "imageBytes": 113194
+        },
+        {
+          "id": "251393067",
+          "name": "Dole Pineapple Juice",
+          "description": "Four 6oz cans to make Dole Whip Floats",
+          "price": "$4.90",
+          "unitAmountCents": 490,
+          "currency": "USD",
+          "ratingDisplayString": null,
+          "calloutDisplayString": null,
+          "dietaryTags": [],
+          "badges": [],
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/96ad5ac8-32a2-47e8-b940-d2e8fd6bfb0f-retina-large-jpeg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photos/96ad5ac8-32a2-47e8-b940-d2e8fd6bfb0f-retina-large-jpeg",
+          "localImageFilename": "dole-pineapple-juice-251393067.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/dole-pineapple-juice-251393067.jpg",
+          "imageBytes": 75308
+        }
+      ]
+    },
+    {
+      "id": "category-21177279",
+      "name": "Quarts",
+      "description": "",
+      "itemCount": 10,
+      "items": [
+        {
+          "id": "210641253",
+          "name": "Reese's Peanut Butter Cup Quart",
+          "description": "Our tasty Vanilla ice cream with Reese's Peanut Butter pieces mixed in!",
+          "price": "$6.99",
+          "unitAmountCents": 699,
+          "currency": "USD",
+          "ratingDisplayString": "92% (13)",
+          "calloutDisplayString": null,
+          "dietaryTags": [],
+          "badges": [
+            {
+              "__typename": "MessageLayout",
+              "title": "#1 Most liked",
+              "titleColor": "tag/informational/default/foreground",
+              "backgroundColor": "tag/informational/default/background",
+              "icon": {
+                "__typename": "Icon",
+                "color": null,
+                "name": null,
+                "size": null
+              },
+              "badge": {
+                "__typename": "Badge",
+                "isDashpass": false,
+                "type": "most_liked_1",
+                "text": "#1 Most liked",
+                "backgroundColor": "tag/informational/default/background",
+                "styleType": "",
+                "dlsTagSize": null,
+                "dlsTextStyle": null,
+                "dlsTagStyle": null,
+                "dlsTagType": null,
+                "placement": "descriptor",
+                "leadingIcon": null,
+                "leadingIconSize": null,
+                "trailingIcon": null,
+                "trailingIconSize": null,
+                "endTime": null,
+                "dlsTextColor": null,
+                "brandedDecorator": {
+                  "__typename": "BrandedView",
+                  "prefixText": null,
+                  "postfixText": null,
+                  "postfixTextLeadingIcon": null
+                },
+                "trailingText": {
+                  "__typename": "TrailingText",
+                  "copy": null,
+                  "dlsTextStyle": null,
+                  "dlsTextColor": null
+                },
+                "onClick": null,
+                "prismComponentThemeOverride": "PRISM_COMPONENT_THEME_OVERRIDE_UNSPECIFIED"
+              }
+            }
+          ],
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/2accb15c-cdcb-4f06-9a4e-c647ac20acd4-retina-large-jpeg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photos/2accb15c-cdcb-4f06-9a4e-c647ac20acd4-retina-large-jpeg",
+          "localImageFilename": "reese-s-peanut-butter-cup-quart-210641253.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/reese-s-peanut-butter-cup-quart-210641253.jpg",
+          "imageBytes": 8314
+        },
+        {
+          "id": "210641249",
+          "name": "Chocolate Quart",
+          "description": "Twistee Treat's delicious Chocolate ice cream!",
+          "price": "$6.25",
+          "unitAmountCents": 625,
+          "currency": "USD",
+          "ratingDisplayString": "88% (9)",
+          "calloutDisplayString": null,
+          "dietaryTags": [],
+          "badges": [],
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/6b9cecd5-ccd6-4414-bdb6-7eb43b47303a-retina-large-jpeg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photos/6b9cecd5-ccd6-4414-bdb6-7eb43b47303a-retina-large-jpeg",
+          "localImageFilename": "chocolate-quart-210641249.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/chocolate-quart-210641249.jpg",
+          "imageBytes": 8351
+        },
+        {
+          "id": "210641251",
+          "name": "Cookies and Cream Quart",
+          "description": "Our tasty Vanilla ice cream with Oreo cookies mixed in!",
+          "price": "$6.99",
+          "unitAmountCents": 699,
+          "currency": "USD",
+          "ratingDisplayString": "100% (11)",
+          "calloutDisplayString": null,
+          "dietaryTags": [],
+          "badges": [
+            {
+              "__typename": "MessageLayout",
+              "title": "#3 Most liked",
+              "titleColor": "tag/informational/default/foreground",
+              "backgroundColor": "tag/informational/default/background",
+              "icon": {
+                "__typename": "Icon",
+                "color": null,
+                "name": null,
+                "size": null
+              },
+              "badge": {
+                "__typename": "Badge",
+                "isDashpass": false,
+                "type": "most_liked_3",
+                "text": "#3 Most liked",
+                "backgroundColor": "tag/informational/default/background",
+                "styleType": "",
+                "dlsTagSize": null,
+                "dlsTextStyle": null,
+                "dlsTagStyle": null,
+                "dlsTagType": null,
+                "placement": "descriptor",
+                "leadingIcon": null,
+                "leadingIconSize": null,
+                "trailingIcon": null,
+                "trailingIconSize": null,
+                "endTime": null,
+                "dlsTextColor": null,
+                "brandedDecorator": {
+                  "__typename": "BrandedView",
+                  "prefixText": null,
+                  "postfixText": null,
+                  "postfixTextLeadingIcon": null
+                },
+                "trailingText": {
+                  "__typename": "TrailingText",
+                  "copy": null,
+                  "dlsTextStyle": null,
+                  "dlsTextColor": null
+                },
+                "onClick": null,
+                "prismComponentThemeOverride": "PRISM_COMPONENT_THEME_OVERRIDE_UNSPECIFIED"
+              }
+            }
+          ],
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photosV2/79e4ca55-34a3-48b8-ab37-365ef1c7d9c5-retina-large.jpeg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photosV2/79e4ca55-34a3-48b8-ab37-365ef1c7d9c5-retina-large.jpeg",
+          "localImageFilename": "cookies-and-cream-quart-210641251.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/cookies-and-cream-quart-210641251.jpg",
+          "imageBytes": 94426
+        },
+        {
+          "id": "210641247",
+          "name": "Brownie Fudge Quart",
+          "description": "Our tasty Vanilla ice cream with brownies mixed in!",
+          "price": "$6.99",
+          "unitAmountCents": 699,
+          "currency": "USD",
+          "ratingDisplayString": "90% (11)",
+          "calloutDisplayString": null,
+          "dietaryTags": [],
+          "badges": [],
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photosV2/aea18689-39a1-4207-a056-ea3f34ba762f-retina-large.jpeg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photosV2/aea18689-39a1-4207-a056-ea3f34ba762f-retina-large.jpeg",
+          "localImageFilename": "brownie-fudge-quart-210641247.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/brownie-fudge-quart-210641247.jpg",
+          "imageBytes": 103698
+        },
+        {
+          "id": "210641250",
+          "name": "Cookie Dough Quart",
+          "description": "Our tasty Vanilla ice cream with cookie dough mixed in!",
+          "price": "$6.99",
+          "unitAmountCents": 699,
+          "currency": "USD",
+          "ratingDisplayString": "100% (11)",
+          "calloutDisplayString": null,
+          "dietaryTags": [],
+          "badges": [
+            {
+              "__typename": "MessageLayout",
+              "title": "#2 Most liked",
+              "titleColor": "tag/informational/default/foreground",
+              "backgroundColor": "tag/informational/default/background",
+              "icon": {
+                "__typename": "Icon",
+                "color": null,
+                "name": null,
+                "size": null
+              },
+              "badge": {
+                "__typename": "Badge",
+                "isDashpass": false,
+                "type": "most_liked_2",
+                "text": "#2 Most liked",
+                "backgroundColor": "tag/informational/default/background",
+                "styleType": "",
+                "dlsTagSize": null,
+                "dlsTextStyle": null,
+                "dlsTagStyle": null,
+                "dlsTagType": null,
+                "placement": "descriptor",
+                "leadingIcon": null,
+                "leadingIconSize": null,
+                "trailingIcon": null,
+                "trailingIconSize": null,
+                "endTime": null,
+                "dlsTextColor": null,
+                "brandedDecorator": {
+                  "__typename": "BrandedView",
+                  "prefixText": null,
+                  "postfixText": null,
+                  "postfixTextLeadingIcon": null
+                },
+                "trailingText": {
+                  "__typename": "TrailingText",
+                  "copy": null,
+                  "dlsTextStyle": null,
+                  "dlsTextColor": null
+                },
+                "onClick": null,
+                "prismComponentThemeOverride": "PRISM_COMPONENT_THEME_OVERRIDE_UNSPECIFIED"
+              }
+            }
+          ],
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/d409b04d-0449-44a7-b243-036fc865c2a5-retina-large.jpg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photos/d409b04d-0449-44a7-b243-036fc865c2a5-retina-large.jpg",
+          "localImageFilename": "cookie-dough-quart-210641250.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/cookie-dough-quart-210641250.jpg",
+          "imageBytes": 298835
+        },
+        {
+          "id": "210641248",
+          "name": "Chocolate Chip Mint Quart",
+          "description": "",
+          "price": "$6.99",
+          "unitAmountCents": 699,
+          "currency": "USD",
+          "ratingDisplayString": null,
+          "calloutDisplayString": null,
+          "dietaryTags": [],
+          "badges": [],
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photosV2/84ed3c7c-459c-481b-b1aa-079a09e3a6ed-retina-large.JPG",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photosV2/84ed3c7c-459c-481b-b1aa-079a09e3a6ed-retina-large.JPG",
+          "localImageFilename": "chocolate-chip-mint-quart-210641248.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/chocolate-chip-mint-quart-210641248.jpg",
+          "imageBytes": 113194
+        },
+        {
+          "id": "251391559",
+          "name": "Neopolitan Quart",
+          "description": "",
+          "price": "$6.99",
+          "unitAmountCents": 699,
+          "currency": "USD",
+          "ratingDisplayString": null,
+          "calloutDisplayString": null,
+          "dietaryTags": [],
+          "badges": [],
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/907e72c8-30a2-4e46-8583-32f3fdd82533-retina-large-jpeg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photos/907e72c8-30a2-4e46-8583-32f3fdd82533-retina-large-jpeg",
+          "localImageFilename": "neopolitan-quart-251391559.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/neopolitan-quart-251391559.jpg",
+          "imageBytes": 25565
+        },
+        {
+          "id": "251391846",
+          "name": "Dole Pineapple Soft Serve (Nondairy + Vegan)",
+          "description": "",
+          "price": "$6.99",
+          "unitAmountCents": 699,
+          "currency": "USD",
+          "ratingDisplayString": "100% (7)",
+          "calloutDisplayString": null,
+          "dietaryTags": [],
+          "badges": [],
+          "imageUrl": "https://img.cdn4dd.com/p/fit=contain,width=1200,height=672,format=auto/media/yelp/118bafc7-375e-4a73-8848-5865896b5190.jpg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/yelp/118bafc7-375e-4a73-8848-5865896b5190.jpg",
+          "localImageFilename": "dole-pineapple-soft-serve-nondairy-vegan-251391846.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/dole-pineapple-soft-serve-nondairy-vegan-251391846.jpg",
+          "imageBytes": 105307
+        },
+        {
+          "id": "210641254",
+          "name": "Vanilla Quart",
+          "description": "Twistee Treat's delicious Vanilla ice cream!",
+          "price": "$6.25",
+          "unitAmountCents": 625,
+          "currency": "USD",
+          "ratingDisplayString": "100% (11)",
+          "calloutDisplayString": null,
+          "dietaryTags": [],
+          "badges": [],
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photosV2/2380fce0-6e4d-4407-88e2-036012aadc39-retina-large.JPG",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photosV2/2380fce0-6e4d-4407-88e2-036012aadc39-retina-large.JPG",
+          "localImageFilename": "vanilla-quart-210641254.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/vanilla-quart-210641254.jpg",
+          "imageBytes": 181253
+        },
+        {
+          "id": "210641252",
+          "name": "Strawberry Quart",
+          "description": "",
+          "price": "$6.25",
+          "unitAmountCents": 625,
+          "currency": "USD",
+          "ratingDisplayString": "100% (6)",
+          "calloutDisplayString": null,
+          "dietaryTags": [],
+          "badges": [],
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photosV2/1a8d141f-cdef-4ef2-b8cd-9d7f975ebea5-retina-large.jpeg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photosV2/1a8d141f-cdef-4ef2-b8cd-9d7f975ebea5-retina-large.jpeg",
+          "localImageFilename": "strawberry-quart-210641252.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/strawberry-quart-210641252.jpg",
+          "imageBytes": 47949
+        }
+      ]
+    },
+    {
+      "id": "category-21740122",
+      "name": "Toppings",
+      "description": "5oz cups each",
+      "itemCount": 5,
+      "items": [
+        {
+          "id": "251393070",
+          "name": "Ground Peanuts",
+          "description": "",
+          "price": "$2.50",
+          "unitAmountCents": 250,
+          "currency": "USD",
+          "ratingDisplayString": null,
+          "calloutDisplayString": null,
+          "dietaryTags": [],
+          "badges": [],
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/42644c55-2d91-429d-9535-24bb82a13c1a-retina-large-jpeg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photos/42644c55-2d91-429d-9535-24bb82a13c1a-retina-large-jpeg",
+          "localImageFilename": "ground-peanuts-251393070.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/ground-peanuts-251393070.jpg",
+          "imageBytes": 62183
+        },
+        {
+          "id": "251393069",
+          "name": "Reese's Peanut Butter Cups",
+          "description": "",
+          "price": "$2.50",
+          "unitAmountCents": 250,
+          "currency": "USD",
+          "ratingDisplayString": null,
+          "calloutDisplayString": null,
+          "dietaryTags": [],
+          "badges": [],
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photosV2/0a4f4c1b-dd9f-41cd-98a0-a60800e0394b-retina-large.JPG",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photosV2/0a4f4c1b-dd9f-41cd-98a0-a60800e0394b-retina-large.JPG",
+          "localImageFilename": "reese-s-peanut-butter-cups-251393069.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/reese-s-peanut-butter-cups-251393069.jpg",
+          "imageBytes": 196838
+        },
+        {
+          "id": "251393068",
+          "name": "Cookies and Cream pieces",
+          "description": "",
+          "price": "$2.50",
+          "unitAmountCents": 250,
+          "currency": "USD",
+          "ratingDisplayString": null,
+          "calloutDisplayString": null,
+          "dietaryTags": [],
+          "badges": [],
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/42644c55-2d91-429d-9535-24bb82a13c1a-retina-large-jpeg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photos/42644c55-2d91-429d-9535-24bb82a13c1a-retina-large-jpeg",
+          "localImageFilename": "cookies-and-cream-pieces-251393068.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/cookies-and-cream-pieces-251393068.jpg",
+          "imageBytes": 62183
+        },
+        {
+          "id": "479747935",
+          "name": "Rainbow Sprinkles",
+          "description": "",
+          "price": "$2.50",
+          "unitAmountCents": 250,
+          "currency": "USD",
+          "ratingDisplayString": "100% (6)",
+          "calloutDisplayString": null,
+          "dietaryTags": [],
+          "badges": [],
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/42644c55-2d91-429d-9535-24bb82a13c1a-retina-large-jpeg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photos/42644c55-2d91-429d-9535-24bb82a13c1a-retina-large-jpeg",
+          "localImageFilename": "rainbow-sprinkles-479747935.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/rainbow-sprinkles-479747935.jpg",
+          "imageBytes": 62183
+        },
+        {
+          "id": "251393071",
+          "name": "Hot Fudge",
+          "description": "",
+          "price": "$2.50",
+          "unitAmountCents": 250,
+          "currency": "USD",
+          "ratingDisplayString": "88% (9)",
+          "calloutDisplayString": null,
+          "dietaryTags": [],
+          "badges": [],
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/42644c55-2d91-429d-9535-24bb82a13c1a-retina-large-jpeg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photos/42644c55-2d91-429d-9535-24bb82a13c1a-retina-large-jpeg",
+          "localImageFilename": "hot-fudge-251393071.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/hot-fudge-251393071.jpg",
+          "imageBytes": 62183
+        }
+      ]
+    },
+    {
+      "id": "category-21740121",
+      "name": "Pineapple Juice",
+      "description": "",
+      "itemCount": 1,
+      "items": [
+        {
+          "id": "251393067",
+          "name": "Dole Pineapple Juice",
+          "description": "Four 6oz cans to make Dole Whip Floats",
+          "price": "$4.90",
+          "unitAmountCents": 490,
+          "currency": "USD",
+          "ratingDisplayString": null,
+          "calloutDisplayString": null,
+          "dietaryTags": [],
+          "badges": [],
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/96ad5ac8-32a2-47e8-b940-d2e8fd6bfb0f-retina-large-jpeg",
+          "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photos/96ad5ac8-32a2-47e8-b940-d2e8fd6bfb0f-retina-large-jpeg",
+          "localImageFilename": "dole-pineapple-juice-251393067.jpg",
+          "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/dole-pineapple-juice-251393067.jpg",
+          "imageBytes": 75308
+        }
+      ]
+    }
+  ],
+  "uniqueItems": [
+    {
+      "id": "210641253",
+      "name": "Reese's Peanut Butter Cup Quart",
+      "description": "Our tasty Vanilla ice cream with Reese's Peanut Butter pieces mixed in!",
+      "price": "$6.99",
+      "unitAmountCents": 699,
+      "currency": "USD",
+      "ratingDisplayString": "92% (13)",
+      "calloutDisplayString": "#2 Best seller",
+      "dietaryTags": [],
+      "badges": [],
+      "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/2accb15c-cdcb-4f06-9a4e-c647ac20acd4-retina-large-jpeg",
+      "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photos/2accb15c-cdcb-4f06-9a4e-c647ac20acd4-retina-large-jpeg",
+      "localImageFilename": "reese-s-peanut-butter-cup-quart-210641253.jpg",
+      "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/reese-s-peanut-butter-cup-quart-210641253.jpg",
+      "imageBytes": 8314,
+      "categories": [
+        "Most Ordered",
+        "Quarts"
+      ]
+    },
+    {
+      "id": "210641250",
+      "name": "Cookie Dough Quart",
+      "description": "Our tasty Vanilla ice cream with cookie dough mixed in!",
+      "price": "$6.99",
+      "unitAmountCents": 699,
+      "currency": "USD",
+      "ratingDisplayString": "100% (11)",
+      "calloutDisplayString": null,
+      "dietaryTags": [],
+      "badges": [],
+      "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/d409b04d-0449-44a7-b243-036fc865c2a5-retina-large.jpg",
+      "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photos/d409b04d-0449-44a7-b243-036fc865c2a5-retina-large.jpg",
+      "localImageFilename": "cookie-dough-quart-210641250.jpg",
+      "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/cookie-dough-quart-210641250.jpg",
+      "imageBytes": 298835,
+      "categories": [
+        "Most Ordered",
+        "Quarts"
+      ]
+    },
+    {
+      "id": "210641251",
+      "name": "Cookies and Cream Quart",
+      "description": "Our tasty Vanilla ice cream with Oreo cookies mixed in!",
+      "price": "$6.99",
+      "unitAmountCents": 699,
+      "currency": "USD",
+      "ratingDisplayString": "100% (11)",
+      "calloutDisplayString": "#1 Best seller",
+      "dietaryTags": [],
+      "badges": [],
+      "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photosV2/79e4ca55-34a3-48b8-ab37-365ef1c7d9c5-retina-large.jpeg",
+      "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photosV2/79e4ca55-34a3-48b8-ab37-365ef1c7d9c5-retina-large.jpeg",
+      "localImageFilename": "cookies-and-cream-quart-210641251.jpg",
+      "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/cookies-and-cream-quart-210641251.jpg",
+      "imageBytes": 94426,
+      "categories": [
+        "Most Ordered",
+        "Quarts"
+      ]
+    },
+    {
+      "id": "210641249",
+      "name": "Chocolate Quart",
+      "description": "Twistee Treat's delicious Chocolate ice cream!",
+      "price": "$6.25",
+      "unitAmountCents": 625,
+      "currency": "USD",
+      "ratingDisplayString": "88% (9)",
+      "calloutDisplayString": "#3 Best seller",
+      "dietaryTags": [],
+      "badges": [],
+      "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/6b9cecd5-ccd6-4414-bdb6-7eb43b47303a-retina-large-jpeg",
+      "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photos/6b9cecd5-ccd6-4414-bdb6-7eb43b47303a-retina-large-jpeg",
+      "localImageFilename": "chocolate-quart-210641249.jpg",
+      "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/chocolate-quart-210641249.jpg",
+      "imageBytes": 8351,
+      "categories": [
+        "Most Ordered",
+        "Quarts"
+      ]
+    },
+    {
+      "id": "210641254",
+      "name": "Vanilla Quart",
+      "description": "Twistee Treat's delicious Vanilla ice cream!",
+      "price": "$6.25",
+      "unitAmountCents": 625,
+      "currency": "USD",
+      "ratingDisplayString": "100% (11)",
+      "calloutDisplayString": null,
+      "dietaryTags": [],
+      "badges": [],
+      "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photosV2/2380fce0-6e4d-4407-88e2-036012aadc39-retina-large.JPG",
+      "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photosV2/2380fce0-6e4d-4407-88e2-036012aadc39-retina-large.JPG",
+      "localImageFilename": "vanilla-quart-210641254.jpg",
+      "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/vanilla-quart-210641254.jpg",
+      "imageBytes": 181253,
+      "categories": [
+        "Most Ordered",
+        "Quarts"
+      ]
+    },
+    {
+      "id": "210641247",
+      "name": "Brownie Fudge Quart",
+      "description": "Our tasty Vanilla ice cream with brownies mixed in!",
+      "price": "$6.99",
+      "unitAmountCents": 699,
+      "currency": "USD",
+      "ratingDisplayString": "90% (11)",
+      "calloutDisplayString": null,
+      "dietaryTags": [],
+      "badges": [],
+      "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photosV2/aea18689-39a1-4207-a056-ea3f34ba762f-retina-large.jpeg",
+      "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photosV2/aea18689-39a1-4207-a056-ea3f34ba762f-retina-large.jpeg",
+      "localImageFilename": "brownie-fudge-quart-210641247.jpg",
+      "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/brownie-fudge-quart-210641247.jpg",
+      "imageBytes": 103698,
+      "categories": [
+        "Most Ordered",
+        "Quarts"
+      ]
+    },
+    {
+      "id": "251391846",
+      "name": "Dole Pineapple Soft Serve (Nondairy + Vegan)",
+      "description": "",
+      "price": "$6.99",
+      "unitAmountCents": 699,
+      "currency": "USD",
+      "ratingDisplayString": "100% (7)",
+      "calloutDisplayString": null,
+      "dietaryTags": [],
+      "badges": [],
+      "imageUrl": "https://img.cdn4dd.com/p/fit=contain,width=1200,height=672,format=auto/media/yelp/118bafc7-375e-4a73-8848-5865896b5190.jpg",
+      "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/yelp/118bafc7-375e-4a73-8848-5865896b5190.jpg",
+      "localImageFilename": "dole-pineapple-soft-serve-nondairy-vegan-251391846.jpg",
+      "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/dole-pineapple-soft-serve-nondairy-vegan-251391846.jpg",
+      "imageBytes": 105307,
+      "categories": [
+        "Most Ordered",
+        "Quarts"
+      ]
+    },
+    {
+      "id": "210641252",
+      "name": "Strawberry Quart",
+      "description": "",
+      "price": "$6.25",
+      "unitAmountCents": 625,
+      "currency": "USD",
+      "ratingDisplayString": "100% (6)",
+      "calloutDisplayString": null,
+      "dietaryTags": [],
+      "badges": [],
+      "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photosV2/1a8d141f-cdef-4ef2-b8cd-9d7f975ebea5-retina-large.jpeg",
+      "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photosV2/1a8d141f-cdef-4ef2-b8cd-9d7f975ebea5-retina-large.jpeg",
+      "localImageFilename": "strawberry-quart-210641252.jpg",
+      "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/strawberry-quart-210641252.jpg",
+      "imageBytes": 47949,
+      "categories": [
+        "Most Ordered",
+        "Quarts"
+      ]
+    },
+    {
+      "id": "251391559",
+      "name": "Neopolitan Quart",
+      "description": "",
+      "price": "$6.99",
+      "unitAmountCents": 699,
+      "currency": "USD",
+      "ratingDisplayString": null,
+      "calloutDisplayString": null,
+      "dietaryTags": [],
+      "badges": [],
+      "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/907e72c8-30a2-4e46-8583-32f3fdd82533-retina-large-jpeg",
+      "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photos/907e72c8-30a2-4e46-8583-32f3fdd82533-retina-large-jpeg",
+      "localImageFilename": "neopolitan-quart-251391559.jpg",
+      "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/neopolitan-quart-251391559.jpg",
+      "imageBytes": 25565,
+      "categories": [
+        "Most Ordered",
+        "Quarts"
+      ]
+    },
+    {
+      "id": "210641248",
+      "name": "Chocolate Chip Mint Quart",
+      "description": "",
+      "price": "$6.99",
+      "unitAmountCents": 699,
+      "currency": "USD",
+      "ratingDisplayString": null,
+      "calloutDisplayString": null,
+      "dietaryTags": [],
+      "badges": [],
+      "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photosV2/84ed3c7c-459c-481b-b1aa-079a09e3a6ed-retina-large.JPG",
+      "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photosV2/84ed3c7c-459c-481b-b1aa-079a09e3a6ed-retina-large.JPG",
+      "localImageFilename": "chocolate-chip-mint-quart-210641248.jpg",
+      "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/chocolate-chip-mint-quart-210641248.jpg",
+      "imageBytes": 113194,
+      "categories": [
+        "Most Ordered",
+        "Quarts"
+      ]
+    },
+    {
+      "id": "251393067",
+      "name": "Dole Pineapple Juice",
+      "description": "Four 6oz cans to make Dole Whip Floats",
+      "price": "$4.90",
+      "unitAmountCents": 490,
+      "currency": "USD",
+      "ratingDisplayString": null,
+      "calloutDisplayString": null,
+      "dietaryTags": [],
+      "badges": [],
+      "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/96ad5ac8-32a2-47e8-b940-d2e8fd6bfb0f-retina-large-jpeg",
+      "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photos/96ad5ac8-32a2-47e8-b940-d2e8fd6bfb0f-retina-large-jpeg",
+      "localImageFilename": "dole-pineapple-juice-251393067.jpg",
+      "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/dole-pineapple-juice-251393067.jpg",
+      "imageBytes": 75308,
+      "categories": [
+        "Most Ordered",
+        "Pineapple Juice"
+      ]
+    },
+    {
+      "id": "251393070",
+      "name": "Ground Peanuts",
+      "description": "",
+      "price": "$2.50",
+      "unitAmountCents": 250,
+      "currency": "USD",
+      "ratingDisplayString": null,
+      "calloutDisplayString": null,
+      "dietaryTags": [],
+      "badges": [],
+      "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/42644c55-2d91-429d-9535-24bb82a13c1a-retina-large-jpeg",
+      "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photos/42644c55-2d91-429d-9535-24bb82a13c1a-retina-large-jpeg",
+      "localImageFilename": "ground-peanuts-251393070.jpg",
+      "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/ground-peanuts-251393070.jpg",
+      "imageBytes": 62183,
+      "categories": [
+        "Toppings"
+      ]
+    },
+    {
+      "id": "251393069",
+      "name": "Reese's Peanut Butter Cups",
+      "description": "",
+      "price": "$2.50",
+      "unitAmountCents": 250,
+      "currency": "USD",
+      "ratingDisplayString": null,
+      "calloutDisplayString": null,
+      "dietaryTags": [],
+      "badges": [],
+      "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photosV2/0a4f4c1b-dd9f-41cd-98a0-a60800e0394b-retina-large.JPG",
+      "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photosV2/0a4f4c1b-dd9f-41cd-98a0-a60800e0394b-retina-large.JPG",
+      "localImageFilename": "reese-s-peanut-butter-cups-251393069.jpg",
+      "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/reese-s-peanut-butter-cups-251393069.jpg",
+      "imageBytes": 196838,
+      "categories": [
+        "Toppings"
+      ]
+    },
+    {
+      "id": "251393068",
+      "name": "Cookies and Cream pieces",
+      "description": "",
+      "price": "$2.50",
+      "unitAmountCents": 250,
+      "currency": "USD",
+      "ratingDisplayString": null,
+      "calloutDisplayString": null,
+      "dietaryTags": [],
+      "badges": [],
+      "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/42644c55-2d91-429d-9535-24bb82a13c1a-retina-large-jpeg",
+      "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photos/42644c55-2d91-429d-9535-24bb82a13c1a-retina-large-jpeg",
+      "localImageFilename": "cookies-and-cream-pieces-251393068.jpg",
+      "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/cookies-and-cream-pieces-251393068.jpg",
+      "imageBytes": 62183,
+      "categories": [
+        "Toppings"
+      ]
+    },
+    {
+      "id": "479747935",
+      "name": "Rainbow Sprinkles",
+      "description": "",
+      "price": "$2.50",
+      "unitAmountCents": 250,
+      "currency": "USD",
+      "ratingDisplayString": "100% (6)",
+      "calloutDisplayString": null,
+      "dietaryTags": [],
+      "badges": [],
+      "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/42644c55-2d91-429d-9535-24bb82a13c1a-retina-large-jpeg",
+      "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photos/42644c55-2d91-429d-9535-24bb82a13c1a-retina-large-jpeg",
+      "localImageFilename": "rainbow-sprinkles-479747935.jpg",
+      "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/rainbow-sprinkles-479747935.jpg",
+      "imageBytes": 62183,
+      "categories": [
+        "Toppings"
+      ]
+    },
+    {
+      "id": "251393071",
+      "name": "Hot Fudge",
+      "description": "",
+      "price": "$2.50",
+      "unitAmountCents": 250,
+      "currency": "USD",
+      "ratingDisplayString": "88% (9)",
+      "calloutDisplayString": null,
+      "dietaryTags": [],
+      "badges": [],
+      "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/42644c55-2d91-429d-9535-24bb82a13c1a-retina-large-jpeg",
+      "highResImageUrl": "https://doordash-static.s3.amazonaws.com/media/photos/42644c55-2d91-429d-9535-24bb82a13c1a-retina-large-jpeg",
+      "localImageFilename": "hot-fudge-251393071.jpg",
+      "localImagePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/GinthersSwirls/research/images/doordash_lbv/hot-fudge-251393071.jpg",
+      "imageBytes": 62183,
+      "categories": [
+        "Toppings"
+      ]
+    }
+  ],
+  "customerReviewsSample": [
+    {
+      "id": "7569a70c-625e-4b47-ae55-2fccabe1acec",
+      "reviewerName": "Mellionie R",
+      "starRating": 5,
+      "ratingTag": "Loved",
+      "reviewedAt": "2024-06-30T23:20:32.082Z",
+      "reviewText": "The servings were huge. I'd buy a quart to serve 4 people. Great value for your money. The Cookie Dough Quart was amazing! My favorite by far!"
+    },
+    {
+      "id": "71f7b52f-ce64-45fd-b8e3-1b8403e22318",
+      "reviewerName": "JINCY G",
+      "starRating": 2,
+      "ratingTag": "Didn't like",
+      "reviewedAt": "2026-01-27T17:23:21.339Z",
+      "reviewText": "You guys should really mention sizes on your site. Your ice-cream tastes great but I ordered 3 flavors and got enough ice-cream to feed a village , for 18 dollars!!  I am from Canada and 18 dollars usually gets us small portions of ice-cream. This was a whole lot of wastage due to poor descriptions on your order page!"
+    },
+    {
+      "id": "a9727d92-4683-4186-8eab-c3ecc11b14e6",
+      "reviewerName": "Kimberly D",
+      "starRating": 4,
+      "ratingTag": "Liked",
+      "reviewedAt": "2023-07-21T21:19:33.297Z",
+      "reviewText": "Very yummy but doesn’t look like the photo they added AT ALL. It comes in a store bought quart 🤨 and came all melted :( but still good "
+    },
+    {
+      "id": "7d944581-79bf-4b9a-9670-e8fa77429078",
+      "reviewerName": "Lila A",
+      "starRating": 2,
+      "ratingTag": "Didn't like",
+      "reviewedAt": "2026-03-09T02:30:53.570Z",
+      "reviewText": "False advertised with the pictures. Ice cream was good but they show a picture of a brownie fudge sundae and then I get a tub of ice cream delivered."
+    },
+    {
+      "id": "28359621-649d-40bb-bb78-229fc0e8c8e2",
+      "reviewerName": "Alexa W",
+      "starRating": 5,
+      "ratingTag": "Loved",
+      "reviewedAt": "2022-08-27T22:40:40.646Z",
+      "reviewText": "The serving sizes are huge!"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is the Twistee Treat of Lake Buena Vista's address?",
+      "answer": "Twistee Treat of Lake Buena Vista is located at Twistee Treat Of Lake Buena Vista, 11947 S Apopka Vineland Rd, Orlando, FL 32836, USA. This is where you will go to get DoorDash Pickup orders, and where Dashers will go to get your DoorDash delivery orders."
+    },
+    {
+      "question": "Does Twistee Treat of Lake Buena Vista offer delivery or pickup?",
+      "answer": "You can browse Twistee Treat of Lake Buena Vista’s menu and place an order for both Delivery and Pickup on DoorDash. Twistee Treat of Lake Buena Vista may also offer delivery and pickup on their own or through other delivery services."
+    },
+    {
+      "question": "What are the most popular dishes at Twistee Treat of Lake Buena Vista?",
+      "answer": "The dishes most commonly ordered by DoorDash customers at Twistee Treat of Lake Buena Vista are Reese's Peanut Butter Cup Quart, Cookie Dough Quart and Cookies and Cream Quart."
+    },
+    {
+      "question": "Is Twistee Treat of Lake Buena Vista a DashPass eligible store?",
+      "answer": "Twistee Treat of Lake Buena Vista offers DashPass benefits like $0 delivery, reduced service fees, and $5 credits back on Pickup orders. If you want to know if a store is DashPass eligible, you can look for the DashPass icon next to their name."
+    }
+  ]
+}
