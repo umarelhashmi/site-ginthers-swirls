@@ -859,7 +859,7 @@ let currentDoorDashCat = 'all';
 let currentWindowTab = 'cones';
 let currentReviewTopic = 'all';
 
-function setActiveStore(storeKey, shouldScrollToMenu = false) {
+function setActiveStore(storeKey, shouldScrollToMenu = false, updateHash = true) {
   if (!STORES[storeKey]) return;
   currentStoreKey = storeKey;
   currentDoorDashCat = 'all';
@@ -868,7 +868,7 @@ function setActiveStore(storeKey, shouldScrollToMenu = false) {
   document.body.setAttribute('data-active-store', storeKey);
 
   // Update URL hash cleanly without jumping
-  if (history.replaceState) {
+  if (updateHash && history.replaceState) {
     history.replaceState(null, '', '#' + storeKey);
   }
 
@@ -1156,6 +1156,6 @@ document.addEventListener('DOMContentLoaded', () => {
   // Check initial URL hash (#ginthers, #ocoee, #lbv), defaulting to ginthers
   const hash = (window.location.hash || '').replace('#', '').toLowerCase();
   const initialStore = STORES[hash] ? hash : 'ginthers';
-  setActiveStore(initialStore, false);
+  setActiveStore(initialStore, false, Boolean(STORES[hash]));
   renderReviews();
 });
