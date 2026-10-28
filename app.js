@@ -9,7 +9,7 @@ const STORES = {
     name: "Ginther's Swirls Ice Cream",
     shortLabel: "Ginther's Swirls · International Drive",
     subtitle: "11036 International Dr · Behind Wawa next to Applebee's · Drive-Thru & Patio",
-    tag: "Default Location · Opened Mid-January 2014",
+    tag: "Home Location · Opened Mid-January 2014",
     address: "11036 International Drive, Orlando, FL 32821",
     phoneDisplay: "(407) 477-1212",
     phoneHref: "tel:+14074771212",
