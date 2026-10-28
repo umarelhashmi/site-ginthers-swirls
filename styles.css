@@ -49,6 +49,9 @@ html {
   color: var(--fudge-navy);
   font-family: var(--font-sans);
   -webkit-font-smoothing: antialiased;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
 }
 
 body {
@@ -58,6 +61,8 @@ body {
     var(--vanilla-cream);
   color: var(--fudge-navy);
   line-height: 1.45;
+  width: 100%;
+  max-width: 100%;
   overflow-x: hidden;
 }
 
@@ -133,7 +138,9 @@ img {
 }
 
 .brand-titles {
+  flex: 1;
   min-width: 0;
+  overflow: hidden;
 }
 
 .brand-est-pill {
@@ -1570,15 +1577,17 @@ img {
   }
 
   .parlor-workspace {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
   }
 
   .parlor-totem {
     position: static;
+    min-width: 0;
+    max-width: 100%;
   }
 
   .about-split-layout {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
   }
 }
 
@@ -1590,17 +1599,20 @@ img {
   .parlor-first-view {
     height: clamp(540px, 100svh, 844px);
     max-height: 844px;
+    width: 100%;
+    max-width: 100%;
   }
 
   .awning-inner {
     padding: 8px 10px;
     gap: 6px;
     width: 100%;
-    max-width: 100vw;
+    max-width: 100%;
   }
 
   .brand-lockup {
     width: 100%;
+    max-width: 100%;
   }
 
   .brand-logo-img {
@@ -1614,6 +1626,10 @@ img {
 
   .brand-sub-location {
     font-size: 0.68rem;
+    white-space: normal;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
   }
 
   .store-switcher-pillbox {
