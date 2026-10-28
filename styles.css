@@ -125,8 +125,8 @@ img {
 }
 
 .brand-logo-img {
-  width: 84px;
-  height: 84px;
+  width: 92px;
+  height: 92px;
   object-fit: contain;
   flex-shrink: 0;
   filter: drop-shadow(0 4px 10px rgba(0, 0, 0, 0.35));
@@ -497,8 +497,8 @@ img {
 }
 
 .totem-logo {
-  width: 124px;
-  height: 124px;
+  width: 136px;
+  height: 136px;
   object-fit: contain;
   filter: drop-shadow(0 6px 14px rgba(0, 0, 0, 0.35));
 }
@@ -1463,8 +1463,8 @@ img {
 }
 
 .footer-logo-img {
-  width: 96px;
-  height: 96px;
+  width: 104px;
+  height: 104px;
   object-fit: contain;
   flex-shrink: 0;
   filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.35));
