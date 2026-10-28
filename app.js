@@ -18,11 +18,11 @@ const STORES = {
     hoursBadge: "Open Daily · Sun–Thu 11:00 AM – 10:30 PM · Fri–Sat till 11:00 PM",
     ratingBadge: "★ 4.6 Google (1,513) · ★ 4.8 DoorDash (327)",
     orderUrl: "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFiYnJrNzEwaBgAOgMI8A0%3D",
-    orderBtnLabel: "Order Online (Pick Service)",
+    orderBtnLabel: "Order Online",
     orderHint: "Pick your preferred ordering service (DoorDash, Uber Eats, Postmates, Pickup/Delivery)",
     facebookUrl: "https://www.facebook.com/GinthersSwirls/",
     instagramUrl: "https://instagram.com/ginthersswirls",
-    mapsUrl: "https://www.google.com/maps/place/Ginther's+Swirls+Ice+Cream/@28.4051444,-81.4567778,18z",
+    mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ginther%27s+Swirls+Ice+Cream+11036+International+Dr+Orlando+FL+32821",
     storePhoto: "assets/images/site_originals/twisteetreat/ginthers_swirls_daytime_pic.webp",
     features: [
       "Drive-Thru Window",
@@ -254,7 +254,7 @@ const STORES = {
     hoursBadge: "Open Daily · Sun–Thu 10:30 AM – 10:30 PM · Fri–Sat till 11:00 PM",
     ratingBadge: "★ 4.7 Google (2,540) · ★ 4.8 DoorDash (500+)",
     orderUrl: "https://www.doordash.com/store/255046/",
-    orderBtnLabel: "Order Online (DoorDash)",
+    orderBtnLabel: "Order Online",
     orderHint: "Order Twistee Treat of Ocoee delivery or pickup on DoorDash",
     facebookUrl: "https://www.facebook.com/Twistee-Treat-of-Ocoee-153952792074/",
     instagramUrl: "https://instagram.com/twisteetreatocoee",
@@ -508,11 +508,11 @@ const STORES = {
     hoursBadge: "Open Daily · Sun–Thu 11:00 AM – 10:30 PM · Fri–Sat till 11:00 PM",
     ratingBadge: "★ 4.7 Google (1,609) · ★ 4.7 DoorDash (227)",
     orderUrl: "https://www.doordash.com/store/474439/",
-    orderBtnLabel: "Order Online (DoorDash)",
+    orderBtnLabel: "Order Online",
     orderHint: "Order Twistee Treat of LBV delivery or pickup on DoorDash",
     facebookUrl: "https://www.facebook.com/TwisteeLBV/",
     instagramUrl: "https://instagram.com/twisteetreatlbv",
-    mapsUrl: "https://www.google.com/maps/search/?api=1&query=Twistee+Treat+of+Lake+Buena+Vista+11947+South+Apopka+Vineland+Road+Orlando+FL+32836",
+    mapsUrl: "https://www.google.com/maps/search/?api=1&query=Twistee+Treat+11947+S+Apopka+Vineland+Rd+Orlando+FL+32836",
     storePhoto: "assets/images/site_originals/twisteetreat/lbv_store_pic_0001.webp",
     features: [
       "Indoor Cafe Seating",
@@ -907,8 +907,10 @@ function setActiveStore(storeKey, shouldScrollToMenu = false) {
 
   // Update Left Sticky Totem
   const totemPhoto = document.getElementById('totemStorePhoto');
-  totemPhoto.src = store.storePhoto;
-  totemPhoto.alt = store.name + ' storefront';
+  if (totemPhoto) {
+    totemPhoto.src = store.storePhoto;
+    totemPhoto.alt = store.name + ' storefront';
+  }
   document.getElementById('totemStoreTag').textContent = store.tag;
   document.getElementById('totemStoreName').textContent = store.name;
   document.getElementById('totemStoreAddress').textContent = store.address;
@@ -1084,9 +1086,40 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   document.querySelectorAll('.store-view-menu-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      setActiveStore(btn.getAttribute('data-store'), true);
+    btn.addEventListener('click', e => {
+      e.stopPropagation();
+      setActiveStore(btn.getAttribute('data-store'), false);
     });
+  });
+
+  // Make the entire right-side Store Directory Cards clickable to switch store (#ginthers, #ocoee, #lbv)
+  document.querySelectorAll('.store-directory-card').forEach(card => {
+    card.addEventListener('click', e => {
+      // Do not intercept clicks on external links (Order Online, FB, IG, Phone)
+      if (e.target.closest('a')) return;
+      const storeKey = card.getAttribute('data-store-card');
+      if (storeKey) {
+        setActiveStore(storeKey, false);
+      }
+    });
+
+    card.addEventListener('keydown', e => {
+      if (e.target !== card) return;
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        const storeKey = card.getAttribute('data-store-card');
+        if (storeKey) {
+          setActiveStore(storeKey, false);
+        }
+      }
+    });
+  });
+
+  window.addEventListener('hashchange', () => {
+    const hash = (window.location.hash || '').replace('#', '').toLowerCase();
+    if (STORES[hash] && hash !== currentStoreKey) {
+      setActiveStore(hash, false);
+    }
   });
 
   // Bind Window Menu Board Tabs

@@ -36,8 +36,8 @@
             src="assets/images/logo/ginthers-logo.webp"
             alt="Ginther Ice Cream Est. 1994 circular wooden badge logo"
             class="brand-logo-img"
-            width="64"
-            height="64"
+            width="84"
+            height="84"
             fetchpriority="high"
           />
           <div class="brand-titles">
@@ -177,26 +177,16 @@
     <!-- LEFT STICKY DRIVE-THRU & PARLOR TOTEM -->
     <aside class="parlor-totem" aria-label="Active Store Information and Ordering Totem">
       <div class="totem-card">
-        <!-- Circular Wood Sign Emblem + Active Store Porthole -->
+        <!-- Circular Wood Sign Emblem -->
         <div class="totem-emblem-row">
           <img
             src="assets/images/logo/ginthers-logo.webp"
             alt="Ginther Ice Cream Est. 1994"
             class="totem-logo"
-            width="84"
-            height="84"
+            width="124"
+            height="124"
             loading="lazy"
           />
-          <div class="totem-store-porthole">
-            <img
-              src="assets/images/site_originals/twisteetreat/ginthers_swirls_daytime_pic.webp"
-              alt="Ginther's Swirls storefront"
-              id="totemStorePhoto"
-              width="84"
-              height="84"
-              loading="lazy"
-            />
-          </div>
         </div>
 
         <!-- Store Switcher Tabs Inside Totem -->
@@ -242,7 +232,7 @@
             class="totem-order-btn"
             id="totemOrderBtn"
           >
-            <span id="totemOrderBtnText">Order Online (Pick Service)</span>
+            <span id="totemOrderBtnText">Order Online</span>
           </a>
           <p class="totem-order-hint" id="totemOrderHint">Choose your preferred delivery or pickup service on Google</p>
 
@@ -271,7 +261,7 @@
               <span>Instagram</span>
             </a>
             <a
-              href="https://www.google.com/maps/place/Ginther's+Swirls+Ice+Cream/@28.4051444,-81.4567778,18z"
+              href="https://www.google.com/maps/search/?api=1&amp;query=Ginther%27s+Swirls+Ice+Cream+11036+International+Dr+Orlando+FL+32821"
               target="_blank"
               rel="noopener noreferrer"
               class="totem-social-btn"
@@ -327,7 +317,7 @@
             class="cabinet-order-pill"
             id="cabinetOrderLink"
           >
-            Order Online Now
+            Order Online
           </a>
         </div>
 
@@ -347,7 +337,6 @@
             <span class="parlor-script-tag">Original Shop Photos</span>
             <h2 class="cabinet-heading" id="sampleTrayHeading">A Sample of our Menu Items</h2>
           </div>
-          <span class="tray-scroll-hint">Tap any treat to view close-up</span>
         </div>
 
         <!-- Horizontal Parlor Medallion Flight (Compact height so no single image ever hogs the screen) -->
@@ -477,10 +466,9 @@
           <!-- Right Column: 3 Family Stores Interactive Switcher Cards with Original Storefront Photos -->
           <div class="three-stores-stack" aria-label="Our 3 Orlando &amp; Ocoee Locations">
             <!-- Card 1: Ginther's Swirls -->
-            <article class="store-directory-card is-selected" data-store-card="ginthers">
+            <article class="store-directory-card is-selected" data-store-card="ginthers" role="button" tabindex="0" aria-label="Switch to Ginther's Swirls Ice Cream">
               <div class="store-card-thumb-wrap">
                 <img src="assets/images/site_originals/twisteetreat/ginthers_swirls_daytime_pic.webp" alt="Ginther's Swirls Ice Cream building with patio umbrellas and soft-serve cone statues" class="store-card-thumb" width="96" height="96" loading="lazy" />
-                <img src="assets/images/site_originals/ginthers/header_1397759894.webp" alt="Ginther's Swirls neon sign at night" class="store-card-thumb-secondary" width="48" height="48" loading="lazy" />
               </div>
               <div class="store-card-body">
                 <div class="store-card-title-row">
@@ -492,14 +480,18 @@
                 <div class="store-card-links">
                   <button type="button" class="store-view-menu-btn" data-store="ginthers">View Store Menu</button>
                   <a href="https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFiYnJrNzEwaBgAOgMI8A0%3D" target="_blank" rel="noopener noreferrer" class="store-direct-order-link">Order Online</a>
-                  <a href="https://www.facebook.com/GinthersSwirls/" target="_blank" rel="noopener noreferrer" class="store-social-mini">FB</a>
-                  <a href="https://instagram.com/ginthersswirls" target="_blank" rel="noopener noreferrer" class="store-social-mini">IG</a>
+                  <a href="https://www.facebook.com/GinthersSwirls/" target="_blank" rel="noopener noreferrer" class="store-social-mini" aria-label="Ginther's Swirls Facebook">
+                    <svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
+                  </a>
+                  <a href="https://instagram.com/ginthersswirls" target="_blank" rel="noopener noreferrer" class="store-social-mini" aria-label="Ginther's Swirls Instagram">
+                    <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+                  </a>
                 </div>
               </div>
             </article>
 
             <!-- Card 2: Twistee Treat of Ocoee -->
-            <article class="store-directory-card" data-store-card="ocoee">
+            <article class="store-directory-card" data-store-card="ocoee" role="button" tabindex="0" aria-label="Switch to Twistee Treat of Ocoee">
               <div class="store-card-thumb-wrap">
                 <img src="assets/images/site_originals/twisteetreat/ocoee_store_pic_cropped_031417.webp" alt="Twistee Treat of Ocoee giant ice-cream cone building" class="store-card-thumb" width="96" height="96" loading="lazy" />
               </div>
@@ -514,14 +506,18 @@
                 <div class="store-card-links">
                   <button type="button" class="store-view-menu-btn" data-store="ocoee">View Store Menu</button>
                   <a href="https://www.doordash.com/store/255046/" target="_blank" rel="noopener noreferrer" class="store-direct-order-link">Order Online</a>
-                  <a href="https://www.facebook.com/Twistee-Treat-of-Ocoee-153952792074/" target="_blank" rel="noopener noreferrer" class="store-social-mini">FB</a>
-                  <a href="https://instagram.com/twisteetreatocoee" target="_blank" rel="noopener noreferrer" class="store-social-mini">IG</a>
+                  <a href="https://www.facebook.com/Twistee-Treat-of-Ocoee-153952792074/" target="_blank" rel="noopener noreferrer" class="store-social-mini" aria-label="Twistee Treat of Ocoee Facebook">
+                    <svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
+                  </a>
+                  <a href="https://instagram.com/twisteetreatocoee" target="_blank" rel="noopener noreferrer" class="store-social-mini" aria-label="Twistee Treat of Ocoee Instagram">
+                    <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+                  </a>
                 </div>
               </div>
             </article>
 
             <!-- Card 3: Twistee Treat of LBV -->
-            <article class="store-directory-card" data-store-card="lbv">
+            <article class="store-directory-card" data-store-card="lbv" role="button" tabindex="0" aria-label="Switch to Twistee Treat of Lake Buena Vista">
               <div class="store-card-thumb-wrap">
                 <img src="assets/images/site_originals/twisteetreat/lbv_store_pic_0001.webp" alt="Twistee Treat of Lake Buena Vista storefront" class="store-card-thumb" width="96" height="96" loading="lazy" />
               </div>
@@ -536,8 +532,12 @@
                 <div class="store-card-links">
                   <button type="button" class="store-view-menu-btn" data-store="lbv">View Store Menu</button>
                   <a href="https://www.doordash.com/store/474439/" target="_blank" rel="noopener noreferrer" class="store-direct-order-link">Order Online</a>
-                  <a href="https://www.facebook.com/TwisteeLBV/" target="_blank" rel="noopener noreferrer" class="store-social-mini">FB</a>
-                  <a href="https://instagram.com/twisteetreatlbv" target="_blank" rel="noopener noreferrer" class="store-social-mini">IG</a>
+                  <a href="https://www.facebook.com/TwisteeLBV/" target="_blank" rel="noopener noreferrer" class="store-social-mini" aria-label="Twistee Treat of LBV Facebook">
+                    <svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
+                  </a>
+                  <a href="https://instagram.com/twisteetreatlbv" target="_blank" rel="noopener noreferrer" class="store-social-mini" aria-label="Twistee Treat of LBV Instagram">
+                    <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+                  </a>
                 </div>
               </div>
             </article>
@@ -589,7 +589,7 @@
       <footer class="parlor-footer" id="contact">
         <div class="footer-top-grid">
           <div class="footer-brand-col">
-            <img src="assets/images/logo/ginthers-logo.webp" alt="Ginther Ice Cream Est. 1994" width="76" height="76" loading="lazy" />
+            <img src="assets/images/logo/ginthers-logo.webp" alt="Ginther Ice Cream Est. 1994" class="footer-logo-img" width="96" height="96" loading="lazy" />
             <div>
               <h3>The Ginther Family of Ice Cream</h3>
               <p>Family-owned and operated since 1994 · Serving Orlando, International Drive, Ocoee &amp; Lake Buena Vista.</p>
@@ -600,29 +600,62 @@
             </div>
           </div>
 
-          <!-- Complete Linktree Social & Application Directory -->
-          <div class="footer-linktree-grid" aria-label="Official Social Links and Job Application">
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdhErERU75NkssUfJaZ2NQpuGzI1VYHs2BNJug-Hps2rG1mng/viewform" target="_blank" rel="noopener noreferrer" class="lt-chip is-apply">
-              Apply Now! (Job Application Form)
-            </a>
-            <a href="https://www.facebook.com/GinthersSwirls/" target="_blank" rel="noopener noreferrer" class="lt-chip">
-              Ginther’s Swirls Facebook
-            </a>
-            <a href="https://instagram.com/ginthersswirls" target="_blank" rel="noopener noreferrer" class="lt-chip">
-              Ginther’s Swirls Instagram
-            </a>
-            <a href="https://www.facebook.com/Twistee-Treat-of-Ocoee-153952792074/" target="_blank" rel="noopener noreferrer" class="lt-chip">
-              Twistee Treat of Ocoee Facebook
-            </a>
-            <a href="https://instagram.com/twisteetreatocoee" target="_blank" rel="noopener noreferrer" class="lt-chip">
-              Twistee Treat of Ocoee Instagram
-            </a>
-            <a href="https://www.facebook.com/TwisteeLBV/" target="_blank" rel="noopener noreferrer" class="lt-chip">
-              Twistee Treat LBV Facebook
-            </a>
-            <a href="https://instagram.com/twisteetreatlbv" target="_blank" rel="noopener noreferrer" class="lt-chip">
-              Twistee Treat of LBV Instagram
-            </a>
+          <!-- Grouped Store Socials (Ginther's, Twistee Treat Ocoee, Twistee Treat LBV) + Job Application -->
+          <div class="footer-social-groups" aria-label="Official Social Links by Store and Job Application">
+            <!-- Group 1: Ginther's Swirls -->
+            <div class="footer-store-group">
+              <span class="footer-group-label">Ginther’s Swirls</span>
+              <div class="footer-group-links">
+                <a href="https://www.facebook.com/GinthersSwirls/" target="_blank" rel="noopener noreferrer" class="lt-chip">
+                  <svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
+                  <span>Facebook</span>
+                </a>
+                <a href="https://instagram.com/ginthersswirls" target="_blank" rel="noopener noreferrer" class="lt-chip">
+                  <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+                  <span>Instagram</span>
+                </a>
+              </div>
+            </div>
+
+            <!-- Group 2: Twistee Treat of Ocoee -->
+            <div class="footer-store-group">
+              <span class="footer-group-label">Twistee Treat of Ocoee</span>
+              <div class="footer-group-links">
+                <a href="https://www.facebook.com/Twistee-Treat-of-Ocoee-153952792074/" target="_blank" rel="noopener noreferrer" class="lt-chip">
+                  <svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
+                  <span>Facebook</span>
+                </a>
+                <a href="https://instagram.com/twisteetreatocoee" target="_blank" rel="noopener noreferrer" class="lt-chip">
+                  <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+                  <span>Instagram</span>
+                </a>
+              </div>
+            </div>
+
+            <!-- Group 3: Twistee Treat of LBV -->
+            <div class="footer-store-group">
+              <span class="footer-group-label">Twistee Treat of LBV</span>
+              <div class="footer-group-links">
+                <a href="https://www.facebook.com/TwisteeLBV/" target="_blank" rel="noopener noreferrer" class="lt-chip">
+                  <svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
+                  <span>Facebook</span>
+                </a>
+                <a href="https://instagram.com/twisteetreatlbv" target="_blank" rel="noopener noreferrer" class="lt-chip">
+                  <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+                  <span>Instagram</span>
+                </a>
+              </div>
+            </div>
+
+            <!-- Job Application Form -->
+            <div class="footer-store-group footer-apply-group">
+              <span class="footer-group-label">Careers</span>
+              <div class="footer-group-links">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdhErERU75NkssUfJaZ2NQpuGzI1VYHs2BNJug-Hps2rG1mng/viewform" target="_blank" rel="noopener noreferrer" class="lt-chip is-apply">
+                  Apply Now! (Job Application Form)
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </footer>
@@ -654,7 +687,7 @@
       class="m-dock-order"
       id="mobileDockOrder"
     >
-      Order
+      Order Online
     </a>
   </nav>
 
